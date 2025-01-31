@@ -1,0 +1,115 @@
+{
+    "folder": "203",
+    "audio_files": [
+        {
+            "file": "203_1.wav",
+            "duration": 32.0
+        },
+        {
+            "file": "203_2.wav",
+            "duration": 28.96
+        },
+        {
+            "file": "203_3.wav",
+            "duration": 31.76
+        },
+        {
+            "file": "203_4.wav",
+            "duration": 26.44
+        },
+        {
+            "file": "203_5.wav",
+            "duration": 25.48
+        },
+        {
+            "file": "203_6.wav",
+            "duration": 24.05
+        },
+        {
+            "file": "203_7.wav",
+            "duration": 32.62
+        },
+        {
+            "file": "203_8.wav",
+            "duration": 30.85
+        },
+        {
+            "file": "203_9.wav",
+            "duration": 33.32
+        },
+        {
+            "file": "203_10.wav",
+            "duration": 31.09
+        },
+        {
+            "file": "203_11.wav",
+            "duration": 32.52
+        },
+        {
+            "file": "203_12.wav",
+            "duration": 29.51
+        },
+        {
+            "file": "203_13.wav",
+            "duration": 26.4
+        },
+        {
+            "file": "203_14.wav",
+            "duration": 31.78
+        },
+        {
+            "file": "203_15.wav",
+            "duration": 36.7
+        },
+        {
+            "file": "203_16.wav",
+            "duration": 29.56
+        },
+        {
+            "file": "203_17.wav",
+            "duration": 36.88
+        },
+        {
+            "file": "203_18.wav",
+            "duration": 33.95
+        },
+        {
+            "file": "203_19.wav",
+            "duration": 29.76
+        },
+        {
+            "file": "203_20.wav",
+            "duration": 29.66
+        },
+        {
+            "file": "203_21.wav",
+            "duration": 30.66
+        },
+        {
+            "file": "203_22.wav",
+            "duration": 25.8
+        },
+        {
+            "file": "203_23.wav",
+            "duration": 22.4
+        },
+        {
+            "file": "203_24.wav",
+            "duration": 32.53
+        },
+        {
+            "file": "203_25.wav",
+            "duration": 36.44
+        },
+        {
+            "file": "203_26.wav",
+            "duration": 36.93
+        },
+        {
+            "file": "203_27.wav",
+            "duration": 11.14
+        }
+    ],
+    "total_files": 27,
+    "total_duration": 809.19
+}

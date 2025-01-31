@@ -1,0 +1,107 @@
+{
+    "folder": "415",
+    "audio_files": [
+        {
+            "file": "415_1.wav",
+            "duration": 28.16
+        },
+        {
+            "file": "415_2.wav",
+            "duration": 25.8
+        },
+        {
+            "file": "415_3.wav",
+            "duration": 27.16
+        },
+        {
+            "file": "415_4.wav",
+            "duration": 28.67
+        },
+        {
+            "file": "415_5.wav",
+            "duration": 33.31
+        },
+        {
+            "file": "415_6.wav",
+            "duration": 29.36
+        },
+        {
+            "file": "415_7.wav",
+            "duration": 27.8
+        },
+        {
+            "file": "415_8.wav",
+            "duration": 29.31
+        },
+        {
+            "file": "415_9.wav",
+            "duration": 28.22
+        },
+        {
+            "file": "415_10.wav",
+            "duration": 34.19
+        },
+        {
+            "file": "415_11.wav",
+            "duration": 29.73
+        },
+        {
+            "file": "415_12.wav",
+            "duration": 36.19
+        },
+        {
+            "file": "415_13.wav",
+            "duration": 31.32
+        },
+        {
+            "file": "415_14.wav",
+            "duration": 31.27
+        },
+        {
+            "file": "415_15.wav",
+            "duration": 34.01
+        },
+        {
+            "file": "415_16.wav",
+            "duration": 32.57
+        },
+        {
+            "file": "415_17.wav",
+            "duration": 30.88
+        },
+        {
+            "file": "415_18.wav",
+            "duration": 29.19
+        },
+        {
+            "file": "415_19.wav",
+            "duration": 23.2
+        },
+        {
+            "file": "415_20.wav",
+            "duration": 29.85
+        },
+        {
+            "file": "415_21.wav",
+            "duration": 31.92
+        },
+        {
+            "file": "415_22.wav",
+            "duration": 30.57
+        },
+        {
+            "file": "415_23.wav",
+            "duration": 26.22
+        },
+        {
+            "file": "415_24.wav",
+            "duration": 35.64
+        },
+        {
+            "file": "415_25.wav",
+            "duration": 2.55
+        }
+    ],
+    "total_files": 25,
+    "total_duration": 727.09
+}

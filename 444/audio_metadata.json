@@ -1,0 +1,91 @@
+{
+    "folder": "444",
+    "audio_files": [
+        {
+            "file": "444_1.wav",
+            "duration": 32.53
+        },
+        {
+            "file": "444_2.wav",
+            "duration": 31.97
+        },
+        {
+            "file": "444_3.wav",
+            "duration": 25.42
+        },
+        {
+            "file": "444_4.wav",
+            "duration": 31.51
+        },
+        {
+            "file": "444_5.wav",
+            "duration": 25.44
+        },
+        {
+            "file": "444_6.wav",
+            "duration": 29.88
+        },
+        {
+            "file": "444_7.wav",
+            "duration": 36.85
+        },
+        {
+            "file": "444_8.wav",
+            "duration": 27.36
+        },
+        {
+            "file": "444_9.wav",
+            "duration": 27.05
+        },
+        {
+            "file": "444_10.wav",
+            "duration": 27.69
+        },
+        {
+            "file": "444_11.wav",
+            "duration": 16.01
+        },
+        {
+            "file": "444_12.wav",
+            "duration": 28.22
+        },
+        {
+            "file": "444_13.wav",
+            "duration": 36.47
+        },
+        {
+            "file": "444_14.wav",
+            "duration": 31.88
+        },
+        {
+            "file": "444_15.wav",
+            "duration": 27.99
+        },
+        {
+            "file": "444_16.wav",
+            "duration": 33.13
+        },
+        {
+            "file": "444_17.wav",
+            "duration": 30.62
+        },
+        {
+            "file": "444_18.wav",
+            "duration": 30.9
+        },
+        {
+            "file": "444_19.wav",
+            "duration": 31.47
+        },
+        {
+            "file": "444_20.wav",
+            "duration": 33.34
+        },
+        {
+            "file": "444_21.wav",
+            "duration": 3.2
+        }
+    ],
+    "total_files": 21,
+    "total_duration": 598.93
+}

@@ -1,0 +1,95 @@
+{
+    "folder": "358",
+    "audio_files": [
+        {
+            "file": "358_1.wav",
+            "duration": 36.26
+        },
+        {
+            "file": "358_2.wav",
+            "duration": 25.09
+        },
+        {
+            "file": "358_3.wav",
+            "duration": 23.71
+        },
+        {
+            "file": "358_4.wav",
+            "duration": 31.86
+        },
+        {
+            "file": "358_5.wav",
+            "duration": 30.85
+        },
+        {
+            "file": "358_6.wav",
+            "duration": 34.66
+        },
+        {
+            "file": "358_7.wav",
+            "duration": 34.52
+        },
+        {
+            "file": "358_8.wav",
+            "duration": 33.05
+        },
+        {
+            "file": "358_9.wav",
+            "duration": 35.33
+        },
+        {
+            "file": "358_10.wav",
+            "duration": 29.85
+        },
+        {
+            "file": "358_11.wav",
+            "duration": 29.05
+        },
+        {
+            "file": "358_12.wav",
+            "duration": 30.82
+        },
+        {
+            "file": "358_13.wav",
+            "duration": 30.54
+        },
+        {
+            "file": "358_14.wav",
+            "duration": 39.23
+        },
+        {
+            "file": "358_15.wav",
+            "duration": 28.29
+        },
+        {
+            "file": "358_16.wav",
+            "duration": 42.09
+        },
+        {
+            "file": "358_17.wav",
+            "duration": 30.95
+        },
+        {
+            "file": "358_18.wav",
+            "duration": 29.19
+        },
+        {
+            "file": "358_19.wav",
+            "duration": 27.78
+        },
+        {
+            "file": "358_20.wav",
+            "duration": 37.84
+        },
+        {
+            "file": "358_21.wav",
+            "duration": 37.77
+        },
+        {
+            "file": "358_22.wav",
+            "duration": 31.27
+        }
+    ],
+    "total_files": 22,
+    "total_duration": 710.0
+}

@@ -1,0 +1,83 @@
+{
+    "folder": "320",
+    "audio_files": [
+        {
+            "file": "320_1.wav",
+            "duration": 34.65
+        },
+        {
+            "file": "320_2.wav",
+            "duration": 26.54
+        },
+        {
+            "file": "320_3.wav",
+            "duration": 34.33
+        },
+        {
+            "file": "320_4.wav",
+            "duration": 30.2
+        },
+        {
+            "file": "320_5.wav",
+            "duration": 36.28
+        },
+        {
+            "file": "320_6.wav",
+            "duration": 33.65
+        },
+        {
+            "file": "320_7.wav",
+            "duration": 34.48
+        },
+        {
+            "file": "320_8.wav",
+            "duration": 33.31
+        },
+        {
+            "file": "320_9.wav",
+            "duration": 34.09
+        },
+        {
+            "file": "320_10.wav",
+            "duration": 36.16
+        },
+        {
+            "file": "320_11.wav",
+            "duration": 32.29
+        },
+        {
+            "file": "320_12.wav",
+            "duration": 29.51
+        },
+        {
+            "file": "320_13.wav",
+            "duration": 35.73
+        },
+        {
+            "file": "320_14.wav",
+            "duration": 31.69
+        },
+        {
+            "file": "320_15.wav",
+            "duration": 35.57
+        },
+        {
+            "file": "320_16.wav",
+            "duration": 29.69
+        },
+        {
+            "file": "320_17.wav",
+            "duration": 39.56
+        },
+        {
+            "file": "320_18.wav",
+            "duration": 33.79
+        },
+        {
+            "file": "320_19.wav",
+            "duration": 31.27
+        }
+    ],
+    "total_files": 19,
+    "total_duration": 632.79
+}

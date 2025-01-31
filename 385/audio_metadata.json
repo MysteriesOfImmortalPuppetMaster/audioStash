@@ -1,0 +1,75 @@
+{
+    "folder": "385",
+    "audio_files": [
+        {
+            "file": "385_1.wav",
+            "duration": 33.9
+        },
+        {
+            "file": "385_2.wav",
+            "duration": 26.36
+        },
+        {
+            "file": "385_3.wav",
+            "duration": 38.8
+        },
+        {
+            "file": "385_4.wav",
+            "duration": 34.39
+        },
+        {
+            "file": "385_5.wav",
+            "duration": 33.45
+        },
+        {
+            "file": "385_6.wav",
+            "duration": 34.79
+        },
+        {
+            "file": "385_7.wav",
+            "duration": 37.53
+        },
+        {
+            "file": "385_8.wav",
+            "duration": 29.51
+        },
+        {
+            "file": "385_9.wav",
+            "duration": 31.03
+        },
+        {
+            "file": "385_10.wav",
+            "duration": 35.45
+        },
+        {
+            "file": "385_11.wav",
+            "duration": 31.43
+        },
+        {
+            "file": "385_12.wav",
+            "duration": 29.85
+        },
+        {
+            "file": "385_13.wav",
+            "duration": 36.64
+        },
+        {
+            "file": "385_14.wav",
+            "duration": 33.73
+        },
+        {
+            "file": "385_15.wav",
+            "duration": 35.6
+        },
+        {
+            "file": "385_16.wav",
+            "duration": 33.12
+        },
+        {
+            "file": "385_17.wav",
+            "duration": 10.49
+        }
+    ],
+    "total_files": 17,
+    "total_duration": 546.07
+}

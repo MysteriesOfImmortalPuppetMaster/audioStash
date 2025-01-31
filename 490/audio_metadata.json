@@ -1,0 +1,107 @@
+{
+    "folder": "490",
+    "audio_files": [
+        {
+            "file": "490_1.wav",
+            "duration": 33.06
+        },
+        {
+            "file": "490_2.wav",
+            "duration": 36.31
+        },
+        {
+            "file": "490_3.wav",
+            "duration": 28.15
+        },
+        {
+            "file": "490_4.wav",
+            "duration": 30.95
+        },
+        {
+            "file": "490_5.wav",
+            "duration": 28.81
+        },
+        {
+            "file": "490_6.wav",
+            "duration": 31.31
+        },
+        {
+            "file": "490_7.wav",
+            "duration": 27.94
+        },
+        {
+            "file": "490_8.wav",
+            "duration": 27.37
+        },
+        {
+            "file": "490_9.wav",
+            "duration": 16.25
+        },
+        {
+            "file": "490_10.wav",
+            "duration": 32.02
+        },
+        {
+            "file": "490_11.wav",
+            "duration": 31.86
+        },
+        {
+            "file": "490_12.wav",
+            "duration": 16.15
+        },
+        {
+            "file": "490_13.wav",
+            "duration": 37.38
+        },
+        {
+            "file": "490_14.wav",
+            "duration": 27.04
+        },
+        {
+            "file": "490_15.wav",
+            "duration": 30.76
+        },
+        {
+            "file": "490_16.wav",
+            "duration": 27.42
+        },
+        {
+            "file": "490_17.wav",
+            "duration": 29.06
+        },
+        {
+            "file": "490_18.wav",
+            "duration": 28.8
+        },
+        {
+            "file": "490_19.wav",
+            "duration": 28.66
+        },
+        {
+            "file": "490_20.wav",
+            "duration": 39.77
+        },
+        {
+            "file": "490_21.wav",
+            "duration": 31.68
+        },
+        {
+            "file": "490_22.wav",
+            "duration": 34.03
+        },
+        {
+            "file": "490_23.wav",
+            "duration": 30.45
+        },
+        {
+            "file": "490_24.wav",
+            "duration": 35.59
+        },
+        {
+            "file": "490_25.wav",
+            "duration": 10.34
+        }
+    ],
+    "total_files": 25,
+    "total_duration": 731.16
+}

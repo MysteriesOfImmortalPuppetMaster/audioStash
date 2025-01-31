@@ -1,0 +1,87 @@
+{
+    "folder": "468",
+    "audio_files": [
+        {
+            "file": "468_1.wav",
+            "duration": 37.97
+        },
+        {
+            "file": "468_2.wav",
+            "duration": 36.05
+        },
+        {
+            "file": "468_3.wav",
+            "duration": 32.56
+        },
+        {
+            "file": "468_4.wav",
+            "duration": 28.38
+        },
+        {
+            "file": "468_5.wav",
+            "duration": 11.73
+        },
+        {
+            "file": "468_6.wav",
+            "duration": 29.44
+        },
+        {
+            "file": "468_7.wav",
+            "duration": 33.08
+        },
+        {
+            "file": "468_8.wav",
+            "duration": 39.34
+        },
+        {
+            "file": "468_9.wav",
+            "duration": 19.78
+        },
+        {
+            "file": "468_10.wav",
+            "duration": 36.93
+        },
+        {
+            "file": "468_11.wav",
+            "duration": 35.27
+        },
+        {
+            "file": "468_12.wav",
+            "duration": 29.51
+        },
+        {
+            "file": "468_13.wav",
+            "duration": 29.98
+        },
+        {
+            "file": "468_14.wav",
+            "duration": 32.11
+        },
+        {
+            "file": "468_15.wav",
+            "duration": 47.04
+        },
+        {
+            "file": "468_16.wav",
+            "duration": 32.9
+        },
+        {
+            "file": "468_17.wav",
+            "duration": 19.91
+        },
+        {
+            "file": "468_18.wav",
+            "duration": 19.8
+        },
+        {
+            "file": "468_19.wav",
+            "duration": 41.97
+        },
+        {
+            "file": "468_20.wav",
+            "duration": 5.33
+        }
+    ],
+    "total_files": 20,
+    "total_duration": 599.08
+}

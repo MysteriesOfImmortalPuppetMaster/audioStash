@@ -1,0 +1,103 @@
+{
+    "folder": "280",
+    "audio_files": [
+        {
+            "file": "280_1.wav",
+            "duration": 37.43
+        },
+        {
+            "file": "280_2.wav",
+            "duration": 34.2
+        },
+        {
+            "file": "280_3.wav",
+            "duration": 26.39
+        },
+        {
+            "file": "280_4.wav",
+            "duration": 27.56
+        },
+        {
+            "file": "280_5.wav",
+            "duration": 28.9
+        },
+        {
+            "file": "280_6.wav",
+            "duration": 26.73
+        },
+        {
+            "file": "280_7.wav",
+            "duration": 32.85
+        },
+        {
+            "file": "280_8.wav",
+            "duration": 29.98
+        },
+        {
+            "file": "280_9.wav",
+            "duration": 33.0
+        },
+        {
+            "file": "280_10.wav",
+            "duration": 23.31
+        },
+        {
+            "file": "280_11.wav",
+            "duration": 30.35
+        },
+        {
+            "file": "280_12.wav",
+            "duration": 32.47
+        },
+        {
+            "file": "280_13.wav",
+            "duration": 33.53
+        },
+        {
+            "file": "280_14.wav",
+            "duration": 33.67
+        },
+        {
+            "file": "280_15.wav",
+            "duration": 26.12
+        },
+        {
+            "file": "280_16.wav",
+            "duration": 29.42
+        },
+        {
+            "file": "280_17.wav",
+            "duration": 26.35
+        },
+        {
+            "file": "280_18.wav",
+            "duration": 29.14
+        },
+        {
+            "file": "280_19.wav",
+            "duration": 37.04
+        },
+        {
+            "file": "280_20.wav",
+            "duration": 31.79
+        },
+        {
+            "file": "280_21.wav",
+            "duration": 21.53
+        },
+        {
+            "file": "280_22.wav",
+            "duration": 30.07
+        },
+        {
+            "file": "280_23.wav",
+            "duration": 24.48
+        },
+        {
+            "file": "280_24.wav",
+            "duration": 35.95
+        }
+    ],
+    "total_files": 24,
+    "total_duration": 722.26
+}

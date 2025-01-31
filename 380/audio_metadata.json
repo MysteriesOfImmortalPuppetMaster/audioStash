@@ -1,0 +1,103 @@
+{
+    "folder": "380",
+    "audio_files": [
+        {
+            "file": "380_1.wav",
+            "duration": 39.84
+        },
+        {
+            "file": "380_2.wav",
+            "duration": 27.99
+        },
+        {
+            "file": "380_3.wav",
+            "duration": 33.87
+        },
+        {
+            "file": "380_4.wav",
+            "duration": 33.24
+        },
+        {
+            "file": "380_5.wav",
+            "duration": 42.08
+        },
+        {
+            "file": "380_6.wav",
+            "duration": 29.98
+        },
+        {
+            "file": "380_7.wav",
+            "duration": 26.21
+        },
+        {
+            "file": "380_8.wav",
+            "duration": 29.25
+        },
+        {
+            "file": "380_9.wav",
+            "duration": 28.96
+        },
+        {
+            "file": "380_10.wav",
+            "duration": 27.49
+        },
+        {
+            "file": "380_11.wav",
+            "duration": 29.83
+        },
+        {
+            "file": "380_12.wav",
+            "duration": 29.89
+        },
+        {
+            "file": "380_13.wav",
+            "duration": 32.59
+        },
+        {
+            "file": "380_14.wav",
+            "duration": 28.46
+        },
+        {
+            "file": "380_15.wav",
+            "duration": 27.13
+        },
+        {
+            "file": "380_16.wav",
+            "duration": 23.96
+        },
+        {
+            "file": "380_17.wav",
+            "duration": 21.82
+        },
+        {
+            "file": "380_18.wav",
+            "duration": 31.87
+        },
+        {
+            "file": "380_19.wav",
+            "duration": 33.53
+        },
+        {
+            "file": "380_20.wav",
+            "duration": 25.12
+        },
+        {
+            "file": "380_21.wav",
+            "duration": 35.12
+        },
+        {
+            "file": "380_22.wav",
+            "duration": 36.55
+        },
+        {
+            "file": "380_23.wav",
+            "duration": 31.65
+        },
+        {
+            "file": "380_24.wav",
+            "duration": 12.84
+        }
+    ],
+    "total_files": 24,
+    "total_duration": 719.27
+}

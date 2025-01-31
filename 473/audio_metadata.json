@@ -1,0 +1,91 @@
+{
+    "folder": "473",
+    "audio_files": [
+        {
+            "file": "473_1.wav",
+            "duration": 32.1
+        },
+        {
+            "file": "473_2.wav",
+            "duration": 32.9
+        },
+        {
+            "file": "473_3.wav",
+            "duration": 35.06
+        },
+        {
+            "file": "473_4.wav",
+            "duration": 34.01
+        },
+        {
+            "file": "473_5.wav",
+            "duration": 32.29
+        },
+        {
+            "file": "473_6.wav",
+            "duration": 33.2
+        },
+        {
+            "file": "473_7.wav",
+            "duration": 25.56
+        },
+        {
+            "file": "473_8.wav",
+            "duration": 36.41
+        },
+        {
+            "file": "473_9.wav",
+            "duration": 31.96
+        },
+        {
+            "file": "473_10.wav",
+            "duration": 34.08
+        },
+        {
+            "file": "473_11.wav",
+            "duration": 34.79
+        },
+        {
+            "file": "473_12.wav",
+            "duration": 10.99
+        },
+        {
+            "file": "473_13.wav",
+            "duration": 24.41
+        },
+        {
+            "file": "473_14.wav",
+            "duration": 34.45
+        },
+        {
+            "file": "473_15.wav",
+            "duration": 31.11
+        },
+        {
+            "file": "473_16.wav",
+            "duration": 41.54
+        },
+        {
+            "file": "473_17.wav",
+            "duration": 27.88
+        },
+        {
+            "file": "473_18.wav",
+            "duration": 32.74
+        },
+        {
+            "file": "473_19.wav",
+            "duration": 32.06
+        },
+        {
+            "file": "473_20.wav",
+            "duration": 37.0
+        },
+        {
+            "file": "473_21.wav",
+            "duration": 16.78
+        }
+    ],
+    "total_files": 21,
+    "total_duration": 651.32
+}

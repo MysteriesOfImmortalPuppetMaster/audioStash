@@ -1,0 +1,111 @@
+{
+    "folder": "265",
+    "audio_files": [
+        {
+            "file": "265_1.wav",
+            "duration": 31.12
+        },
+        {
+            "file": "265_2.wav",
+            "duration": 30.7
+        },
+        {
+            "file": "265_3.wav",
+            "duration": 30.14
+        },
+        {
+            "file": "265_4.wav",
+            "duration": 33.41
+        },
+        {
+            "file": "265_5.wav",
+            "duration": 29.26
+        },
+        {
+            "file": "265_6.wav",
+            "duration": 33.22
+        },
+        {
+            "file": "265_7.wav",
+            "duration": 33.95
+        },
+        {
+            "file": "265_8.wav",
+            "duration": 29.27
+        },
+        {
+            "file": "265_9.wav",
+            "duration": 30.61
+        },
+        {
+            "file": "265_10.wav",
+            "duration": 27.79
+        },
+        {
+            "file": "265_11.wav",
+            "duration": 29.69
+        },
+        {
+            "file": "265_12.wav",
+            "duration": 29.72
+        },
+        {
+            "file": "265_13.wav",
+            "duration": 24.69
+        },
+        {
+            "file": "265_14.wav",
+            "duration": 32.15
+        },
+        {
+            "file": "265_15.wav",
+            "duration": 40.95
+        },
+        {
+            "file": "265_16.wav",
+            "duration": 29.04
+        },
+        {
+            "file": "265_17.wav",
+            "duration": 42.14
+        },
+        {
+            "file": "265_18.wav",
+            "duration": 33.62
+        },
+        {
+            "file": "265_19.wav",
+            "duration": 34.14
+        },
+        {
+            "file": "265_20.wav",
+            "duration": 30.85
+        },
+        {
+            "file": "265_21.wav",
+            "duration": 36.61
+        },
+        {
+            "file": "265_22.wav",
+            "duration": 36.88
+        },
+        {
+            "file": "265_23.wav",
+            "duration": 25.75
+        },
+        {
+            "file": "265_24.wav",
+            "duration": 33.88
+        },
+        {
+            "file": "265_25.wav",
+            "duration": 32.63
+        },
+        {
+            "file": "265_26.wav",
+            "duration": 31.72
+        }
+    ],
+    "total_files": 26,
+    "total_duration": 833.93
+}

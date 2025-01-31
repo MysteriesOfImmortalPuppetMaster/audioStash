@@ -1,0 +1,123 @@
+{
+    "folder": "314",
+    "audio_files": [
+        {
+            "file": "314_1.wav",
+            "duration": 30.38
+        },
+        {
+            "file": "314_2.wav",
+            "duration": 29.38
+        },
+        {
+            "file": "314_3.wav",
+            "duration": 27.23
+        },
+        {
+            "file": "314_4.wav",
+            "duration": 32.95
+        },
+        {
+            "file": "314_5.wav",
+            "duration": 32.21
+        },
+        {
+            "file": "314_6.wav",
+            "duration": 30.25
+        },
+        {
+            "file": "314_7.wav",
+            "duration": 20.97
+        },
+        {
+            "file": "314_8.wav",
+            "duration": 29.98
+        },
+        {
+            "file": "314_9.wav",
+            "duration": 30.5
+        },
+        {
+            "file": "314_10.wav",
+            "duration": 24.5
+        },
+        {
+            "file": "314_11.wav",
+            "duration": 25.75
+        },
+        {
+            "file": "314_12.wav",
+            "duration": 32.29
+        },
+        {
+            "file": "314_13.wav",
+            "duration": 29.13
+        },
+        {
+            "file": "314_14.wav",
+            "duration": 28.49
+        },
+        {
+            "file": "314_15.wav",
+            "duration": 38.17
+        },
+        {
+            "file": "314_16.wav",
+            "duration": 24.72
+        },
+        {
+            "file": "314_17.wav",
+            "duration": 28.12
+        },
+        {
+            "file": "314_18.wav",
+            "duration": 30.21
+        },
+        {
+            "file": "314_19.wav",
+            "duration": 32.25
+        },
+        {
+            "file": "314_20.wav",
+            "duration": 31.4
+        },
+        {
+            "file": "314_21.wav",
+            "duration": 31.29
+        },
+        {
+            "file": "314_22.wav",
+            "duration": 37.44
+        },
+        {
+            "file": "314_23.wav",
+            "duration": 30.94
+        },
+        {
+            "file": "314_24.wav",
+            "duration": 29.64
+        },
+        {
+            "file": "314_25.wav",
+            "duration": 26.59
+        },
+        {
+            "file": "314_26.wav",
+            "duration": 28.91
+        },
+        {
+            "file": "314_27.wav",
+            "duration": 29.98
+        },
+        {
+            "file": "314_28.wav",
+            "duration": 32.77
+        },
+        {
+            "file": "314_29.wav",
+            "duration": 34.5
+        }
+    ],
+    "total_files": 29,
+    "total_duration": 870.94
+}

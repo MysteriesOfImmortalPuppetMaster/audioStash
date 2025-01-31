@@ -1,0 +1,131 @@
+{
+    "folder": "443",
+    "audio_files": [
+        {
+            "file": "443_1.wav",
+            "duration": 33.55
+        },
+        {
+            "file": "443_2.wav",
+            "duration": 36.05
+        },
+        {
+            "file": "443_3.wav",
+            "duration": 25.89
+        },
+        {
+            "file": "443_4.wav",
+            "duration": 34.05
+        },
+        {
+            "file": "443_5.wav",
+            "duration": 29.69
+        },
+        {
+            "file": "443_6.wav",
+            "duration": 31.93
+        },
+        {
+            "file": "443_7.wav",
+            "duration": 33.63
+        },
+        {
+            "file": "443_8.wav",
+            "duration": 17.54
+        },
+        {
+            "file": "443_9.wav",
+            "duration": 33.44
+        },
+        {
+            "file": "443_10.wav",
+            "duration": 30.25
+        },
+        {
+            "file": "443_11.wav",
+            "duration": 27.44
+        },
+        {
+            "file": "443_12.wav",
+            "duration": 25.39
+        },
+        {
+            "file": "443_13.wav",
+            "duration": 37.76
+        },
+        {
+            "file": "443_14.wav",
+            "duration": 31.0
+        },
+        {
+            "file": "443_15.wav",
+            "duration": 42.18
+        },
+        {
+            "file": "443_16.wav",
+            "duration": 34.56
+        },
+        {
+            "file": "443_17.wav",
+            "duration": 32.85
+        },
+        {
+            "file": "443_18.wav",
+            "duration": 27.75
+        },
+        {
+            "file": "443_19.wav",
+            "duration": 27.97
+        },
+        {
+            "file": "443_20.wav",
+            "duration": 27.49
+        },
+        {
+            "file": "443_21.wav",
+            "duration": 26.83
+        },
+        {
+            "file": "443_22.wav",
+            "duration": 30.64
+        },
+        {
+            "file": "443_23.wav",
+            "duration": 35.53
+        },
+        {
+            "file": "443_24.wav",
+            "duration": 34.05
+        },
+        {
+            "file": "443_25.wav",
+            "duration": 26.56
+        },
+        {
+            "file": "443_26.wav",
+            "duration": 30.25
+        },
+        {
+            "file": "443_27.wav",
+            "duration": 31.14
+        },
+        {
+            "file": "443_28.wav",
+            "duration": 40.09
+        },
+        {
+            "file": "443_29.wav",
+            "duration": 34.84
+        },
+        {
+            "file": "443_30.wav",
+            "duration": 33.86
+        },
+        {
+            "file": "443_31.wav",
+            "duration": 11.61
+        }
+    ],
+    "total_files": 31,
+    "total_duration": 955.81
+}

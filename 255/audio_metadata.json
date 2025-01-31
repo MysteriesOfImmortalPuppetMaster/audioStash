@@ -1,0 +1,135 @@
+{
+    "folder": "255",
+    "audio_files": [
+        {
+            "file": "255_1.wav",
+            "duration": 37.71
+        },
+        {
+            "file": "255_2.wav",
+            "duration": 31.61
+        },
+        {
+            "file": "255_3.wav",
+            "duration": 25.66
+        },
+        {
+            "file": "255_4.wav",
+            "duration": 27.02
+        },
+        {
+            "file": "255_5.wav",
+            "duration": 27.44
+        },
+        {
+            "file": "255_6.wav",
+            "duration": 29.99
+        },
+        {
+            "file": "255_7.wav",
+            "duration": 32.64
+        },
+        {
+            "file": "255_8.wav",
+            "duration": 27.44
+        },
+        {
+            "file": "255_9.wav",
+            "duration": 32.28
+        },
+        {
+            "file": "255_10.wav",
+            "duration": 27.0
+        },
+        {
+            "file": "255_11.wav",
+            "duration": 25.74
+        },
+        {
+            "file": "255_12.wav",
+            "duration": 27.7
+        },
+        {
+            "file": "255_13.wav",
+            "duration": 33.05
+        },
+        {
+            "file": "255_14.wav",
+            "duration": 26.72
+        },
+        {
+            "file": "255_15.wav",
+            "duration": 28.78
+        },
+        {
+            "file": "255_16.wav",
+            "duration": 32.85
+        },
+        {
+            "file": "255_17.wav",
+            "duration": 29.92
+        },
+        {
+            "file": "255_18.wav",
+            "duration": 26.3
+        },
+        {
+            "file": "255_19.wav",
+            "duration": 32.07
+        },
+        {
+            "file": "255_20.wav",
+            "duration": 21.81
+        },
+        {
+            "file": "255_21.wav",
+            "duration": 27.57
+        },
+        {
+            "file": "255_22.wav",
+            "duration": 14.39
+        },
+        {
+            "file": "255_23.wav",
+            "duration": 32.11
+        },
+        {
+            "file": "255_24.wav",
+            "duration": 30.62
+        },
+        {
+            "file": "255_25.wav",
+            "duration": 22.7
+        },
+        {
+            "file": "255_26.wav",
+            "duration": 28.29
+        },
+        {
+            "file": "255_27.wav",
+            "duration": 37.39
+        },
+        {
+            "file": "255_28.wav",
+            "duration": 30.52
+        },
+        {
+            "file": "255_29.wav",
+            "duration": 31.24
+        },
+        {
+            "file": "255_30.wav",
+            "duration": 35.12
+        },
+        {
+            "file": "255_31.wav",
+            "duration": 33.4
+        },
+        {
+            "file": "255_32.wav",
+            "duration": 5.57
+        }
+    ],
+    "total_files": 32,
+    "total_duration": 912.65
+}

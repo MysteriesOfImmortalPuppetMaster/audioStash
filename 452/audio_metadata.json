@@ -1,0 +1,99 @@
+{
+    "folder": "452",
+    "audio_files": [
+        {
+            "file": "452_1.wav",
+            "duration": 38.41
+        },
+        {
+            "file": "452_2.wav",
+            "duration": 12.15
+        },
+        {
+            "file": "452_3.wav",
+            "duration": 33.06
+        },
+        {
+            "file": "452_4.wav",
+            "duration": 33.69
+        },
+        {
+            "file": "452_5.wav",
+            "duration": 35.5
+        },
+        {
+            "file": "452_6.wav",
+            "duration": 31.69
+        },
+        {
+            "file": "452_7.wav",
+            "duration": 31.32
+        },
+        {
+            "file": "452_8.wav",
+            "duration": 23.19
+        },
+        {
+            "file": "452_9.wav",
+            "duration": 35.59
+        },
+        {
+            "file": "452_10.wav",
+            "duration": 34.97
+        },
+        {
+            "file": "452_11.wav",
+            "duration": 29.68
+        },
+        {
+            "file": "452_12.wav",
+            "duration": 25.14
+        },
+        {
+            "file": "452_13.wav",
+            "duration": 30.19
+        },
+        {
+            "file": "452_14.wav",
+            "duration": 26.13
+        },
+        {
+            "file": "452_15.wav",
+            "duration": 30.16
+        },
+        {
+            "file": "452_16.wav",
+            "duration": 32.65
+        },
+        {
+            "file": "452_17.wav",
+            "duration": 28.29
+        },
+        {
+            "file": "452_18.wav",
+            "duration": 48.07
+        },
+        {
+            "file": "452_19.wav",
+            "duration": 23.75
+        },
+        {
+            "file": "452_20.wav",
+            "duration": 40.5
+        },
+        {
+            "file": "452_21.wav",
+            "duration": 37.07
+        },
+        {
+            "file": "452_22.wav",
+            "duration": 43.24
+        },
+        {
+            "file": "452_23.wav",
+            "duration": 21.8
+        }
+    ],
+    "total_files": 23,
+    "total_duration": 726.24
+}

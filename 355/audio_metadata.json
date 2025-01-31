@@ -1,0 +1,103 @@
+{
+    "folder": "355",
+    "audio_files": [
+        {
+            "file": "355_1.wav",
+            "duration": 29.27
+        },
+        {
+            "file": "355_2.wav",
+            "duration": 27.75
+        },
+        {
+            "file": "355_3.wav",
+            "duration": 32.09
+        },
+        {
+            "file": "355_4.wav",
+            "duration": 32.13
+        },
+        {
+            "file": "355_5.wav",
+            "duration": 29.86
+        },
+        {
+            "file": "355_6.wav",
+            "duration": 34.42
+        },
+        {
+            "file": "355_7.wav",
+            "duration": 27.92
+        },
+        {
+            "file": "355_8.wav",
+            "duration": 34.87
+        },
+        {
+            "file": "355_9.wav",
+            "duration": 33.18
+        },
+        {
+            "file": "355_10.wav",
+            "duration": 28.21
+        },
+        {
+            "file": "355_11.wav",
+            "duration": 18.86
+        },
+        {
+            "file": "355_12.wav",
+            "duration": 28.59
+        },
+        {
+            "file": "355_13.wav",
+            "duration": 34.97
+        },
+        {
+            "file": "355_14.wav",
+            "duration": 25.39
+        },
+        {
+            "file": "355_15.wav",
+            "duration": 18.69
+        },
+        {
+            "file": "355_16.wav",
+            "duration": 21.93
+        },
+        {
+            "file": "355_17.wav",
+            "duration": 33.17
+        },
+        {
+            "file": "355_18.wav",
+            "duration": 34.7
+        },
+        {
+            "file": "355_19.wav",
+            "duration": 39.79
+        },
+        {
+            "file": "355_20.wav",
+            "duration": 34.52
+        },
+        {
+            "file": "355_21.wav",
+            "duration": 32.39
+        },
+        {
+            "file": "355_22.wav",
+            "duration": 30.7
+        },
+        {
+            "file": "355_23.wav",
+            "duration": 30.3
+        },
+        {
+            "file": "355_24.wav",
+            "duration": 12.95
+        }
+    ],
+    "total_files": 24,
+    "total_duration": 706.65
+}

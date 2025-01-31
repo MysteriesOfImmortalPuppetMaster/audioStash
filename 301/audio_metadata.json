@@ -1,0 +1,123 @@
+{
+    "folder": "301",
+    "audio_files": [
+        {
+            "file": "301_1.wav",
+            "duration": 36.77
+        },
+        {
+            "file": "301_2.wav",
+            "duration": 28.78
+        },
+        {
+            "file": "301_3.wav",
+            "duration": 29.14
+        },
+        {
+            "file": "301_4.wav",
+            "duration": 32.11
+        },
+        {
+            "file": "301_5.wav",
+            "duration": 31.17
+        },
+        {
+            "file": "301_6.wav",
+            "duration": 26.96
+        },
+        {
+            "file": "301_7.wav",
+            "duration": 31.09
+        },
+        {
+            "file": "301_8.wav",
+            "duration": 32.68
+        },
+        {
+            "file": "301_9.wav",
+            "duration": 27.48
+        },
+        {
+            "file": "301_10.wav",
+            "duration": 28.48
+        },
+        {
+            "file": "301_11.wav",
+            "duration": 26.9
+        },
+        {
+            "file": "301_12.wav",
+            "duration": 33.98
+        },
+        {
+            "file": "301_13.wav",
+            "duration": 35.12
+        },
+        {
+            "file": "301_14.wav",
+            "duration": 34.61
+        },
+        {
+            "file": "301_15.wav",
+            "duration": 29.59
+        },
+        {
+            "file": "301_16.wav",
+            "duration": 50.69
+        },
+        {
+            "file": "301_17.wav",
+            "duration": 31.86
+        },
+        {
+            "file": "301_18.wav",
+            "duration": 22.45
+        },
+        {
+            "file": "301_19.wav",
+            "duration": 25.91
+        },
+        {
+            "file": "301_20.wav",
+            "duration": 21.4
+        },
+        {
+            "file": "301_21.wav",
+            "duration": 34.1
+        },
+        {
+            "file": "301_22.wav",
+            "duration": 29.08
+        },
+        {
+            "file": "301_23.wav",
+            "duration": 33.83
+        },
+        {
+            "file": "301_24.wav",
+            "duration": 29.88
+        },
+        {
+            "file": "301_25.wav",
+            "duration": 27.8
+        },
+        {
+            "file": "301_26.wav",
+            "duration": 30.39
+        },
+        {
+            "file": "301_27.wav",
+            "duration": 24.79
+        },
+        {
+            "file": "301_28.wav",
+            "duration": 31.39
+        },
+        {
+            "file": "301_29.wav",
+            "duration": 19.44
+        }
+    ],
+    "total_files": 29,
+    "total_duration": 877.87
+}

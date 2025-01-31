@@ -1,0 +1,123 @@
+{
+    "folder": "327.1",
+    "audio_files": [
+        {
+            "file": "327.1_1.wav",
+            "duration": 11.22
+        },
+        {
+            "file": "327.1_2.wav",
+            "duration": 123.36
+        },
+        {
+            "file": "327.1_3.wav",
+            "duration": 39.44
+        },
+        {
+            "file": "327.1_4.wav",
+            "duration": 28.23
+        },
+        {
+            "file": "327.1_5.wav",
+            "duration": 38.78
+        },
+        {
+            "file": "327.1_6.wav",
+            "duration": 33.75
+        },
+        {
+            "file": "327.1_7.wav",
+            "duration": 34.55
+        },
+        {
+            "file": "327.1_8.wav",
+            "duration": 24.59
+        },
+        {
+            "file": "327.1_9.wav",
+            "duration": 27.34
+        },
+        {
+            "file": "327.1_10.wav",
+            "duration": 23.49
+        },
+        {
+            "file": "327.1_11.wav",
+            "duration": 38.35
+        },
+        {
+            "file": "327.1_12.wav",
+            "duration": 36.52
+        },
+        {
+            "file": "327.1_13.wav",
+            "duration": 34.36
+        },
+        {
+            "file": "327.1_14.wav",
+            "duration": 34.42
+        },
+        {
+            "file": "327.1_15.wav",
+            "duration": 32.28
+        },
+        {
+            "file": "327.1_16.wav",
+            "duration": 29.45
+        },
+        {
+            "file": "327.1_17.wav",
+            "duration": 20.83
+        },
+        {
+            "file": "327.1_18.wav",
+            "duration": 23.1
+        },
+        {
+            "file": "327.1_19.wav",
+            "duration": 31.98
+        },
+        {
+            "file": "327.1_20.wav",
+            "duration": 33.31
+        },
+        {
+            "file": "327.1_21.wav",
+            "duration": 27.24
+        },
+        {
+            "file": "327.1_22.wav",
+            "duration": 26.54
+        },
+        {
+            "file": "327.1_23.wav",
+            "duration": 28.11
+        },
+        {
+            "file": "327.1_24.wav",
+            "duration": 30.88
+        },
+        {
+            "file": "327.1_25.wav",
+            "duration": 32.88
+        },
+        {
+            "file": "327.1_26.wav",
+            "duration": 28.33
+        },
+        {
+            "file": "327.1_27.wav",
+            "duration": 30.44
+        },
+        {
+            "file": "327.1_28.wav",
+            "duration": 22.36
+        },
+        {
+            "file": "327.1_29.wav",
+            "duration": 31.0
+        }
+    ],
+    "total_files": 29,
+    "total_duration": 957.13
+}

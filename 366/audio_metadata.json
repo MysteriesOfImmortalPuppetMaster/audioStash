@@ -1,0 +1,95 @@
+{
+    "folder": "366",
+    "audio_files": [
+        {
+            "file": "366_1.wav",
+            "duration": 35.41
+        },
+        {
+            "file": "366_2.wav",
+            "duration": 31.27
+        },
+        {
+            "file": "366_3.wav",
+            "duration": 33.81
+        },
+        {
+            "file": "366_4.wav",
+            "duration": 33.34
+        },
+        {
+            "file": "366_5.wav",
+            "duration": 33.5
+        },
+        {
+            "file": "366_6.wav",
+            "duration": 28.91
+        },
+        {
+            "file": "366_7.wav",
+            "duration": 28.77
+        },
+        {
+            "file": "366_8.wav",
+            "duration": 36.05
+        },
+        {
+            "file": "366_9.wav",
+            "duration": 27.14
+        },
+        {
+            "file": "366_10.wav",
+            "duration": 32.67
+        },
+        {
+            "file": "366_11.wav",
+            "duration": 33.9
+        },
+        {
+            "file": "366_12.wav",
+            "duration": 24.39
+        },
+        {
+            "file": "366_13.wav",
+            "duration": 23.87
+        },
+        {
+            "file": "366_14.wav",
+            "duration": 41.0
+        },
+        {
+            "file": "366_15.wav",
+            "duration": 21.04
+        },
+        {
+            "file": "366_16.wav",
+            "duration": 38.26
+        },
+        {
+            "file": "366_17.wav",
+            "duration": 35.12
+        },
+        {
+            "file": "366_18.wav",
+            "duration": 34.15
+        },
+        {
+            "file": "366_19.wav",
+            "duration": 35.1
+        },
+        {
+            "file": "366_20.wav",
+            "duration": 38.56
+        },
+        {
+            "file": "366_21.wav",
+            "duration": 24.04
+        },
+        {
+            "file": "366_22.wav",
+            "duration": 9.89
+        }
+    ],
+    "total_files": 22,
+    "total_duration": 680.19
+}

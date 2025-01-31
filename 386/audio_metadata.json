@@ -1,0 +1,111 @@
+{
+    "folder": "386",
+    "audio_files": [
+        {
+            "file": "386_1.wav",
+            "duration": 36.65
+        },
+        {
+            "file": "386_2.wav",
+            "duration": 30.48
+        },
+        {
+            "file": "386_3.wav",
+            "duration": 31.22
+        },
+        {
+            "file": "386_4.wav",
+            "duration": 36.76
+        },
+        {
+            "file": "386_5.wav",
+            "duration": 33.78
+        },
+        {
+            "file": "386_6.wav",
+            "duration": 39.01
+        },
+        {
+            "file": "386_7.wav",
+            "duration": 28.27
+        },
+        {
+            "file": "386_8.wav",
+            "duration": 29.84
+        },
+        {
+            "file": "386_9.wav",
+            "duration": 37.82
+        },
+        {
+            "file": "386_10.wav",
+            "duration": 29.83
+        },
+        {
+            "file": "386_11.wav",
+            "duration": 34.52
+        },
+        {
+            "file": "386_12.wav",
+            "duration": 34.53
+        },
+        {
+            "file": "386_13.wav",
+            "duration": 31.04
+        },
+        {
+            "file": "386_14.wav",
+            "duration": 35.01
+        },
+        {
+            "file": "386_15.wav",
+            "duration": 36.79
+        },
+        {
+            "file": "386_16.wav",
+            "duration": 28.54
+        },
+        {
+            "file": "386_17.wav",
+            "duration": 30.49
+        },
+        {
+            "file": "386_18.wav",
+            "duration": 26.59
+        },
+        {
+            "file": "386_19.wav",
+            "duration": 24.09
+        },
+        {
+            "file": "386_20.wav",
+            "duration": 32.19
+        },
+        {
+            "file": "386_21.wav",
+            "duration": 33.5
+        },
+        {
+            "file": "386_22.wav",
+            "duration": 30.31
+        },
+        {
+            "file": "386_23.wav",
+            "duration": 28.74
+        },
+        {
+            "file": "386_24.wav",
+            "duration": 33.94
+        },
+        {
+            "file": "386_25.wav",
+            "duration": 38.08
+        },
+        {
+            "file": "386_26.wav",
+            "duration": 11.22
+        }
+    ],
+    "total_files": 26,
+    "total_duration": 823.24
+}

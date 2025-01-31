@@ -1,0 +1,23 @@
+{
+    "folder": "475.1",
+    "audio_files": [
+        {
+            "file": "475.1_1.wav",
+            "duration": 33.03
+        },
+        {
+            "file": "475.1_2.wav",
+            "duration": 31.62
+        },
+        {
+            "file": "475.1_3.wav",
+            "duration": 30.85
+        },
+        {
+            "file": "475.1_4.wav",
+            "duration": 26.75
+        }
+    ],
+    "total_files": 4,
+    "total_duration": 122.25
+}

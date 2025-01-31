@@ -1,0 +1,71 @@
+{
+    "folder": "322",
+    "audio_files": [
+        {
+            "file": "322_1.wav",
+            "duration": 31.5
+        },
+        {
+            "file": "322_2.wav",
+            "duration": 32.76
+        },
+        {
+            "file": "322_3.wav",
+            "duration": 32.25
+        },
+        {
+            "file": "322_4.wav",
+            "duration": 32.99
+        },
+        {
+            "file": "322_5.wav",
+            "duration": 35.44
+        },
+        {
+            "file": "322_6.wav",
+            "duration": 26.9
+        },
+        {
+            "file": "322_7.wav",
+            "duration": 33.54
+        },
+        {
+            "file": "322_8.wav",
+            "duration": 29.09
+        },
+        {
+            "file": "322_9.wav",
+            "duration": 39.64
+        },
+        {
+            "file": "322_10.wav",
+            "duration": 35.48
+        },
+        {
+            "file": "322_11.wav",
+            "duration": 37.3
+        },
+        {
+            "file": "322_12.wav",
+            "duration": 32.57
+        },
+        {
+            "file": "322_13.wav",
+            "duration": 34.18
+        },
+        {
+            "file": "322_14.wav",
+            "duration": 37.75
+        },
+        {
+            "file": "322_15.wav",
+            "duration": 30.88
+        },
+        {
+            "file": "322_16.wav",
+            "duration": 30.67
+        }
+    ],
+    "total_files": 16,
+    "total_duration": 532.94
+}

@@ -1,0 +1,67 @@
+{
+    "folder": "266.5",
+    "audio_files": [
+        {
+            "file": "266.5_1.wav",
+            "duration": 39.99
+        },
+        {
+            "file": "266.5_2.wav",
+            "duration": 26.85
+        },
+        {
+            "file": "266.5_3.wav",
+            "duration": 33.37
+        },
+        {
+            "file": "266.5_4.wav",
+            "duration": 28.12
+        },
+        {
+            "file": "266.5_5.wav",
+            "duration": 32.43
+        },
+        {
+            "file": "266.5_6.wav",
+            "duration": 36.18
+        },
+        {
+            "file": "266.5_7.wav",
+            "duration": 33.17
+        },
+        {
+            "file": "266.5_8.wav",
+            "duration": 29.96
+        },
+        {
+            "file": "266.5_9.wav",
+            "duration": 34.64
+        },
+        {
+            "file": "266.5_10.wav",
+            "duration": 27.96
+        },
+        {
+            "file": "266.5_11.wav",
+            "duration": 31.03
+        },
+        {
+            "file": "266.5_12.wav",
+            "duration": 29.89
+        },
+        {
+            "file": "266.5_13.wav",
+            "duration": 34.54
+        },
+        {
+            "file": "266.5_14.wav",
+            "duration": 35.14
+        },
+        {
+            "file": "266.5_15.wav",
+            "duration": 37.95
+        }
+    ],
+    "total_files": 15,
+    "total_duration": 491.22
+}

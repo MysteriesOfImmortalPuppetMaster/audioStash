@@ -1,0 +1,107 @@
+{
+    "folder": "262",
+    "audio_files": [
+        {
+            "file": "262_1.wav",
+            "duration": 33.83
+        },
+        {
+            "file": "262_2.wav",
+            "duration": 30.07
+        },
+        {
+            "file": "262_3.wav",
+            "duration": 30.96
+        },
+        {
+            "file": "262_4.wav",
+            "duration": 28.74
+        },
+        {
+            "file": "262_5.wav",
+            "duration": 29.32
+        },
+        {
+            "file": "262_6.wav",
+            "duration": 33.62
+        },
+        {
+            "file": "262_7.wav",
+            "duration": 29.51
+        },
+        {
+            "file": "262_8.wav",
+            "duration": 33.97
+        },
+        {
+            "file": "262_9.wav",
+            "duration": 33.39
+        },
+        {
+            "file": "262_10.wav",
+            "duration": 27.35
+        },
+        {
+            "file": "262_11.wav",
+            "duration": 27.04
+        },
+        {
+            "file": "262_12.wav",
+            "duration": 34.98
+        },
+        {
+            "file": "262_13.wav",
+            "duration": 34.14
+        },
+        {
+            "file": "262_14.wav",
+            "duration": 34.94
+        },
+        {
+            "file": "262_15.wav",
+            "duration": 29.46
+        },
+        {
+            "file": "262_16.wav",
+            "duration": 33.35
+        },
+        {
+            "file": "262_17.wav",
+            "duration": 31.24
+        },
+        {
+            "file": "262_18.wav",
+            "duration": 30.61
+        },
+        {
+            "file": "262_19.wav",
+            "duration": 27.32
+        },
+        {
+            "file": "262_20.wav",
+            "duration": 33.2
+        },
+        {
+            "file": "262_21.wav",
+            "duration": 23.84
+        },
+        {
+            "file": "262_22.wav",
+            "duration": 31.7
+        },
+        {
+            "file": "262_23.wav",
+            "duration": 32.21
+        },
+        {
+            "file": "262_24.wav",
+            "duration": 35.03
+        },
+        {
+            "file": "262_25.wav",
+            "duration": 24.7
+        }
+    ],
+    "total_files": 25,
+    "total_duration": 774.52
+}

@@ -1,0 +1,15 @@
+{
+    "folder": "411.5",
+    "audio_files": [
+        {
+            "file": "411.5_1.wav",
+            "duration": 33.45
+        },
+        {
+            "file": "411.5_2.wav",
+            "duration": 30.14
+        }
+    ],
+    "total_files": 2,
+    "total_duration": 63.59
+}

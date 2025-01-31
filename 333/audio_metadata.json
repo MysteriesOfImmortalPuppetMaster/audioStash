@@ -1,0 +1,135 @@
+{
+    "folder": "333",
+    "audio_files": [
+        {
+            "file": "333_1.wav",
+            "duration": 32.73
+        },
+        {
+            "file": "333_2.wav",
+            "duration": 29.75
+        },
+        {
+            "file": "333_3.wav",
+            "duration": 31.17
+        },
+        {
+            "file": "333_4.wav",
+            "duration": 23.16
+        },
+        {
+            "file": "333_5.wav",
+            "duration": 31.93
+        },
+        {
+            "file": "333_6.wav",
+            "duration": 28.45
+        },
+        {
+            "file": "333_7.wav",
+            "duration": 35.31
+        },
+        {
+            "file": "333_8.wav",
+            "duration": 29.98
+        },
+        {
+            "file": "333_9.wav",
+            "duration": 31.88
+        },
+        {
+            "file": "333_10.wav",
+            "duration": 28.59
+        },
+        {
+            "file": "333_11.wav",
+            "duration": 36.54
+        },
+        {
+            "file": "333_12.wav",
+            "duration": 30.99
+        },
+        {
+            "file": "333_13.wav",
+            "duration": 31.42
+        },
+        {
+            "file": "333_14.wav",
+            "duration": 31.56
+        },
+        {
+            "file": "333_15.wav",
+            "duration": 38.05
+        },
+        {
+            "file": "333_16.wav",
+            "duration": 31.82
+        },
+        {
+            "file": "333_17.wav",
+            "duration": 33.49
+        },
+        {
+            "file": "333_18.wav",
+            "duration": 27.14
+        },
+        {
+            "file": "333_19.wav",
+            "duration": 30.25
+        },
+        {
+            "file": "333_20.wav",
+            "duration": 26.49
+        },
+        {
+            "file": "333_21.wav",
+            "duration": 28.09
+        },
+        {
+            "file": "333_22.wav",
+            "duration": 34.41
+        },
+        {
+            "file": "333_23.wav",
+            "duration": 33.51
+        },
+        {
+            "file": "333_24.wav",
+            "duration": 31.04
+        },
+        {
+            "file": "333_25.wav",
+            "duration": 29.93
+        },
+        {
+            "file": "333_26.wav",
+            "duration": 30.1
+        },
+        {
+            "file": "333_27.wav",
+            "duration": 22.32
+        },
+        {
+            "file": "333_28.wav",
+            "duration": 33.21
+        },
+        {
+            "file": "333_29.wav",
+            "duration": 24.17
+        },
+        {
+            "file": "333_30.wav",
+            "duration": 32.89
+        },
+        {
+            "file": "333_31.wav",
+            "duration": 34.22
+        },
+        {
+            "file": "333_32.wav",
+            "duration": 20.6
+        }
+    ],
+    "total_files": 32,
+    "total_duration": 975.19
+}

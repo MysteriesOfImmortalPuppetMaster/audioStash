@@ -1,0 +1,163 @@
+{
+    "folder": "486",
+    "audio_files": [
+        {
+            "file": "486_1.wav",
+            "duration": 33.44
+        },
+        {
+            "file": "486_2.wav",
+            "duration": 33.02
+        },
+        {
+            "file": "486_3.wav",
+            "duration": 31.5
+        },
+        {
+            "file": "486_4.wav",
+            "duration": 36.96
+        },
+        {
+            "file": "486_5.wav",
+            "duration": 34.97
+        },
+        {
+            "file": "486_6.wav",
+            "duration": 30.56
+        },
+        {
+            "file": "486_7.wav",
+            "duration": 30.85
+        },
+        {
+            "file": "486_8.wav",
+            "duration": 32.51
+        },
+        {
+            "file": "486_9.wav",
+            "duration": 17.3
+        },
+        {
+            "file": "486_10.wav",
+            "duration": 27.37
+        },
+        {
+            "file": "486_11.wav",
+            "duration": 32.15
+        },
+        {
+            "file": "486_12.wav",
+            "duration": 29.05
+        },
+        {
+            "file": "486_13.wav",
+            "duration": 29.14
+        },
+        {
+            "file": "486_14.wav",
+            "duration": 33.51
+        },
+        {
+            "file": "486_15.wav",
+            "duration": 40.54
+        },
+        {
+            "file": "486_16.wav",
+            "duration": 37.72
+        },
+        {
+            "file": "486_17.wav",
+            "duration": 32.85
+        },
+        {
+            "file": "486_18.wav",
+            "duration": 37.1
+        },
+        {
+            "file": "486_19.wav",
+            "duration": 35.24
+        },
+        {
+            "file": "486_20.wav",
+            "duration": 26.53
+        },
+        {
+            "file": "486_21.wav",
+            "duration": 30.34
+        },
+        {
+            "file": "486_22.wav",
+            "duration": 31.99
+        },
+        {
+            "file": "486_23.wav",
+            "duration": 26.11
+        },
+        {
+            "file": "486_24.wav",
+            "duration": 32.34
+        },
+        {
+            "file": "486_25.wav",
+            "duration": 17.58
+        },
+        {
+            "file": "486_26.wav",
+            "duration": 21.62
+        },
+        {
+            "file": "486_27.wav",
+            "duration": 34.82
+        },
+        {
+            "file": "486_28.wav",
+            "duration": 26.26
+        },
+        {
+            "file": "486_29.wav",
+            "duration": 27.88
+        },
+        {
+            "file": "486_30.wav",
+            "duration": 32.51
+        },
+        {
+            "file": "486_31.wav",
+            "duration": 28.68
+        },
+        {
+            "file": "486_32.wav",
+            "duration": 30.04
+        },
+        {
+            "file": "486_33.wav",
+            "duration": 25.34
+        },
+        {
+            "file": "486_34.wav",
+            "duration": 36.46
+        },
+        {
+            "file": "486_35.wav",
+            "duration": 30.33
+        },
+        {
+            "file": "486_36.wav",
+            "duration": 38.63
+        },
+        {
+            "file": "486_37.wav",
+            "duration": 33.39
+        },
+        {
+            "file": "486_38.wav",
+            "duration": 33.02
+        },
+        {
+            "file": "486_39.wav",
+            "duration": 31.71
+        }
+    ],
+    "total_files": 39,
+    "total_duration": 1211.36
+}

@@ -1,0 +1,107 @@
+{
+    "folder": "360",
+    "audio_files": [
+        {
+            "file": "360_1.wav",
+            "duration": 35.9
+        },
+        {
+            "file": "360_2.wav",
+            "duration": 33.91
+        },
+        {
+            "file": "360_3.wav",
+            "duration": 32.41
+        },
+        {
+            "file": "360_4.wav",
+            "duration": 33.01
+        },
+        {
+            "file": "360_5.wav",
+            "duration": 30.62
+        },
+        {
+            "file": "360_6.wav",
+            "duration": 30.43
+        },
+        {
+            "file": "360_7.wav",
+            "duration": 21.42
+        },
+        {
+            "file": "360_8.wav",
+            "duration": 25.05
+        },
+        {
+            "file": "360_9.wav",
+            "duration": 31.63
+        },
+        {
+            "file": "360_10.wav",
+            "duration": 35.56
+        },
+        {
+            "file": "360_11.wav",
+            "duration": 29.04
+        },
+        {
+            "file": "360_12.wav",
+            "duration": 32.53
+        },
+        {
+            "file": "360_13.wav",
+            "duration": 29.35
+        },
+        {
+            "file": "360_14.wav",
+            "duration": 33.11
+        },
+        {
+            "file": "360_15.wav",
+            "duration": 38.01
+        },
+        {
+            "file": "360_16.wav",
+            "duration": 33.37
+        },
+        {
+            "file": "360_17.wav",
+            "duration": 33.94
+        },
+        {
+            "file": "360_18.wav",
+            "duration": 47.05
+        },
+        {
+            "file": "360_19.wav",
+            "duration": 43.26
+        },
+        {
+            "file": "360_20.wav",
+            "duration": 31.9
+        },
+        {
+            "file": "360_21.wav",
+            "duration": 42.08
+        },
+        {
+            "file": "360_22.wav",
+            "duration": 26.03
+        },
+        {
+            "file": "360_23.wav",
+            "duration": 33.28
+        },
+        {
+            "file": "360_24.wav",
+            "duration": 36.64
+        },
+        {
+            "file": "360_25.wav",
+            "duration": 28.43
+        }
+    ],
+    "total_files": 25,
+    "total_duration": 827.96
+}

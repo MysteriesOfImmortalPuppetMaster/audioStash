@@ -1,0 +1,107 @@
+{
+    "folder": "323",
+    "audio_files": [
+        {
+            "file": "323_1.wav",
+            "duration": 37.22
+        },
+        {
+            "file": "323_2.wav",
+            "duration": 34.0
+        },
+        {
+            "file": "323_3.wav",
+            "duration": 27.69
+        },
+        {
+            "file": "323_4.wav",
+            "duration": 35.36
+        },
+        {
+            "file": "323_5.wav",
+            "duration": 34.35
+        },
+        {
+            "file": "323_6.wav",
+            "duration": 32.33
+        },
+        {
+            "file": "323_7.wav",
+            "duration": 26.51
+        },
+        {
+            "file": "323_8.wav",
+            "duration": 27.79
+        },
+        {
+            "file": "323_9.wav",
+            "duration": 29.62
+        },
+        {
+            "file": "323_10.wav",
+            "duration": 38.73
+        },
+        {
+            "file": "323_11.wav",
+            "duration": 29.4
+        },
+        {
+            "file": "323_12.wav",
+            "duration": 31.74
+        },
+        {
+            "file": "323_13.wav",
+            "duration": 31.35
+        },
+        {
+            "file": "323_14.wav",
+            "duration": 27.49
+        },
+        {
+            "file": "323_15.wav",
+            "duration": 32.08
+        },
+        {
+            "file": "323_16.wav",
+            "duration": 27.01
+        },
+        {
+            "file": "323_17.wav",
+            "duration": 30.12
+        },
+        {
+            "file": "323_18.wav",
+            "duration": 36.31
+        },
+        {
+            "file": "323_19.wav",
+            "duration": 35.49
+        },
+        {
+            "file": "323_20.wav",
+            "duration": 30.58
+        },
+        {
+            "file": "323_21.wav",
+            "duration": 32.0
+        },
+        {
+            "file": "323_22.wav",
+            "duration": 31.83
+        },
+        {
+            "file": "323_23.wav",
+            "duration": 29.79
+        },
+        {
+            "file": "323_24.wav",
+            "duration": 27.49
+        },
+        {
+            "file": "323_25.wav",
+            "duration": 35.6
+        }
+    ],
+    "total_files": 25,
+    "total_duration": 791.88
+}
