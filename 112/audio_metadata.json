@@ -1,0 +1,103 @@
+{
+    "folder": "112",
+    "audio_files": [
+        {
+            "file": "112_1.wav",
+            "duration": 30.48
+        },
+        {
+            "file": "112_2.wav",
+            "duration": 30.9
+        },
+        {
+            "file": "112_3.wav",
+            "duration": 34.62
+        },
+        {
+            "file": "112_4.wav",
+            "duration": 20.46
+        },
+        {
+            "file": "112_5.wav",
+            "duration": 30.59
+        },
+        {
+            "file": "112_6.wav",
+            "duration": 30.7
+        },
+        {
+            "file": "112_7.wav",
+            "duration": 20.78
+        },
+        {
+            "file": "112_8.wav",
+            "duration": 32.15
+        },
+        {
+            "file": "112_9.wav",
+            "duration": 32.61
+        },
+        {
+            "file": "112_10.wav",
+            "duration": 33.11
+        },
+        {
+            "file": "112_11.wav",
+            "duration": 29.92
+        },
+        {
+            "file": "112_12.wav",
+            "duration": 25.41
+        },
+        {
+            "file": "112_13.wav",
+            "duration": 26.54
+        },
+        {
+            "file": "112_14.wav",
+            "duration": 30.99
+        },
+        {
+            "file": "112_15.wav",
+            "duration": 31.6
+        },
+        {
+            "file": "112_16.wav",
+            "duration": 30.63
+        },
+        {
+            "file": "112_17.wav",
+            "duration": 29.6
+        },
+        {
+            "file": "112_18.wav",
+            "duration": 31.48
+        },
+        {
+            "file": "112_19.wav",
+            "duration": 30.85
+        },
+        {
+            "file": "112_20.wav",
+            "duration": 25.42
+        },
+        {
+            "file": "112_21.wav",
+            "duration": 32.71
+        },
+        {
+            "file": "112_22.wav",
+            "duration": 29.7
+        },
+        {
+            "file": "112_23.wav",
+            "duration": 39.69
+        },
+        {
+            "file": "112_24.wav",
+            "duration": 22.22
+        }
+    ],
+    "total_files": 24,
+    "total_duration": 713.16
+}

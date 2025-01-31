@@ -1,0 +1,87 @@
+{
+    "folder": "141",
+    "audio_files": [
+        {
+            "file": "141_1.wav",
+            "duration": 34.14
+        },
+        {
+            "file": "141_2.wav",
+            "duration": 30.01
+        },
+        {
+            "file": "141_3.wav",
+            "duration": 31.27
+        },
+        {
+            "file": "141_4.wav",
+            "duration": 34.28
+        },
+        {
+            "file": "141_5.wav",
+            "duration": 30.34
+        },
+        {
+            "file": "141_6.wav",
+            "duration": 35.99
+        },
+        {
+            "file": "141_7.wav",
+            "duration": 38.84
+        },
+        {
+            "file": "141_8.wav",
+            "duration": 38.31
+        },
+        {
+            "file": "141_9.wav",
+            "duration": 31.49
+        },
+        {
+            "file": "141_10.wav",
+            "duration": 30.39
+        },
+        {
+            "file": "141_11.wav",
+            "duration": 28.29
+        },
+        {
+            "file": "141_12.wav",
+            "duration": 26.25
+        },
+        {
+            "file": "141_13.wav",
+            "duration": 34.87
+        },
+        {
+            "file": "141_14.wav",
+            "duration": 34.52
+        },
+        {
+            "file": "141_15.wav",
+            "duration": 44.19
+        },
+        {
+            "file": "141_16.wav",
+            "duration": 37.1
+        },
+        {
+            "file": "141_17.wav",
+            "duration": 24.48
+        },
+        {
+            "file": "141_18.wav",
+            "duration": 34.01
+        },
+        {
+            "file": "141_19.wav",
+            "duration": 31.44
+        },
+        {
+            "file": "141_20.wav",
+            "duration": 25.65
+        }
+    ],
+    "total_files": 20,
+    "total_duration": 655.86
+}

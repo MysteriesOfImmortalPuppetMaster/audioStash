@@ -1,0 +1,119 @@
+{
+    "folder": "180",
+    "audio_files": [
+        {
+            "file": "180_1.wav",
+            "duration": 27.29
+        },
+        {
+            "file": "180_2.wav",
+            "duration": 30.96
+        },
+        {
+            "file": "180_3.wav",
+            "duration": 33.04
+        },
+        {
+            "file": "180_4.wav",
+            "duration": 29.32
+        },
+        {
+            "file": "180_5.wav",
+            "duration": 31.23
+        },
+        {
+            "file": "180_6.wav",
+            "duration": 25.2
+        },
+        {
+            "file": "180_7.wav",
+            "duration": 31.91
+        },
+        {
+            "file": "180_8.wav",
+            "duration": 25.53
+        },
+        {
+            "file": "180_9.wav",
+            "duration": 17.45
+        },
+        {
+            "file": "180_10.wav",
+            "duration": 27.53
+        },
+        {
+            "file": "180_11.wav",
+            "duration": 29.51
+        },
+        {
+            "file": "180_12.wav",
+            "duration": 30.47
+        },
+        {
+            "file": "180_13.wav",
+            "duration": 32.8
+        },
+        {
+            "file": "180_14.wav",
+            "duration": 35.43
+        },
+        {
+            "file": "180_15.wav",
+            "duration": 32.58
+        },
+        {
+            "file": "180_16.wav",
+            "duration": 31.0
+        },
+        {
+            "file": "180_17.wav",
+            "duration": 27.18
+        },
+        {
+            "file": "180_18.wav",
+            "duration": 27.98
+        },
+        {
+            "file": "180_19.wav",
+            "duration": 33.45
+        },
+        {
+            "file": "180_20.wav",
+            "duration": 35.26
+        },
+        {
+            "file": "180_21.wav",
+            "duration": 37.34
+        },
+        {
+            "file": "180_22.wav",
+            "duration": 31.18
+        },
+        {
+            "file": "180_23.wav",
+            "duration": 32.0
+        },
+        {
+            "file": "180_24.wav",
+            "duration": 30.39
+        },
+        {
+            "file": "180_25.wav",
+            "duration": 36.05
+        },
+        {
+            "file": "180_26.wav",
+            "duration": 27.22
+        },
+        {
+            "file": "180_27.wav",
+            "duration": 29.04
+        },
+        {
+            "file": "180_28.wav",
+            "duration": 32.71
+        }
+    ],
+    "total_files": 28,
+    "total_duration": 851.05
+}

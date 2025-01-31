@@ -1,0 +1,91 @@
+{
+    "folder": "196",
+    "audio_files": [
+        {
+            "file": "196_1.wav",
+            "duration": 35.43
+        },
+        {
+            "file": "196_2.wav",
+            "duration": 26.36
+        },
+        {
+            "file": "196_3.wav",
+            "duration": 35.19
+        },
+        {
+            "file": "196_4.wav",
+            "duration": 30.47
+        },
+        {
+            "file": "196_5.wav",
+            "duration": 31.03
+        },
+        {
+            "file": "196_6.wav",
+            "duration": 36.0
+        },
+        {
+            "file": "196_7.wav",
+            "duration": 35.52
+        },
+        {
+            "file": "196_8.wav",
+            "duration": 36.75
+        },
+        {
+            "file": "196_9.wav",
+            "duration": 38.05
+        },
+        {
+            "file": "196_10.wav",
+            "duration": 32.28
+        },
+        {
+            "file": "196_11.wav",
+            "duration": 25.71
+        },
+        {
+            "file": "196_12.wav",
+            "duration": 36.13
+        },
+        {
+            "file": "196_13.wav",
+            "duration": 38.09
+        },
+        {
+            "file": "196_14.wav",
+            "duration": 30.07
+        },
+        {
+            "file": "196_15.wav",
+            "duration": 34.5
+        },
+        {
+            "file": "196_16.wav",
+            "duration": 28.44
+        },
+        {
+            "file": "196_17.wav",
+            "duration": 32.78
+        },
+        {
+            "file": "196_18.wav",
+            "duration": 32.86
+        },
+        {
+            "file": "196_19.wav",
+            "duration": 36.68
+        },
+        {
+            "file": "196_20.wav",
+            "duration": 30.1
+        },
+        {
+            "file": "196_21.wav",
+            "duration": 34.66
+        }
+    ],
+    "total_files": 21,
+    "total_duration": 697.1
+}

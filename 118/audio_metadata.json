@@ -1,0 +1,103 @@
+{
+    "folder": "118",
+    "audio_files": [
+        {
+            "file": "118_1.wav",
+            "duration": 35.35
+        },
+        {
+            "file": "118_2.wav",
+            "duration": 23.63
+        },
+        {
+            "file": "118_3.wav",
+            "duration": 23.48
+        },
+        {
+            "file": "118_4.wav",
+            "duration": 27.43
+        },
+        {
+            "file": "118_5.wav",
+            "duration": 27.75
+        },
+        {
+            "file": "118_6.wav",
+            "duration": 28.12
+        },
+        {
+            "file": "118_7.wav",
+            "duration": 28.86
+        },
+        {
+            "file": "118_8.wav",
+            "duration": 31.61
+        },
+        {
+            "file": "118_9.wav",
+            "duration": 33.26
+        },
+        {
+            "file": "118_10.wav",
+            "duration": 29.8
+        },
+        {
+            "file": "118_11.wav",
+            "duration": 31.23
+        },
+        {
+            "file": "118_12.wav",
+            "duration": 31.39
+        },
+        {
+            "file": "118_13.wav",
+            "duration": 33.43
+        },
+        {
+            "file": "118_14.wav",
+            "duration": 27.79
+        },
+        {
+            "file": "118_15.wav",
+            "duration": 26.73
+        },
+        {
+            "file": "118_16.wav",
+            "duration": 31.36
+        },
+        {
+            "file": "118_17.wav",
+            "duration": 28.96
+        },
+        {
+            "file": "118_18.wav",
+            "duration": 25.51
+        },
+        {
+            "file": "118_19.wav",
+            "duration": 33.32
+        },
+        {
+            "file": "118_20.wav",
+            "duration": 27.46
+        },
+        {
+            "file": "118_21.wav",
+            "duration": 36.42
+        },
+        {
+            "file": "118_22.wav",
+            "duration": 37.58
+        },
+        {
+            "file": "118_23.wav",
+            "duration": 25.25
+        },
+        {
+            "file": "118_24.wav",
+            "duration": 34.2
+        }
+    ],
+    "total_files": 24,
+    "total_duration": 719.92
+}

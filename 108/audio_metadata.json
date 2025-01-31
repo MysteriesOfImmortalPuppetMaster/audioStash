@@ -1,0 +1,83 @@
+{
+    "folder": "108",
+    "audio_files": [
+        {
+            "file": "108_1.wav",
+            "duration": 34.23
+        },
+        {
+            "file": "108_2.wav",
+            "duration": 33.33
+        },
+        {
+            "file": "108_3.wav",
+            "duration": 36.95
+        },
+        {
+            "file": "108_4.wav",
+            "duration": 40.0
+        },
+        {
+            "file": "108_5.wav",
+            "duration": 29.87
+        },
+        {
+            "file": "108_6.wav",
+            "duration": 35.55
+        },
+        {
+            "file": "108_7.wav",
+            "duration": 33.71
+        },
+        {
+            "file": "108_8.wav",
+            "duration": 31.64
+        },
+        {
+            "file": "108_9.wav",
+            "duration": 31.46
+        },
+        {
+            "file": "108_10.wav",
+            "duration": 32.75
+        },
+        {
+            "file": "108_11.wav",
+            "duration": 33.25
+        },
+        {
+            "file": "108_12.wav",
+            "duration": 34.87
+        },
+        {
+            "file": "108_13.wav",
+            "duration": 33.54
+        },
+        {
+            "file": "108_14.wav",
+            "duration": 32.23
+        },
+        {
+            "file": "108_15.wav",
+            "duration": 35.9
+        },
+        {
+            "file": "108_16.wav",
+            "duration": 30.66
+        },
+        {
+            "file": "108_17.wav",
+            "duration": 38.6
+        },
+        {
+            "file": "108_18.wav",
+            "duration": 34.98
+        },
+        {
+            "file": "108_19.wav",
+            "duration": 37.3
+        }
+    ],
+    "total_files": 19,
+    "total_duration": 650.82
+}

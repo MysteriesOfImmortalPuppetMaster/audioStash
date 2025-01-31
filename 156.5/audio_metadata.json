@@ -1,0 +1,47 @@
+{
+    "folder": "156.5",
+    "audio_files": [
+        {
+            "file": "156.5_1.wav",
+            "duration": 31.63
+        },
+        {
+            "file": "156.5_2.wav",
+            "duration": 39.58
+        },
+        {
+            "file": "156.5_3.wav",
+            "duration": 27.5
+        },
+        {
+            "file": "156.5_4.wav",
+            "duration": 29.26
+        },
+        {
+            "file": "156.5_5.wav",
+            "duration": 36.84
+        },
+        {
+            "file": "156.5_6.wav",
+            "duration": 29.8
+        },
+        {
+            "file": "156.5_7.wav",
+            "duration": 28.52
+        },
+        {
+            "file": "156.5_8.wav",
+            "duration": 23.38
+        },
+        {
+            "file": "156.5_9.wav",
+            "duration": 34.69
+        },
+        {
+            "file": "156.5_10.wav",
+            "duration": 31.99
+        }
+    ],
+    "total_files": 10,
+    "total_duration": 313.19
+}

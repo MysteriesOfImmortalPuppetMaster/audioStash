@@ -1,0 +1,87 @@
+{
+    "folder": "104",
+    "audio_files": [
+        {
+            "file": "104_1.wav",
+            "duration": 33.85
+        },
+        {
+            "file": "104_2.wav",
+            "duration": 33.32
+        },
+        {
+            "file": "104_3.wav",
+            "duration": 33.6
+        },
+        {
+            "file": "104_4.wav",
+            "duration": 32.14
+        },
+        {
+            "file": "104_5.wav",
+            "duration": 24.55
+        },
+        {
+            "file": "104_6.wav",
+            "duration": 35.97
+        },
+        {
+            "file": "104_7.wav",
+            "duration": 30.24
+        },
+        {
+            "file": "104_8.wav",
+            "duration": 29.32
+        },
+        {
+            "file": "104_9.wav",
+            "duration": 31.71
+        },
+        {
+            "file": "104_10.wav",
+            "duration": 29.25
+        },
+        {
+            "file": "104_11.wav",
+            "duration": 24.73
+        },
+        {
+            "file": "104_12.wav",
+            "duration": 24.7
+        },
+        {
+            "file": "104_13.wav",
+            "duration": 42.23
+        },
+        {
+            "file": "104_14.wav",
+            "duration": 26.0
+        },
+        {
+            "file": "104_15.wav",
+            "duration": 30.44
+        },
+        {
+            "file": "104_16.wav",
+            "duration": 36.21
+        },
+        {
+            "file": "104_17.wav",
+            "duration": 28.63
+        },
+        {
+            "file": "104_18.wav",
+            "duration": 31.54
+        },
+        {
+            "file": "104_19.wav",
+            "duration": 37.72
+        },
+        {
+            "file": "104_20.wav",
+            "duration": 14.57
+        }
+    ],
+    "total_files": 20,
+    "total_duration": 610.72
+}

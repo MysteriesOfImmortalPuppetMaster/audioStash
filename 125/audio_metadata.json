@@ -1,0 +1,135 @@
+{
+    "folder": "125",
+    "audio_files": [
+        {
+            "file": "125_1.wav",
+            "duration": 29.6
+        },
+        {
+            "file": "125_2.wav",
+            "duration": 36.01
+        },
+        {
+            "file": "125_3.wav",
+            "duration": 36.27
+        },
+        {
+            "file": "125_4.wav",
+            "duration": 34.8
+        },
+        {
+            "file": "125_5.wav",
+            "duration": 26.82
+        },
+        {
+            "file": "125_6.wav",
+            "duration": 34.02
+        },
+        {
+            "file": "125_7.wav",
+            "duration": 27.49
+        },
+        {
+            "file": "125_8.wav",
+            "duration": 27.25
+        },
+        {
+            "file": "125_9.wav",
+            "duration": 25.99
+        },
+        {
+            "file": "125_10.wav",
+            "duration": 29.11
+        },
+        {
+            "file": "125_11.wav",
+            "duration": 29.7
+        },
+        {
+            "file": "125_12.wav",
+            "duration": 37.46
+        },
+        {
+            "file": "125_13.wav",
+            "duration": 36.96
+        },
+        {
+            "file": "125_14.wav",
+            "duration": 30.34
+        },
+        {
+            "file": "125_15.wav",
+            "duration": 29.15
+        },
+        {
+            "file": "125_16.wav",
+            "duration": 28.01
+        },
+        {
+            "file": "125_17.wav",
+            "duration": 29.77
+        },
+        {
+            "file": "125_18.wav",
+            "duration": 30.71
+        },
+        {
+            "file": "125_19.wav",
+            "duration": 21.42
+        },
+        {
+            "file": "125_20.wav",
+            "duration": 30.44
+        },
+        {
+            "file": "125_21.wav",
+            "duration": 31.95
+        },
+        {
+            "file": "125_22.wav",
+            "duration": 31.45
+        },
+        {
+            "file": "125_23.wav",
+            "duration": 31.82
+        },
+        {
+            "file": "125_24.wav",
+            "duration": 29.89
+        },
+        {
+            "file": "125_25.wav",
+            "duration": 37.1
+        },
+        {
+            "file": "125_26.wav",
+            "duration": 34.61
+        },
+        {
+            "file": "125_27.wav",
+            "duration": 35.12
+        },
+        {
+            "file": "125_28.wav",
+            "duration": 32.65
+        },
+        {
+            "file": "125_29.wav",
+            "duration": 30.53
+        },
+        {
+            "file": "125_30.wav",
+            "duration": 33.51
+        },
+        {
+            "file": "125_31.wav",
+            "duration": 36.87
+        },
+        {
+            "file": "125_32.wav",
+            "duration": 5.01
+        }
+    ],
+    "total_files": 32,
+    "total_duration": 981.83
+}

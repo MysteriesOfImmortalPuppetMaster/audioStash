@@ -1,0 +1,123 @@
+{
+    "folder": "172",
+    "audio_files": [
+        {
+            "file": "172_1.wav",
+            "duration": 33.68
+        },
+        {
+            "file": "172_2.wav",
+            "duration": 26.44
+        },
+        {
+            "file": "172_3.wav",
+            "duration": 32.89
+        },
+        {
+            "file": "172_4.wav",
+            "duration": 39.33
+        },
+        {
+            "file": "172_5.wav",
+            "duration": 31.26
+        },
+        {
+            "file": "172_6.wav",
+            "duration": 29.85
+        },
+        {
+            "file": "172_7.wav",
+            "duration": 31.14
+        },
+        {
+            "file": "172_8.wav",
+            "duration": 34.2
+        },
+        {
+            "file": "172_9.wav",
+            "duration": 26.79
+        },
+        {
+            "file": "172_10.wav",
+            "duration": 28.08
+        },
+        {
+            "file": "172_11.wav",
+            "duration": 34.02
+        },
+        {
+            "file": "172_12.wav",
+            "duration": 33.5
+        },
+        {
+            "file": "172_13.wav",
+            "duration": 29.75
+        },
+        {
+            "file": "172_14.wav",
+            "duration": 35.03
+        },
+        {
+            "file": "172_15.wav",
+            "duration": 32.34
+        },
+        {
+            "file": "172_16.wav",
+            "duration": 28.02
+        },
+        {
+            "file": "172_17.wav",
+            "duration": 28.16
+        },
+        {
+            "file": "172_18.wav",
+            "duration": 33.82
+        },
+        {
+            "file": "172_19.wav",
+            "duration": 27.1
+        },
+        {
+            "file": "172_20.wav",
+            "duration": 32.02
+        },
+        {
+            "file": "172_21.wav",
+            "duration": 30.84
+        },
+        {
+            "file": "172_22.wav",
+            "duration": 28.27
+        },
+        {
+            "file": "172_23.wav",
+            "duration": 30.86
+        },
+        {
+            "file": "172_24.wav",
+            "duration": 29.57
+        },
+        {
+            "file": "172_25.wav",
+            "duration": 33.41
+        },
+        {
+            "file": "172_26.wav",
+            "duration": 33.49
+        },
+        {
+            "file": "172_27.wav",
+            "duration": 30.89
+        },
+        {
+            "file": "172_28.wav",
+            "duration": 27.25
+        },
+        {
+            "file": "172_29.wav",
+            "duration": 33.09
+        }
+    ],
+    "total_files": 29,
+    "total_duration": 905.09
+}

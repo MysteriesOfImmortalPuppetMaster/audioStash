@@ -1,0 +1,79 @@
+{
+    "folder": "116",
+    "audio_files": [
+        {
+            "file": "116_1.wav",
+            "duration": 38.95
+        },
+        {
+            "file": "116_2.wav",
+            "duration": 32.94
+        },
+        {
+            "file": "116_3.wav",
+            "duration": 36.19
+        },
+        {
+            "file": "116_4.wav",
+            "duration": 36.13
+        },
+        {
+            "file": "116_5.wav",
+            "duration": 30.82
+        },
+        {
+            "file": "116_6.wav",
+            "duration": 31.5
+        },
+        {
+            "file": "116_7.wav",
+            "duration": 31.59
+        },
+        {
+            "file": "116_8.wav",
+            "duration": 34.84
+        },
+        {
+            "file": "116_9.wav",
+            "duration": 31.96
+        },
+        {
+            "file": "116_10.wav",
+            "duration": 32.04
+        },
+        {
+            "file": "116_11.wav",
+            "duration": 31.42
+        },
+        {
+            "file": "116_12.wav",
+            "duration": 30.8
+        },
+        {
+            "file": "116_13.wav",
+            "duration": 30.06
+        },
+        {
+            "file": "116_14.wav",
+            "duration": 27.7
+        },
+        {
+            "file": "116_15.wav",
+            "duration": 26.23
+        },
+        {
+            "file": "116_16.wav",
+            "duration": 28.12
+        },
+        {
+            "file": "116_17.wav",
+            "duration": 29.46
+        },
+        {
+            "file": "116_18.wav",
+            "duration": 7.29
+        }
+    ],
+    "total_files": 18,
+    "total_duration": 548.04
+}

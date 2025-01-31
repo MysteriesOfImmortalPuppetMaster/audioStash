@@ -1,0 +1,27 @@
+{
+    "folder": "156.6",
+    "audio_files": [
+        {
+            "file": "156.6_1.wav",
+            "duration": 32.22
+        },
+        {
+            "file": "156.6_2.wav",
+            "duration": 26.24
+        },
+        {
+            "file": "156.6_3.wav",
+            "duration": 33.55
+        },
+        {
+            "file": "156.6_4.wav",
+            "duration": 30.8
+        },
+        {
+            "file": "156.6_5.wav",
+            "duration": 19.04
+        }
+    ],
+    "total_files": 5,
+    "total_duration": 141.85
+}

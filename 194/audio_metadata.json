@@ -1,0 +1,87 @@
+{
+    "folder": "194",
+    "audio_files": [
+        {
+            "file": "194_1.wav",
+            "duration": 36.23
+        },
+        {
+            "file": "194_2.wav",
+            "duration": 32.38
+        },
+        {
+            "file": "194_3.wav",
+            "duration": 30.95
+        },
+        {
+            "file": "194_4.wav",
+            "duration": 30.66
+        },
+        {
+            "file": "194_5.wav",
+            "duration": 22.03
+        },
+        {
+            "file": "194_6.wav",
+            "duration": 32.39
+        },
+        {
+            "file": "194_7.wav",
+            "duration": 28.15
+        },
+        {
+            "file": "194_8.wav",
+            "duration": 30.53
+        },
+        {
+            "file": "194_9.wav",
+            "duration": 27.87
+        },
+        {
+            "file": "194_10.wav",
+            "duration": 33.59
+        },
+        {
+            "file": "194_11.wav",
+            "duration": 35.06
+        },
+        {
+            "file": "194_12.wav",
+            "duration": 32.47
+        },
+        {
+            "file": "194_13.wav",
+            "duration": 31.41
+        },
+        {
+            "file": "194_14.wav",
+            "duration": 33.08
+        },
+        {
+            "file": "194_15.wav",
+            "duration": 28.55
+        },
+        {
+            "file": "194_16.wav",
+            "duration": 33.35
+        },
+        {
+            "file": "194_17.wav",
+            "duration": 31.6
+        },
+        {
+            "file": "194_18.wav",
+            "duration": 32.33
+        },
+        {
+            "file": "194_19.wav",
+            "duration": 36.22
+        },
+        {
+            "file": "194_20.wav",
+            "duration": 8.3
+        }
+    ],
+    "total_files": 20,
+    "total_duration": 607.15
+}

@@ -1,0 +1,79 @@
+{
+    "folder": "190",
+    "audio_files": [
+        {
+            "file": "190_1.wav",
+            "duration": 36.65
+        },
+        {
+            "file": "190_2.wav",
+            "duration": 31.96
+        },
+        {
+            "file": "190_3.wav",
+            "duration": 31.36
+        },
+        {
+            "file": "190_4.wav",
+            "duration": 33.59
+        },
+        {
+            "file": "190_5.wav",
+            "duration": 30.2
+        },
+        {
+            "file": "190_6.wav",
+            "duration": 26.21
+        },
+        {
+            "file": "190_7.wav",
+            "duration": 32.62
+        },
+        {
+            "file": "190_8.wav",
+            "duration": 27.25
+        },
+        {
+            "file": "190_9.wav",
+            "duration": 35.06
+        },
+        {
+            "file": "190_10.wav",
+            "duration": 35.21
+        },
+        {
+            "file": "190_11.wav",
+            "duration": 29.1
+        },
+        {
+            "file": "190_12.wav",
+            "duration": 26.46
+        },
+        {
+            "file": "190_13.wav",
+            "duration": 31.1
+        },
+        {
+            "file": "190_14.wav",
+            "duration": 27.85
+        },
+        {
+            "file": "190_15.wav",
+            "duration": 33.41
+        },
+        {
+            "file": "190_16.wav",
+            "duration": 31.55
+        },
+        {
+            "file": "190_17.wav",
+            "duration": 33.12
+        },
+        {
+            "file": "190_18.wav",
+            "duration": 30.3
+        }
+    ],
+    "total_files": 18,
+    "total_duration": 563.0
+}
