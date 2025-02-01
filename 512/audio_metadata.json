@@ -1,0 +1,171 @@
+{
+    "folder": "512",
+    "audio_files": [
+        {
+            "file": "512_1.mp3",
+            "duration": 29.32
+        },
+        {
+            "file": "512_2.mp3",
+            "duration": 46.92
+        },
+        {
+            "file": "512_3.mp3",
+            "duration": 9.78
+        },
+        {
+            "file": "512_4.mp3",
+            "duration": 41.99
+        },
+        {
+            "file": "512_5.mp3",
+            "duration": 27.28
+        },
+        {
+            "file": "512_6.mp3",
+            "duration": 18.2
+        },
+        {
+            "file": "512_7.mp3",
+            "duration": 34.43
+        },
+        {
+            "file": "512_8.mp3",
+            "duration": 33.27
+        },
+        {
+            "file": "512_9.mp3",
+            "duration": 33.49
+        },
+        {
+            "file": "512_10.mp3",
+            "duration": 31.79
+        },
+        {
+            "file": "512_11.mp3",
+            "duration": 32.71
+        },
+        {
+            "file": "512_12.mp3",
+            "duration": 16.6
+        },
+        {
+            "file": "512_13.mp3",
+            "duration": 30.31
+        },
+        {
+            "file": "512_14.mp3",
+            "duration": 31.6
+        },
+        {
+            "file": "512_15.mp3",
+            "duration": 30.48
+        },
+        {
+            "file": "512_16.mp3",
+            "duration": 22.27
+        },
+        {
+            "file": "512_17.mp3",
+            "duration": 23.38
+        },
+        {
+            "file": "512_18.mp3",
+            "duration": 26.04
+        },
+        {
+            "file": "512_19.mp3",
+            "duration": 25.29
+        },
+        {
+            "file": "512_20.mp3",
+            "duration": 34.35
+        },
+        {
+            "file": "512_21.mp3",
+            "duration": 29.82
+        },
+        {
+            "file": "512_22.mp3",
+            "duration": 36.01
+        },
+        {
+            "file": "512_23.mp3",
+            "duration": 32.57
+        },
+        {
+            "file": "512_24.mp3",
+            "duration": 29.92
+        },
+        {
+            "file": "512_25.mp3",
+            "duration": 36.46
+        },
+        {
+            "file": "512_26.mp3",
+            "duration": 29.98
+        },
+        {
+            "file": "512_27.mp3",
+            "duration": 31.51
+        },
+        {
+            "file": "512_28.mp3",
+            "duration": 34.98
+        },
+        {
+            "file": "512_29.mp3",
+            "duration": 33.31
+        },
+        {
+            "file": "512_30.mp3",
+            "duration": 23.62
+        },
+        {
+            "file": "512_31.mp3",
+            "duration": 34.51
+        },
+        {
+            "file": "512_32.mp3",
+            "duration": 33.14
+        },
+        {
+            "file": "512_33.mp3",
+            "duration": 34.05
+        },
+        {
+            "file": "512_34.mp3",
+            "duration": 35.72
+        },
+        {
+            "file": "512_35.mp3",
+            "duration": 38.98
+        },
+        {
+            "file": "512_36.mp3",
+            "duration": 32.92
+        },
+        {
+            "file": "512_37.mp3",
+            "duration": 38.73
+        },
+        {
+            "file": "512_38.mp3",
+            "duration": 28.25
+        },
+        {
+            "file": "512_39.mp3",
+            "duration": 32.95
+        },
+        {
+            "file": "512_40.mp3",
+            "duration": 10.96
+        },
+        {
+            "file": "512_41.mp3",
+            "duration": 41.53
+        }
+    ],
+    "total_files": 41,
+    "total_duration": 1259.42
+}
