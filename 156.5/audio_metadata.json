@@ -1,0 +1,55 @@
+{
+    "folder": "156.5",
+    "audio_files": [
+        {
+            "file": "156.5_1.webm",
+            "duration": 22.27
+        },
+        {
+            "file": "156.5_2.webm",
+            "duration": 31.77
+        },
+        {
+            "file": "156.5_3.webm",
+            "duration": 30.68
+        },
+        {
+            "file": "156.5_4.webm",
+            "duration": 23.52
+        },
+        {
+            "file": "156.5_5.webm",
+            "duration": 26.1
+        },
+        {
+            "file": "156.5_6.webm",
+            "duration": 28.45
+        },
+        {
+            "file": "156.5_7.webm",
+            "duration": 29.77
+        },
+        {
+            "file": "156.5_8.webm",
+            "duration": 23.27
+        },
+        {
+            "file": "156.5_9.webm",
+            "duration": 22.57
+        },
+        {
+            "file": "156.5_10.webm",
+            "duration": 26.5
+        },
+        {
+            "file": "156.5_11.webm",
+            "duration": 29.23
+        },
+        {
+            "file": "156.5_12.webm",
+            "duration": 16.25
+        }
+    ],
+    "total_files": 12,
+    "total_duration": 310.4
+}

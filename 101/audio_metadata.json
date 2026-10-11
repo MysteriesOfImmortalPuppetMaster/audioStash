@@ -1,0 +1,115 @@
+{
+    "folder": "101",
+    "audio_files": [
+        {
+            "file": "101_1.webm",
+            "duration": 29.43
+        },
+        {
+            "file": "101_2.webm",
+            "duration": 18.9
+        },
+        {
+            "file": "101_3.webm",
+            "duration": 25.98
+        },
+        {
+            "file": "101_4.webm",
+            "duration": 21.23
+        },
+        {
+            "file": "101_5.webm",
+            "duration": 23.45
+        },
+        {
+            "file": "101_6.webm",
+            "duration": 22.0
+        },
+        {
+            "file": "101_7.webm",
+            "duration": 21.18
+        },
+        {
+            "file": "101_8.webm",
+            "duration": 23.73
+        },
+        {
+            "file": "101_9.webm",
+            "duration": 23.43
+        },
+        {
+            "file": "101_10.webm",
+            "duration": 25.12
+        },
+        {
+            "file": "101_11.webm",
+            "duration": 25.88
+        },
+        {
+            "file": "101_12.webm",
+            "duration": 26.07
+        },
+        {
+            "file": "101_13.webm",
+            "duration": 26.2
+        },
+        {
+            "file": "101_14.webm",
+            "duration": 24.07
+        },
+        {
+            "file": "101_15.webm",
+            "duration": 27.18
+        },
+        {
+            "file": "101_16.webm",
+            "duration": 22.8
+        },
+        {
+            "file": "101_17.webm",
+            "duration": 21.12
+        },
+        {
+            "file": "101_18.webm",
+            "duration": 23.45
+        },
+        {
+            "file": "101_19.webm",
+            "duration": 18.02
+        },
+        {
+            "file": "101_20.webm",
+            "duration": 25.88
+        },
+        {
+            "file": "101_21.webm",
+            "duration": 25.73
+        },
+        {
+            "file": "101_22.webm",
+            "duration": 27.55
+        },
+        {
+            "file": "101_23.webm",
+            "duration": 20.05
+        },
+        {
+            "file": "101_24.webm",
+            "duration": 27.4
+        },
+        {
+            "file": "101_25.webm",
+            "duration": 31.2
+        },
+        {
+            "file": "101_26.webm",
+            "duration": 27.18
+        },
+        {
+            "file": "101_27.webm",
+            "duration": 18.18
+        }
+    ],
+    "total_files": 27,
+    "total_duration": 652.38
+}

@@ -1,0 +1,91 @@
+{
+    "folder": "145",
+    "audio_files": [
+        {
+            "file": "145_1.webm",
+            "duration": 30.68
+        },
+        {
+            "file": "145_2.webm",
+            "duration": 29.62
+        },
+        {
+            "file": "145_3.webm",
+            "duration": 27.62
+        },
+        {
+            "file": "145_4.webm",
+            "duration": 23.02
+        },
+        {
+            "file": "145_5.webm",
+            "duration": 26.68
+        },
+        {
+            "file": "145_6.webm",
+            "duration": 25.38
+        },
+        {
+            "file": "145_7.webm",
+            "duration": 23.18
+        },
+        {
+            "file": "145_8.webm",
+            "duration": 27.2
+        },
+        {
+            "file": "145_9.webm",
+            "duration": 19.35
+        },
+        {
+            "file": "145_10.webm",
+            "duration": 22.52
+        },
+        {
+            "file": "145_11.webm",
+            "duration": 26.7
+        },
+        {
+            "file": "145_12.webm",
+            "duration": 25.23
+        },
+        {
+            "file": "145_13.webm",
+            "duration": 18.38
+        },
+        {
+            "file": "145_14.webm",
+            "duration": 24.98
+        },
+        {
+            "file": "145_15.webm",
+            "duration": 26.32
+        },
+        {
+            "file": "145_16.webm",
+            "duration": 27.52
+        },
+        {
+            "file": "145_17.webm",
+            "duration": 23.3
+        },
+        {
+            "file": "145_18.webm",
+            "duration": 28.5
+        },
+        {
+            "file": "145_19.webm",
+            "duration": 26.55
+        },
+        {
+            "file": "145_20.webm",
+            "duration": 28.23
+        },
+        {
+            "file": "145_21.webm",
+            "duration": 13.97
+        }
+    ],
+    "total_files": 21,
+    "total_duration": 524.92
+}

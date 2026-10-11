@@ -1,0 +1,31 @@
+{
+    "folder": "156.6",
+    "audio_files": [
+        {
+            "file": "156.6_1.webm",
+            "duration": 28.15
+        },
+        {
+            "file": "156.6_2.webm",
+            "duration": 25.1
+        },
+        {
+            "file": "156.6_3.webm",
+            "duration": 24.48
+        },
+        {
+            "file": "156.6_4.webm",
+            "duration": 22.73
+        },
+        {
+            "file": "156.6_5.webm",
+            "duration": 28.12
+        },
+        {
+            "file": "156.6_6.webm",
+            "duration": 12.18
+        }
+    ],
+    "total_files": 6,
+    "total_duration": 140.75
+}

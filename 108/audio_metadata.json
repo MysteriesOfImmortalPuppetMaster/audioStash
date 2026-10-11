@@ -1,0 +1,103 @@
+{
+    "folder": "108",
+    "audio_files": [
+        {
+            "file": "108_1.webm",
+            "duration": 24.27
+        },
+        {
+            "file": "108_2.webm",
+            "duration": 24.75
+        },
+        {
+            "file": "108_3.webm",
+            "duration": 25.7
+        },
+        {
+            "file": "108_4.webm",
+            "duration": 26.45
+        },
+        {
+            "file": "108_5.webm",
+            "duration": 30.57
+        },
+        {
+            "file": "108_6.webm",
+            "duration": 21.6
+        },
+        {
+            "file": "108_7.webm",
+            "duration": 24.68
+        },
+        {
+            "file": "108_8.webm",
+            "duration": 24.48
+        },
+        {
+            "file": "108_9.webm",
+            "duration": 21.48
+        },
+        {
+            "file": "108_10.webm",
+            "duration": 24.43
+        },
+        {
+            "file": "108_11.webm",
+            "duration": 24.32
+        },
+        {
+            "file": "108_12.webm",
+            "duration": 24.35
+        },
+        {
+            "file": "108_13.webm",
+            "duration": 28.1
+        },
+        {
+            "file": "108_14.webm",
+            "duration": 16.38
+        },
+        {
+            "file": "108_15.webm",
+            "duration": 25.27
+        },
+        {
+            "file": "108_16.webm",
+            "duration": 29.02
+        },
+        {
+            "file": "108_17.webm",
+            "duration": 25.93
+        },
+        {
+            "file": "108_18.webm",
+            "duration": 24.25
+        },
+        {
+            "file": "108_19.webm",
+            "duration": 20.98
+        },
+        {
+            "file": "108_20.webm",
+            "duration": 27.52
+        },
+        {
+            "file": "108_21.webm",
+            "duration": 20.45
+        },
+        {
+            "file": "108_22.webm",
+            "duration": 25.85
+        },
+        {
+            "file": "108_23.webm",
+            "duration": 28.25
+        },
+        {
+            "file": "108_24.webm",
+            "duration": 9.88
+        }
+    ],
+    "total_files": 24,
+    "total_duration": 578.95
+}
