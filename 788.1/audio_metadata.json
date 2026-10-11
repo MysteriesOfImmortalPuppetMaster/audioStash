@@ -1,0 +1,15 @@
+{
+    "folder": "788.1",
+    "audio_files": [
+        {
+            "file": "788.1_1.webm",
+            "duration": 19.55
+        },
+        {
+            "file": "788.1_2.webm",
+            "duration": 35.05
+        }
+    ],
+    "total_files": 2,
+    "total_duration": 54.6
+}
