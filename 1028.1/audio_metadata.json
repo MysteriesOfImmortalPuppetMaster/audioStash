@@ -1,0 +1,59 @@
+{
+    "folder": "1028.1",
+    "audio_files": [
+        {
+            "file": "1028.1_1.webm",
+            "duration": 28.52
+        },
+        {
+            "file": "1028.1_2.webm",
+            "duration": 33.9
+        },
+        {
+            "file": "1028.1_3.webm",
+            "duration": 18.98
+        },
+        {
+            "file": "1028.1_4.webm",
+            "duration": 23.5
+        },
+        {
+            "file": "1028.1_5.webm",
+            "duration": 23.0
+        },
+        {
+            "file": "1028.1_6.webm",
+            "duration": 26.52
+        },
+        {
+            "file": "1028.1_7.webm",
+            "duration": 21.93
+        },
+        {
+            "file": "1028.1_8.webm",
+            "duration": 16.38
+        },
+        {
+            "file": "1028.1_9.webm",
+            "duration": 25.85
+        },
+        {
+            "file": "1028.1_10.webm",
+            "duration": 27.38
+        },
+        {
+            "file": "1028.1_11.webm",
+            "duration": 23.48
+        },
+        {
+            "file": "1028.1_12.webm",
+            "duration": 23.2
+        },
+        {
+            "file": "1028.1_13.webm",
+            "duration": 20.88
+        }
+    ],
+    "total_files": 13,
+    "total_duration": 313.5
+}
