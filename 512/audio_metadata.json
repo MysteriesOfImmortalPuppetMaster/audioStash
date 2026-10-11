@@ -1,0 +1,199 @@
+{
+    "folder": "512",
+    "audio_files": [
+        {
+            "file": "512_1.webm",
+            "duration": 25.68
+        },
+        {
+            "file": "512_2.webm",
+            "duration": 23.88
+        },
+        {
+            "file": "512_3.webm",
+            "duration": 24.62
+        },
+        {
+            "file": "512_4.webm",
+            "duration": 25.75
+        },
+        {
+            "file": "512_5.webm",
+            "duration": 22.07
+        },
+        {
+            "file": "512_6.webm",
+            "duration": 22.88
+        },
+        {
+            "file": "512_7.webm",
+            "duration": 23.9
+        },
+        {
+            "file": "512_8.webm",
+            "duration": 25.1
+        },
+        {
+            "file": "512_9.webm",
+            "duration": 22.3
+        },
+        {
+            "file": "512_10.webm",
+            "duration": 23.65
+        },
+        {
+            "file": "512_11.webm",
+            "duration": 19.52
+        },
+        {
+            "file": "512_12.webm",
+            "duration": 14.55
+        },
+        {
+            "file": "512_13.webm",
+            "duration": 26.12
+        },
+        {
+            "file": "512_14.webm",
+            "duration": 18.2
+        },
+        {
+            "file": "512_15.webm",
+            "duration": 24.07
+        },
+        {
+            "file": "512_16.webm",
+            "duration": 19.73
+        },
+        {
+            "file": "512_17.webm",
+            "duration": 26.3
+        },
+        {
+            "file": "512_18.webm",
+            "duration": 28.48
+        },
+        {
+            "file": "512_19.webm",
+            "duration": 22.3
+        },
+        {
+            "file": "512_20.webm",
+            "duration": 21.57
+        },
+        {
+            "file": "512_21.webm",
+            "duration": 25.1
+        },
+        {
+            "file": "512_22.webm",
+            "duration": 24.77
+        },
+        {
+            "file": "512_23.webm",
+            "duration": 24.02
+        },
+        {
+            "file": "512_24.webm",
+            "duration": 29.3
+        },
+        {
+            "file": "512_25.webm",
+            "duration": 28.6
+        },
+        {
+            "file": "512_26.webm",
+            "duration": 21.7
+        },
+        {
+            "file": "512_27.webm",
+            "duration": 24.18
+        },
+        {
+            "file": "512_28.webm",
+            "duration": 30.0
+        },
+        {
+            "file": "512_29.webm",
+            "duration": 26.75
+        },
+        {
+            "file": "512_30.webm",
+            "duration": 26.18
+        },
+        {
+            "file": "512_31.webm",
+            "duration": 21.62
+        },
+        {
+            "file": "512_32.webm",
+            "duration": 25.05
+        },
+        {
+            "file": "512_33.webm",
+            "duration": 22.77
+        },
+        {
+            "file": "512_34.webm",
+            "duration": 24.62
+        },
+        {
+            "file": "512_35.webm",
+            "duration": 25.55
+        },
+        {
+            "file": "512_36.webm",
+            "duration": 25.9
+        },
+        {
+            "file": "512_37.webm",
+            "duration": 15.95
+        },
+        {
+            "file": "512_38.webm",
+            "duration": 28.05
+        },
+        {
+            "file": "512_39.webm",
+            "duration": 25.27
+        },
+        {
+            "file": "512_40.webm",
+            "duration": 21.4
+        },
+        {
+            "file": "512_41.webm",
+            "duration": 20.2
+        },
+        {
+            "file": "512_42.webm",
+            "duration": 27.35
+        },
+        {
+            "file": "512_43.webm",
+            "duration": 22.9
+        },
+        {
+            "file": "512_44.webm",
+            "duration": 25.65
+        },
+        {
+            "file": "512_45.webm",
+            "duration": 26.45
+        },
+        {
+            "file": "512_46.webm",
+            "duration": 28.8
+        },
+        {
+            "file": "512_47.webm",
+            "duration": 28.0
+        },
+        {
+            "file": "512_48.webm",
+            "duration": 25.4
+        }
+    ],
+    "total_files": 48,
+    "total_duration": 1162.22
+}

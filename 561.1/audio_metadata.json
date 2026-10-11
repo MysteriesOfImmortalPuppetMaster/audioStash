@@ -1,0 +1,31 @@
+{
+    "folder": "561.1",
+    "audio_files": [
+        {
+            "file": "561.1_1.webm",
+            "duration": 32.6
+        },
+        {
+            "file": "561.1_2.webm",
+            "duration": 18.12
+        },
+        {
+            "file": "561.1_3.webm",
+            "duration": 19.52
+        },
+        {
+            "file": "561.1_4.webm",
+            "duration": 25.32
+        },
+        {
+            "file": "561.1_5.webm",
+            "duration": 28.18
+        },
+        {
+            "file": "561.1_6.webm",
+            "duration": 19.0
+        }
+    ],
+    "total_files": 6,
+    "total_duration": 142.75
+}
