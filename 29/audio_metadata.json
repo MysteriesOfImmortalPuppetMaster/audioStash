@@ -1,0 +1,83 @@
+{
+    "folder": "29",
+    "audio_files": [
+        {
+            "file": "29_1.webm",
+            "duration": 32.83
+        },
+        {
+            "file": "29_2.webm",
+            "duration": 29.43
+        },
+        {
+            "file": "29_3.webm",
+            "duration": 21.15
+        },
+        {
+            "file": "29_4.webm",
+            "duration": 19.85
+        },
+        {
+            "file": "29_5.webm",
+            "duration": 25.65
+        },
+        {
+            "file": "29_6.webm",
+            "duration": 26.05
+        },
+        {
+            "file": "29_7.webm",
+            "duration": 23.55
+        },
+        {
+            "file": "29_8.webm",
+            "duration": 25.57
+        },
+        {
+            "file": "29_9.webm",
+            "duration": 22.52
+        },
+        {
+            "file": "29_10.webm",
+            "duration": 26.65
+        },
+        {
+            "file": "29_11.webm",
+            "duration": 31.23
+        },
+        {
+            "file": "29_12.webm",
+            "duration": 27.43
+        },
+        {
+            "file": "29_13.webm",
+            "duration": 28.88
+        },
+        {
+            "file": "29_14.webm",
+            "duration": 26.88
+        },
+        {
+            "file": "29_15.webm",
+            "duration": 27.98
+        },
+        {
+            "file": "29_16.webm",
+            "duration": 29.12
+        },
+        {
+            "file": "29_17.webm",
+            "duration": 29.2
+        },
+        {
+            "file": "29_18.webm",
+            "duration": 25.57
+        },
+        {
+            "file": "29_19.webm",
+            "duration": 22.88
+        }
+    ],
+    "total_files": 19,
+    "total_duration": 502.4
+}

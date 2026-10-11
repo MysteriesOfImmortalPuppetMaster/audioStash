@@ -1,0 +1,95 @@
+{
+    "folder": "72",
+    "audio_files": [
+        {
+            "file": "72_1.webm",
+            "duration": 18.4
+        },
+        {
+            "file": "72_2.webm",
+            "duration": 27.3
+        },
+        {
+            "file": "72_3.webm",
+            "duration": 26.2
+        },
+        {
+            "file": "72_4.webm",
+            "duration": 22.5
+        },
+        {
+            "file": "72_5.webm",
+            "duration": 15.3
+        },
+        {
+            "file": "72_6.webm",
+            "duration": 27.62
+        },
+        {
+            "file": "72_7.webm",
+            "duration": 27.12
+        },
+        {
+            "file": "72_8.webm",
+            "duration": 27.0
+        },
+        {
+            "file": "72_9.webm",
+            "duration": 26.95
+        },
+        {
+            "file": "72_10.webm",
+            "duration": 26.35
+        },
+        {
+            "file": "72_11.webm",
+            "duration": 26.38
+        },
+        {
+            "file": "72_12.webm",
+            "duration": 26.23
+        },
+        {
+            "file": "72_13.webm",
+            "duration": 23.62
+        },
+        {
+            "file": "72_14.webm",
+            "duration": 30.18
+        },
+        {
+            "file": "72_15.webm",
+            "duration": 26.98
+        },
+        {
+            "file": "72_16.webm",
+            "duration": 27.38
+        },
+        {
+            "file": "72_17.webm",
+            "duration": 20.35
+        },
+        {
+            "file": "72_18.webm",
+            "duration": 24.05
+        },
+        {
+            "file": "72_19.webm",
+            "duration": 27.6
+        },
+        {
+            "file": "72_20.webm",
+            "duration": 26.75
+        },
+        {
+            "file": "72_21.webm",
+            "duration": 23.38
+        },
+        {
+            "file": "72_22.webm",
+            "duration": 8.22
+        }
+    ],
+    "total_files": 22,
+    "total_duration": 535.85
+}

@@ -1,0 +1,95 @@
+{
+    "folder": "49",
+    "audio_files": [
+        {
+            "file": "49_1.webm",
+            "duration": 25.4
+        },
+        {
+            "file": "49_2.webm",
+            "duration": 24.98
+        },
+        {
+            "file": "49_3.webm",
+            "duration": 24.35
+        },
+        {
+            "file": "49_4.webm",
+            "duration": 24.45
+        },
+        {
+            "file": "49_5.webm",
+            "duration": 28.95
+        },
+        {
+            "file": "49_6.webm",
+            "duration": 23.27
+        },
+        {
+            "file": "49_7.webm",
+            "duration": 28.62
+        },
+        {
+            "file": "49_8.webm",
+            "duration": 26.12
+        },
+        {
+            "file": "49_9.webm",
+            "duration": 21.93
+        },
+        {
+            "file": "49_10.webm",
+            "duration": 27.27
+        },
+        {
+            "file": "49_11.webm",
+            "duration": 26.4
+        },
+        {
+            "file": "49_12.webm",
+            "duration": 23.4
+        },
+        {
+            "file": "49_13.webm",
+            "duration": 27.77
+        },
+        {
+            "file": "49_14.webm",
+            "duration": 22.85
+        },
+        {
+            "file": "49_15.webm",
+            "duration": 28.62
+        },
+        {
+            "file": "49_16.webm",
+            "duration": 23.88
+        },
+        {
+            "file": "49_17.webm",
+            "duration": 27.07
+        },
+        {
+            "file": "49_18.webm",
+            "duration": 24.82
+        },
+        {
+            "file": "49_19.webm",
+            "duration": 26.15
+        },
+        {
+            "file": "49_20.webm",
+            "duration": 23.77
+        },
+        {
+            "file": "49_21.webm",
+            "duration": 27.23
+        },
+        {
+            "file": "49_22.webm",
+            "duration": 18.95
+        }
+    ],
+    "total_files": 22,
+    "total_duration": 556.27
+}

@@ -1,0 +1,123 @@
+{
+    "folder": "89",
+    "audio_files": [
+        {
+            "file": "89_1.webm",
+            "duration": 27.5
+        },
+        {
+            "file": "89_2.webm",
+            "duration": 26.98
+        },
+        {
+            "file": "89_3.webm",
+            "duration": 24.55
+        },
+        {
+            "file": "89_4.webm",
+            "duration": 26.95
+        },
+        {
+            "file": "89_5.webm",
+            "duration": 25.48
+        },
+        {
+            "file": "89_6.webm",
+            "duration": 22.45
+        },
+        {
+            "file": "89_7.webm",
+            "duration": 21.5
+        },
+        {
+            "file": "89_8.webm",
+            "duration": 25.23
+        },
+        {
+            "file": "89_9.webm",
+            "duration": 27.1
+        },
+        {
+            "file": "89_10.webm",
+            "duration": 26.55
+        },
+        {
+            "file": "89_11.webm",
+            "duration": 25.77
+        },
+        {
+            "file": "89_12.webm",
+            "duration": 27.2
+        },
+        {
+            "file": "89_13.webm",
+            "duration": 26.9
+        },
+        {
+            "file": "89_14.webm",
+            "duration": 27.75
+        },
+        {
+            "file": "89_15.webm",
+            "duration": 28.57
+        },
+        {
+            "file": "89_16.webm",
+            "duration": 27.45
+        },
+        {
+            "file": "89_17.webm",
+            "duration": 26.55
+        },
+        {
+            "file": "89_18.webm",
+            "duration": 27.12
+        },
+        {
+            "file": "89_19.webm",
+            "duration": 27.25
+        },
+        {
+            "file": "89_20.webm",
+            "duration": 22.25
+        },
+        {
+            "file": "89_21.webm",
+            "duration": 24.3
+        },
+        {
+            "file": "89_22.webm",
+            "duration": 25.65
+        },
+        {
+            "file": "89_23.webm",
+            "duration": 27.65
+        },
+        {
+            "file": "89_24.webm",
+            "duration": 18.4
+        },
+        {
+            "file": "89_25.webm",
+            "duration": 21.5
+        },
+        {
+            "file": "89_26.webm",
+            "duration": 28.3
+        },
+        {
+            "file": "89_27.webm",
+            "duration": 28.27
+        },
+        {
+            "file": "89_28.webm",
+            "duration": 22.5
+        },
+        {
+            "file": "89_29.webm",
+            "duration": 35.5
+        }
+    ],
+    "total_files": 29,
+    "total_duration": 753.17
+}

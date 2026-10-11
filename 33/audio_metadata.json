@@ -1,0 +1,99 @@
+{
+    "folder": "33",
+    "audio_files": [
+        {
+            "file": "33_1.webm",
+            "duration": 31.93
+        },
+        {
+            "file": "33_2.webm",
+            "duration": 25.15
+        },
+        {
+            "file": "33_3.webm",
+            "duration": 26.25
+        },
+        {
+            "file": "33_4.webm",
+            "duration": 25.02
+        },
+        {
+            "file": "33_5.webm",
+            "duration": 28.6
+        },
+        {
+            "file": "33_6.webm",
+            "duration": 24.02
+        },
+        {
+            "file": "33_7.webm",
+            "duration": 27.07
+        },
+        {
+            "file": "33_8.webm",
+            "duration": 23.57
+        },
+        {
+            "file": "33_9.webm",
+            "duration": 27.1
+        },
+        {
+            "file": "33_10.webm",
+            "duration": 26.57
+        },
+        {
+            "file": "33_11.webm",
+            "duration": 23.68
+        },
+        {
+            "file": "33_12.webm",
+            "duration": 24.62
+        },
+        {
+            "file": "33_13.webm",
+            "duration": 27.57
+        },
+        {
+            "file": "33_14.webm",
+            "duration": 23.0
+        },
+        {
+            "file": "33_15.webm",
+            "duration": 25.8
+        },
+        {
+            "file": "33_16.webm",
+            "duration": 23.82
+        },
+        {
+            "file": "33_17.webm",
+            "duration": 26.05
+        },
+        {
+            "file": "33_18.webm",
+            "duration": 23.45
+        },
+        {
+            "file": "33_19.webm",
+            "duration": 27.73
+        },
+        {
+            "file": "33_20.webm",
+            "duration": 26.75
+        },
+        {
+            "file": "33_21.webm",
+            "duration": 20.73
+        },
+        {
+            "file": "33_22.webm",
+            "duration": 19.05
+        },
+        {
+            "file": "33_23.webm",
+            "duration": 9.82
+        }
+    ],
+    "total_files": 23,
+    "total_duration": 567.38
+}

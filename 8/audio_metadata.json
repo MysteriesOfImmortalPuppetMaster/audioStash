@@ -1,0 +1,107 @@
+{
+    "folder": "8",
+    "audio_files": [
+        {
+            "file": "8_1.webm",
+            "duration": 23.8
+        },
+        {
+            "file": "8_2.webm",
+            "duration": 25.05
+        },
+        {
+            "file": "8_3.webm",
+            "duration": 27.12
+        },
+        {
+            "file": "8_4.webm",
+            "duration": 18.98
+        },
+        {
+            "file": "8_5.webm",
+            "duration": 23.85
+        },
+        {
+            "file": "8_6.webm",
+            "duration": 24.98
+        },
+        {
+            "file": "8_7.webm",
+            "duration": 25.6
+        },
+        {
+            "file": "8_8.webm",
+            "duration": 16.77
+        },
+        {
+            "file": "8_9.webm",
+            "duration": 24.1
+        },
+        {
+            "file": "8_10.webm",
+            "duration": 25.1
+        },
+        {
+            "file": "8_11.webm",
+            "duration": 21.23
+        },
+        {
+            "file": "8_12.webm",
+            "duration": 26.7
+        },
+        {
+            "file": "8_13.webm",
+            "duration": 26.43
+        },
+        {
+            "file": "8_14.webm",
+            "duration": 25.62
+        },
+        {
+            "file": "8_15.webm",
+            "duration": 26.25
+        },
+        {
+            "file": "8_16.webm",
+            "duration": 24.4
+        },
+        {
+            "file": "8_17.webm",
+            "duration": 21.73
+        },
+        {
+            "file": "8_18.webm",
+            "duration": 24.95
+        },
+        {
+            "file": "8_19.webm",
+            "duration": 22.88
+        },
+        {
+            "file": "8_20.webm",
+            "duration": 24.12
+        },
+        {
+            "file": "8_21.webm",
+            "duration": 24.65
+        },
+        {
+            "file": "8_22.webm",
+            "duration": 23.52
+        },
+        {
+            "file": "8_23.webm",
+            "duration": 24.35
+        },
+        {
+            "file": "8_24.webm",
+            "duration": 24.8
+        },
+        {
+            "file": "8_25.webm",
+            "duration": 23.82
+        }
+    ],
+    "total_files": 25,
+    "total_duration": 600.8
+}

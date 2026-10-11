@@ -1,0 +1,103 @@
+{
+    "folder": "35",
+    "audio_files": [
+        {
+            "file": "35_1.webm",
+            "duration": 28.02
+        },
+        {
+            "file": "35_2.webm",
+            "duration": 28.62
+        },
+        {
+            "file": "35_3.webm",
+            "duration": 23.8
+        },
+        {
+            "file": "35_4.webm",
+            "duration": 26.45
+        },
+        {
+            "file": "35_5.webm",
+            "duration": 19.77
+        },
+        {
+            "file": "35_6.webm",
+            "duration": 24.18
+        },
+        {
+            "file": "35_7.webm",
+            "duration": 28.15
+        },
+        {
+            "file": "35_8.webm",
+            "duration": 25.02
+        },
+        {
+            "file": "35_9.webm",
+            "duration": 24.75
+        },
+        {
+            "file": "35_10.webm",
+            "duration": 21.88
+        },
+        {
+            "file": "35_11.webm",
+            "duration": 18.77
+        },
+        {
+            "file": "35_12.webm",
+            "duration": 25.07
+        },
+        {
+            "file": "35_13.webm",
+            "duration": 28.05
+        },
+        {
+            "file": "35_14.webm",
+            "duration": 21.2
+        },
+        {
+            "file": "35_15.webm",
+            "duration": 17.48
+        },
+        {
+            "file": "35_16.webm",
+            "duration": 23.0
+        },
+        {
+            "file": "35_17.webm",
+            "duration": 26.38
+        },
+        {
+            "file": "35_18.webm",
+            "duration": 21.57
+        },
+        {
+            "file": "35_19.webm",
+            "duration": 19.73
+        },
+        {
+            "file": "35_20.webm",
+            "duration": 23.25
+        },
+        {
+            "file": "35_21.webm",
+            "duration": 25.23
+        },
+        {
+            "file": "35_22.webm",
+            "duration": 26.32
+        },
+        {
+            "file": "35_23.webm",
+            "duration": 26.6
+        },
+        {
+            "file": "35_24.webm",
+            "duration": 32.0
+        }
+    ],
+    "total_files": 24,
+    "total_duration": 585.3
+}
