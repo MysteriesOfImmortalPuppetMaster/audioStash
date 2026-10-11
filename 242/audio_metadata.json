@@ -1,0 +1,123 @@
+{
+    "folder": "242",
+    "audio_files": [
+        {
+            "file": "242_1.webm",
+            "duration": 25.88
+        },
+        {
+            "file": "242_2.webm",
+            "duration": 29.55
+        },
+        {
+            "file": "242_3.webm",
+            "duration": 25.1
+        },
+        {
+            "file": "242_4.webm",
+            "duration": 25.3
+        },
+        {
+            "file": "242_5.webm",
+            "duration": 27.5
+        },
+        {
+            "file": "242_6.webm",
+            "duration": 24.23
+        },
+        {
+            "file": "242_7.webm",
+            "duration": 28.57
+        },
+        {
+            "file": "242_8.webm",
+            "duration": 29.23
+        },
+        {
+            "file": "242_9.webm",
+            "duration": 28.12
+        },
+        {
+            "file": "242_10.webm",
+            "duration": 26.65
+        },
+        {
+            "file": "242_11.webm",
+            "duration": 29.6
+        },
+        {
+            "file": "242_12.webm",
+            "duration": 23.7
+        },
+        {
+            "file": "242_13.webm",
+            "duration": 27.62
+        },
+        {
+            "file": "242_14.webm",
+            "duration": 19.73
+        },
+        {
+            "file": "242_15.webm",
+            "duration": 25.5
+        },
+        {
+            "file": "242_16.webm",
+            "duration": 27.07
+        },
+        {
+            "file": "242_17.webm",
+            "duration": 23.02
+        },
+        {
+            "file": "242_18.webm",
+            "duration": 20.5
+        },
+        {
+            "file": "242_19.webm",
+            "duration": 27.35
+        },
+        {
+            "file": "242_20.webm",
+            "duration": 23.38
+        },
+        {
+            "file": "242_21.webm",
+            "duration": 28.15
+        },
+        {
+            "file": "242_22.webm",
+            "duration": 26.7
+        },
+        {
+            "file": "242_23.webm",
+            "duration": 27.75
+        },
+        {
+            "file": "242_24.webm",
+            "duration": 24.52
+        },
+        {
+            "file": "242_25.webm",
+            "duration": 24.57
+        },
+        {
+            "file": "242_26.webm",
+            "duration": 27.18
+        },
+        {
+            "file": "242_27.webm",
+            "duration": 18.23
+        },
+        {
+            "file": "242_28.webm",
+            "duration": 19.1
+        },
+        {
+            "file": "242_29.webm",
+            "duration": 33.05
+        }
+    ],
+    "total_files": 29,
+    "total_duration": 746.85
+}
