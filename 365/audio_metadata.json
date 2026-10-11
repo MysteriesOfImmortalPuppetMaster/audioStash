@@ -1,0 +1,107 @@
+{
+    "folder": "365",
+    "audio_files": [
+        {
+            "file": "365_1.webm",
+            "duration": 25.85
+        },
+        {
+            "file": "365_2.webm",
+            "duration": 23.43
+        },
+        {
+            "file": "365_3.webm",
+            "duration": 20.68
+        },
+        {
+            "file": "365_4.webm",
+            "duration": 23.23
+        },
+        {
+            "file": "365_5.webm",
+            "duration": 23.48
+        },
+        {
+            "file": "365_6.webm",
+            "duration": 19.32
+        },
+        {
+            "file": "365_7.webm",
+            "duration": 26.55
+        },
+        {
+            "file": "365_8.webm",
+            "duration": 26.2
+        },
+        {
+            "file": "365_9.webm",
+            "duration": 13.38
+        },
+        {
+            "file": "365_10.webm",
+            "duration": 24.98
+        },
+        {
+            "file": "365_11.webm",
+            "duration": 18.85
+        },
+        {
+            "file": "365_12.webm",
+            "duration": 23.57
+        },
+        {
+            "file": "365_13.webm",
+            "duration": 15.1
+        },
+        {
+            "file": "365_14.webm",
+            "duration": 26.32
+        },
+        {
+            "file": "365_15.webm",
+            "duration": 26.0
+        },
+        {
+            "file": "365_16.webm",
+            "duration": 20.77
+        },
+        {
+            "file": "365_17.webm",
+            "duration": 25.12
+        },
+        {
+            "file": "365_18.webm",
+            "duration": 24.1
+        },
+        {
+            "file": "365_19.webm",
+            "duration": 18.95
+        },
+        {
+            "file": "365_20.webm",
+            "duration": 24.32
+        },
+        {
+            "file": "365_21.webm",
+            "duration": 22.8
+        },
+        {
+            "file": "365_22.webm",
+            "duration": 21.23
+        },
+        {
+            "file": "365_23.webm",
+            "duration": 15.57
+        },
+        {
+            "file": "365_24.webm",
+            "duration": 21.77
+        },
+        {
+            "file": "365_25.webm",
+            "duration": 19.43
+        }
+    ],
+    "total_files": 25,
+    "total_duration": 551.0
+}

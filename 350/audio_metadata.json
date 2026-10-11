@@ -1,0 +1,135 @@
+{
+    "folder": "350",
+    "audio_files": [
+        {
+            "file": "350_1.webm",
+            "duration": 31.2
+        },
+        {
+            "file": "350_2.webm",
+            "duration": 25.68
+        },
+        {
+            "file": "350_3.webm",
+            "duration": 27.48
+        },
+        {
+            "file": "350_4.webm",
+            "duration": 24.3
+        },
+        {
+            "file": "350_5.webm",
+            "duration": 24.4
+        },
+        {
+            "file": "350_6.webm",
+            "duration": 24.05
+        },
+        {
+            "file": "350_7.webm",
+            "duration": 26.07
+        },
+        {
+            "file": "350_8.webm",
+            "duration": 21.82
+        },
+        {
+            "file": "350_9.webm",
+            "duration": 23.45
+        },
+        {
+            "file": "350_10.webm",
+            "duration": 28.98
+        },
+        {
+            "file": "350_11.webm",
+            "duration": 27.73
+        },
+        {
+            "file": "350_12.webm",
+            "duration": 29.43
+        },
+        {
+            "file": "350_13.webm",
+            "duration": 26.1
+        },
+        {
+            "file": "350_14.webm",
+            "duration": 28.48
+        },
+        {
+            "file": "350_15.webm",
+            "duration": 26.4
+        },
+        {
+            "file": "350_16.webm",
+            "duration": 24.98
+        },
+        {
+            "file": "350_17.webm",
+            "duration": 27.2
+        },
+        {
+            "file": "350_18.webm",
+            "duration": 28.23
+        },
+        {
+            "file": "350_19.webm",
+            "duration": 24.07
+        },
+        {
+            "file": "350_20.webm",
+            "duration": 26.98
+        },
+        {
+            "file": "350_21.webm",
+            "duration": 21.93
+        },
+        {
+            "file": "350_22.webm",
+            "duration": 29.45
+        },
+        {
+            "file": "350_23.webm",
+            "duration": 24.8
+        },
+        {
+            "file": "350_24.webm",
+            "duration": 27.7
+        },
+        {
+            "file": "350_25.webm",
+            "duration": 27.25
+        },
+        {
+            "file": "350_26.webm",
+            "duration": 27.95
+        },
+        {
+            "file": "350_27.webm",
+            "duration": 26.73
+        },
+        {
+            "file": "350_28.webm",
+            "duration": 23.05
+        },
+        {
+            "file": "350_29.webm",
+            "duration": 28.75
+        },
+        {
+            "file": "350_30.webm",
+            "duration": 27.82
+        },
+        {
+            "file": "350_31.webm",
+            "duration": 25.85
+        },
+        {
+            "file": "350_32.webm",
+            "duration": 18.23
+        }
+    ],
+    "total_files": 32,
+    "total_duration": 836.5
+}
