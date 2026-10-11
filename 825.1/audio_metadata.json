@@ -1,0 +1,31 @@
+{
+    "folder": "825.1",
+    "audio_files": [
+        {
+            "file": "825.1_1.webm",
+            "duration": 29.55
+        },
+        {
+            "file": "825.1_2.webm",
+            "duration": 30.18
+        },
+        {
+            "file": "825.1_3.webm",
+            "duration": 27.32
+        },
+        {
+            "file": "825.1_4.webm",
+            "duration": 29.62
+        },
+        {
+            "file": "825.1_5.webm",
+            "duration": 29.1
+        },
+        {
+            "file": "825.1_6.webm",
+            "duration": 16.52
+        }
+    ],
+    "total_files": 6,
+    "total_duration": 162.3
+}

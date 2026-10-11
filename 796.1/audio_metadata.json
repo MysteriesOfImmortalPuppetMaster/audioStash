@@ -1,0 +1,51 @@
+{
+    "folder": "796.1",
+    "audio_files": [
+        {
+            "file": "796.1_1.webm",
+            "duration": 26.88
+        },
+        {
+            "file": "796.1_2.webm",
+            "duration": 26.85
+        },
+        {
+            "file": "796.1_3.webm",
+            "duration": 25.18
+        },
+        {
+            "file": "796.1_4.webm",
+            "duration": 8.25
+        },
+        {
+            "file": "796.1_5.webm",
+            "duration": 20.88
+        },
+        {
+            "file": "796.1_6.webm",
+            "duration": 17.35
+        },
+        {
+            "file": "796.1_7.webm",
+            "duration": 30.0
+        },
+        {
+            "file": "796.1_8.webm",
+            "duration": 25.77
+        },
+        {
+            "file": "796.1_9.webm",
+            "duration": 20.98
+        },
+        {
+            "file": "796.1_10.webm",
+            "duration": 28.38
+        },
+        {
+            "file": "796.1_11.webm",
+            "duration": 16.25
+        }
+    ],
+    "total_files": 11,
+    "total_duration": 246.75
+}
