@@ -1,0 +1,95 @@
+{
+    "folder": "462",
+    "audio_files": [
+        {
+            "file": "462_1.webm",
+            "duration": 30.2
+        },
+        {
+            "file": "462_2.webm",
+            "duration": 22.3
+        },
+        {
+            "file": "462_3.webm",
+            "duration": 21.65
+        },
+        {
+            "file": "462_4.webm",
+            "duration": 26.0
+        },
+        {
+            "file": "462_5.webm",
+            "duration": 24.3
+        },
+        {
+            "file": "462_6.webm",
+            "duration": 29.77
+        },
+        {
+            "file": "462_7.webm",
+            "duration": 20.85
+        },
+        {
+            "file": "462_8.webm",
+            "duration": 24.12
+        },
+        {
+            "file": "462_9.webm",
+            "duration": 27.82
+        },
+        {
+            "file": "462_10.webm",
+            "duration": 25.85
+        },
+        {
+            "file": "462_11.webm",
+            "duration": 25.65
+        },
+        {
+            "file": "462_12.webm",
+            "duration": 26.8
+        },
+        {
+            "file": "462_13.webm",
+            "duration": 26.48
+        },
+        {
+            "file": "462_14.webm",
+            "duration": 28.82
+        },
+        {
+            "file": "462_15.webm",
+            "duration": 31.88
+        },
+        {
+            "file": "462_16.webm",
+            "duration": 19.75
+        },
+        {
+            "file": "462_17.webm",
+            "duration": 21.88
+        },
+        {
+            "file": "462_18.webm",
+            "duration": 28.12
+        },
+        {
+            "file": "462_19.webm",
+            "duration": 21.57
+        },
+        {
+            "file": "462_20.webm",
+            "duration": 27.55
+        },
+        {
+            "file": "462_21.webm",
+            "duration": 25.7
+        },
+        {
+            "file": "462_22.webm",
+            "duration": 26.65
+        }
+    ],
+    "total_files": 22,
+    "total_duration": 563.73
+}

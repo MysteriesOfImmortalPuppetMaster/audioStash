@@ -1,0 +1,19 @@
+{
+    "folder": "411.5",
+    "audio_files": [
+        {
+            "file": "411.5_1.webm",
+            "duration": 18.73
+        },
+        {
+            "file": "411.5_2.webm",
+            "duration": 19.88
+        },
+        {
+            "file": "411.5_3.webm",
+            "duration": 24.55
+        }
+    ],
+    "total_files": 3,
+    "total_duration": 63.15
+}

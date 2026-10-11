@@ -1,0 +1,119 @@
+{
+    "folder": "415",
+    "audio_files": [
+        {
+            "file": "415_1.webm",
+            "duration": 28.02
+        },
+        {
+            "file": "415_2.webm",
+            "duration": 25.55
+        },
+        {
+            "file": "415_3.webm",
+            "duration": 28.05
+        },
+        {
+            "file": "415_4.webm",
+            "duration": 27.8
+        },
+        {
+            "file": "415_5.webm",
+            "duration": 22.43
+        },
+        {
+            "file": "415_6.webm",
+            "duration": 24.85
+        },
+        {
+            "file": "415_7.webm",
+            "duration": 24.1
+        },
+        {
+            "file": "415_8.webm",
+            "duration": 21.23
+        },
+        {
+            "file": "415_9.webm",
+            "duration": 21.2
+        },
+        {
+            "file": "415_10.webm",
+            "duration": 26.48
+        },
+        {
+            "file": "415_11.webm",
+            "duration": 25.02
+        },
+        {
+            "file": "415_12.webm",
+            "duration": 25.88
+        },
+        {
+            "file": "415_13.webm",
+            "duration": 27.7
+        },
+        {
+            "file": "415_14.webm",
+            "duration": 28.85
+        },
+        {
+            "file": "415_15.webm",
+            "duration": 22.3
+        },
+        {
+            "file": "415_16.webm",
+            "duration": 29.77
+        },
+        {
+            "file": "415_17.webm",
+            "duration": 25.73
+        },
+        {
+            "file": "415_18.webm",
+            "duration": 23.93
+        },
+        {
+            "file": "415_19.webm",
+            "duration": 24.5
+        },
+        {
+            "file": "415_20.webm",
+            "duration": 28.12
+        },
+        {
+            "file": "415_21.webm",
+            "duration": 23.77
+        },
+        {
+            "file": "415_22.webm",
+            "duration": 15.8
+        },
+        {
+            "file": "415_23.webm",
+            "duration": 21.9
+        },
+        {
+            "file": "415_24.webm",
+            "duration": 27.5
+        },
+        {
+            "file": "415_25.webm",
+            "duration": 25.27
+        },
+        {
+            "file": "415_26.webm",
+            "duration": 30.15
+        },
+        {
+            "file": "415_27.webm",
+            "duration": 25.88
+        },
+        {
+            "file": "415_28.webm",
+            "duration": 24.12
+        }
+    ],
+    "total_files": 28,
+    "total_duration": 705.9
+}

@@ -1,0 +1,95 @@
+{
+    "folder": "468",
+    "audio_files": [
+        {
+            "file": "468_1.webm",
+            "duration": 22.4
+        },
+        {
+            "file": "468_2.webm",
+            "duration": 27.48
+        },
+        {
+            "file": "468_3.webm",
+            "duration": 25.55
+        },
+        {
+            "file": "468_4.webm",
+            "duration": 26.9
+        },
+        {
+            "file": "468_5.webm",
+            "duration": 26.52
+        },
+        {
+            "file": "468_6.webm",
+            "duration": 25.02
+        },
+        {
+            "file": "468_7.webm",
+            "duration": 23.48
+        },
+        {
+            "file": "468_8.webm",
+            "duration": 24.77
+        },
+        {
+            "file": "468_9.webm",
+            "duration": 21.38
+        },
+        {
+            "file": "468_10.webm",
+            "duration": 23.73
+        },
+        {
+            "file": "468_11.webm",
+            "duration": 24.4
+        },
+        {
+            "file": "468_12.webm",
+            "duration": 26.38
+        },
+        {
+            "file": "468_13.webm",
+            "duration": 16.55
+        },
+        {
+            "file": "468_14.webm",
+            "duration": 23.38
+        },
+        {
+            "file": "468_15.webm",
+            "duration": 23.2
+        },
+        {
+            "file": "468_16.webm",
+            "duration": 27.77
+        },
+        {
+            "file": "468_17.webm",
+            "duration": 25.65
+        },
+        {
+            "file": "468_18.webm",
+            "duration": 28.93
+        },
+        {
+            "file": "468_19.webm",
+            "duration": 25.12
+        },
+        {
+            "file": "468_20.webm",
+            "duration": 25.98
+        },
+        {
+            "file": "468_21.webm",
+            "duration": 25.05
+        },
+        {
+            "file": "468_22.webm",
+            "duration": 23.73
+        }
+    ],
+    "total_files": 22,
+    "total_duration": 543.35
+}

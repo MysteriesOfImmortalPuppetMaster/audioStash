@@ -1,0 +1,27 @@
+{
+    "folder": "475.1",
+    "audio_files": [
+        {
+            "file": "475.1_1.webm",
+            "duration": 26.38
+        },
+        {
+            "file": "475.1_2.webm",
+            "duration": 20.77
+        },
+        {
+            "file": "475.1_3.webm",
+            "duration": 27.93
+        },
+        {
+            "file": "475.1_4.webm",
+            "duration": 29.18
+        },
+        {
+            "file": "475.1_5.webm",
+            "duration": 14.95
+        }
+    ],
+    "total_files": 5,
+    "total_duration": 119.2
+}

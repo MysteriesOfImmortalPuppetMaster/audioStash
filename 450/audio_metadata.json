@@ -1,0 +1,99 @@
+{
+    "folder": "450",
+    "audio_files": [
+        {
+            "file": "450_1.webm",
+            "duration": 31.62
+        },
+        {
+            "file": "450_2.webm",
+            "duration": 28.88
+        },
+        {
+            "file": "450_3.webm",
+            "duration": 26.93
+        },
+        {
+            "file": "450_4.webm",
+            "duration": 26.57
+        },
+        {
+            "file": "450_5.webm",
+            "duration": 23.48
+        },
+        {
+            "file": "450_6.webm",
+            "duration": 18.43
+        },
+        {
+            "file": "450_7.webm",
+            "duration": 27.15
+        },
+        {
+            "file": "450_8.webm",
+            "duration": 24.95
+        },
+        {
+            "file": "450_9.webm",
+            "duration": 25.05
+        },
+        {
+            "file": "450_10.webm",
+            "duration": 27.18
+        },
+        {
+            "file": "450_11.webm",
+            "duration": 28.45
+        },
+        {
+            "file": "450_12.webm",
+            "duration": 26.18
+        },
+        {
+            "file": "450_13.webm",
+            "duration": 27.65
+        },
+        {
+            "file": "450_14.webm",
+            "duration": 29.8
+        },
+        {
+            "file": "450_15.webm",
+            "duration": 27.65
+        },
+        {
+            "file": "450_16.webm",
+            "duration": 24.27
+        },
+        {
+            "file": "450_17.webm",
+            "duration": 24.2
+        },
+        {
+            "file": "450_18.webm",
+            "duration": 26.2
+        },
+        {
+            "file": "450_19.webm",
+            "duration": 28.82
+        },
+        {
+            "file": "450_20.webm",
+            "duration": 27.07
+        },
+        {
+            "file": "450_21.webm",
+            "duration": 20.73
+        },
+        {
+            "file": "450_22.webm",
+            "duration": 25.57
+        },
+        {
+            "file": "450_23.webm",
+            "duration": 9.45
+        }
+    ],
+    "total_files": 23,
+    "total_duration": 586.27
+}
