@@ -11,7 +11,7 @@
         },
         {
             "file": "977_3.webm",
-            "duration": 22.77
+            "duration": 22.8
         },
         {
             "file": "977_4.webm",
@@ -219,7 +219,7 @@
         },
         {
             "file": "977_55.webm",
-            "duration": 16.82
+            "duration": 16.6
         },
         {
             "file": "977_56.webm",
@@ -227,5 +227,5 @@
         }
     ],
     "total_files": 56,
-    "total_duration": 1267.88
+    "total_duration": 1267.67
 }
