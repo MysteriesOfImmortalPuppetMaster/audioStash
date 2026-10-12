@@ -87,7 +87,7 @@
         },
         {
             "file": "953_22.webm",
-            "duration": 25.65
+            "duration": 25.52
         },
         {
             "file": "953_23.webm",
@@ -235,5 +235,5 @@
         }
     ],
     "total_files": 58,
-    "total_duration": 1410.28
+    "total_duration": 1410.15
 }
