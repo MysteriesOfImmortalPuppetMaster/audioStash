@@ -11,7 +11,7 @@
         },
         {
             "file": "1025_3.webm",
-            "duration": 25.38
+            "duration": 25.25
         },
         {
             "file": "1025_4.webm",
@@ -163,5 +163,5 @@
         }
     ],
     "total_files": 40,
-    "total_duration": 925.9
+    "total_duration": 925.77
 }
