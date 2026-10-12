@@ -71,15 +71,15 @@
         },
         {
             "file": "969_18.webm",
-            "duration": 26.75
+            "duration": 26.65
         },
         {
             "file": "969_19.webm",
-            "duration": 19.62
+            "duration": 19.43
         },
         {
             "file": "969_20.webm",
-            "duration": 26.55
+            "duration": 26.38
         },
         {
             "file": "969_21.webm",
@@ -219,5 +219,5 @@
         }
     ],
     "total_files": 54,
-    "total_duration": 1310.95
+    "total_duration": 1310.47
 }
