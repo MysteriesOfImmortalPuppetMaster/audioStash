@@ -23,7 +23,7 @@
         },
         {
             "file": "957_6.webm",
-            "duration": 24.62
+            "duration": 24.55
         },
         {
             "file": "957_7.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "957_29.webm",
-            "duration": 20.2
+            "duration": 20.07
         },
         {
             "file": "957_30.webm",
@@ -131,7 +131,7 @@
         },
         {
             "file": "957_33.webm",
-            "duration": 21.55
+            "duration": 21.52
         },
         {
             "file": "957_34.webm",
@@ -139,7 +139,7 @@
         },
         {
             "file": "957_35.webm",
-            "duration": 23.57
+            "duration": 23.55
         },
         {
             "file": "957_36.webm",
@@ -235,5 +235,5 @@
         }
     ],
     "total_files": 58,
-    "total_duration": 1367.62
+    "total_duration": 1367.38
 }
