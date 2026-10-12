@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "998_1.webm",
-            "duration": 26.1
+            "duration": 26.02
         },
         {
             "file": "998_2.webm",
@@ -163,5 +163,5 @@
         }
     ],
     "total_files": 40,
-    "total_duration": 983.35
+    "total_duration": 983.27
 }
