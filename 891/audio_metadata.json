@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "891_1.webm",
-            "duration": 27.85
+            "duration": 27.68
         },
         {
             "file": "891_2.webm",
@@ -15,7 +15,7 @@
         },
         {
             "file": "891_4.webm",
-            "duration": 13.7
+            "duration": 13.57
         },
         {
             "file": "891_5.webm",
@@ -39,7 +39,7 @@
         },
         {
             "file": "891_10.webm",
-            "duration": 26.57
+            "duration": 26.5
         },
         {
             "file": "891_11.webm",
@@ -55,11 +55,11 @@
         },
         {
             "file": "891_14.webm",
-            "duration": 26.95
+            "duration": 26.85
         },
         {
             "file": "891_15.webm",
-            "duration": 28.88
+            "duration": 28.77
         },
         {
             "file": "891_16.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "891_17.webm",
-            "duration": 25.98
+            "duration": 25.85
         },
         {
             "file": "891_18.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "891_22.webm",
-            "duration": 22.0
+            "duration": 21.8
         },
         {
             "file": "891_23.webm",
@@ -103,7 +103,7 @@
         },
         {
             "file": "891_26.webm",
-            "duration": 21.88
+            "duration": 21.73
         },
         {
             "file": "891_27.webm",
@@ -111,7 +111,7 @@
         },
         {
             "file": "891_28.webm",
-            "duration": 27.3
+            "duration": 27.23
         },
         {
             "file": "891_29.webm",
@@ -119,7 +119,7 @@
         },
         {
             "file": "891_30.webm",
-            "duration": 28.82
+            "duration": 28.75
         },
         {
             "file": "891_31.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 829.08
+    "total_duration": 827.88
 }
