@@ -23,7 +23,7 @@
         },
         {
             "file": "934_6.webm",
-            "duration": 27.95
+            "duration": 27.98
         },
         {
             "file": "934_7.webm",
@@ -39,7 +39,7 @@
         },
         {
             "file": "934_10.webm",
-            "duration": 20.75
+            "duration": 20.65
         },
         {
             "file": "934_11.webm",
@@ -183,7 +183,7 @@
         },
         {
             "file": "934_46.webm",
-            "duration": 27.52
+            "duration": 27.55
         },
         {
             "file": "934_47.webm",
@@ -219,5 +219,5 @@
         }
     ],
     "total_files": 54,
-    "total_duration": 1314.12
+    "total_duration": 1314.08
 }
