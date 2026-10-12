@@ -7,7 +7,7 @@
         },
         {
             "file": "907_2.webm",
-            "duration": 22.7
+            "duration": 22.57
         },
         {
             "file": "907_3.webm",
@@ -23,7 +23,7 @@
         },
         {
             "file": "907_6.webm",
-            "duration": 26.25
+            "duration": 26.18
         },
         {
             "file": "907_7.webm",
@@ -71,11 +71,11 @@
         },
         {
             "file": "907_18.webm",
-            "duration": 25.25
+            "duration": 25.0
         },
         {
             "file": "907_19.webm",
-            "duration": 26.1
+            "duration": 25.9
         },
         {
             "file": "907_20.webm",
@@ -91,11 +91,11 @@
         },
         {
             "file": "907_23.webm",
-            "duration": 19.25
+            "duration": 19.12
         },
         {
             "file": "907_24.webm",
-            "duration": 22.8
+            "duration": 22.82
         },
         {
             "file": "907_25.webm",
@@ -111,7 +111,7 @@
         },
         {
             "file": "907_28.webm",
-            "duration": 27.23
+            "duration": 27.1
         },
         {
             "file": "907_29.webm",
@@ -147,7 +147,7 @@
         },
         {
             "file": "907_37.webm",
-            "duration": 28.43
+            "duration": 28.27
         },
         {
             "file": "907_38.webm",
@@ -179,19 +179,19 @@
         },
         {
             "file": "907_45.webm",
-            "duration": 28.07
+            "duration": 27.98
         },
         {
             "file": "907_46.webm",
-            "duration": 21.2
+            "duration": 21.02
         },
         {
             "file": "907_47.webm",
-            "duration": 21.68
+            "duration": 21.65
         },
         {
             "file": "907_48.webm",
-            "duration": 22.0
+            "duration": 21.9
         },
         {
             "file": "907_49.webm",
@@ -199,5 +199,5 @@
         }
     ],
     "total_files": 49,
-    "total_duration": 1196.15
+    "total_duration": 1194.72
 }
