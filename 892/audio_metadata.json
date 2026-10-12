@@ -19,7 +19,7 @@
         },
         {
             "file": "892_5.webm",
-            "duration": 25.6
+            "duration": 25.57
         },
         {
             "file": "892_6.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "892_15.webm",
-            "duration": 14.93
+            "duration": 14.7
         },
         {
             "file": "892_16.webm",
@@ -123,7 +123,7 @@
         },
         {
             "file": "892_31.webm",
-            "duration": 29.0
+            "duration": 28.82
         },
         {
             "file": "892_32.webm",
@@ -131,7 +131,7 @@
         },
         {
             "file": "892_33.webm",
-            "duration": 23.82
+            "duration": 23.77
         },
         {
             "file": "892_34.webm",
@@ -147,5 +147,5 @@
         }
     ],
     "total_files": 36,
-    "total_duration": 880.12
+    "total_duration": 879.65
 }
