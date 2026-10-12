@@ -7,19 +7,19 @@
         },
         {
             "file": "919_2.webm",
-            "duration": 19.02
+            "duration": 18.82
         },
         {
             "file": "919_3.webm",
-            "duration": 24.57
+            "duration": 24.52
         },
         {
             "file": "919_4.webm",
-            "duration": 26.32
+            "duration": 26.23
         },
         {
             "file": "919_5.webm",
-            "duration": 23.02
+            "duration": 22.98
         },
         {
             "file": "919_6.webm",
@@ -27,7 +27,7 @@
         },
         {
             "file": "919_7.webm",
-            "duration": 28.4
+            "duration": 28.32
         },
         {
             "file": "919_8.webm",
@@ -43,11 +43,11 @@
         },
         {
             "file": "919_11.webm",
-            "duration": 25.7
+            "duration": 25.6
         },
         {
             "file": "919_12.webm",
-            "duration": 25.0
+            "duration": 24.98
         },
         {
             "file": "919_13.webm",
@@ -71,11 +71,11 @@
         },
         {
             "file": "919_18.webm",
-            "duration": 21.48
+            "duration": 21.23
         },
         {
             "file": "919_19.webm",
-            "duration": 26.05
+            "duration": 25.93
         },
         {
             "file": "919_20.webm",
@@ -103,7 +103,7 @@
         },
         {
             "file": "919_26.webm",
-            "duration": 24.57
+            "duration": 24.43
         },
         {
             "file": "919_27.webm",
@@ -115,11 +115,11 @@
         },
         {
             "file": "919_29.webm",
-            "duration": 22.85
+            "duration": 22.75
         },
         {
             "file": "919_30.webm",
-            "duration": 25.77
+            "duration": 25.73
         },
         {
             "file": "919_31.webm",
@@ -135,7 +135,7 @@
         },
         {
             "file": "919_34.webm",
-            "duration": 26.18
+            "duration": 25.98
         },
         {
             "file": "919_35.webm",
@@ -143,7 +143,7 @@
         },
         {
             "file": "919_36.webm",
-            "duration": 28.6
+            "duration": 28.4
         },
         {
             "file": "919_37.webm",
@@ -187,7 +187,7 @@
         },
         {
             "file": "919_47.webm",
-            "duration": 27.23
+            "duration": 27.15
         },
         {
             "file": "919_48.webm",
@@ -195,7 +195,7 @@
         },
         {
             "file": "919_49.webm",
-            "duration": 23.43
+            "duration": 23.38
         },
         {
             "file": "919_50.webm",
@@ -207,5 +207,5 @@
         }
     ],
     "total_files": 51,
-    "total_duration": 1225.25
+    "total_duration": 1223.45
 }
