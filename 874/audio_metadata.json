@@ -3,11 +3,11 @@
     "audio_files": [
         {
             "file": "874_1.webm",
-            "duration": 21.85
+            "duration": 21.75
         },
         {
             "file": "874_2.webm",
-            "duration": 20.1
+            "duration": 20.05
         },
         {
             "file": "874_3.webm",
@@ -19,7 +19,7 @@
         },
         {
             "file": "874_5.webm",
-            "duration": 19.65
+            "duration": 19.52
         },
         {
             "file": "874_6.webm",
@@ -27,7 +27,7 @@
         },
         {
             "file": "874_7.webm",
-            "duration": 28.5
+            "duration": 28.3
         },
         {
             "file": "874_8.webm",
@@ -47,7 +47,7 @@
         },
         {
             "file": "874_12.webm",
-            "duration": 25.3
+            "duration": 25.32
         },
         {
             "file": "874_13.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "874_20.webm",
-            "duration": 24.15
+            "duration": 24.0
         },
         {
             "file": "874_21.webm",
@@ -135,7 +135,7 @@
         },
         {
             "file": "874_34.webm",
-            "duration": 26.23
+            "duration": 26.2
         },
         {
             "file": "874_35.webm",
@@ -151,11 +151,11 @@
         },
         {
             "file": "874_38.webm",
-            "duration": 25.05
+            "duration": 24.9
         },
         {
             "file": "874_39.webm",
-            "duration": 25.2
+            "duration": 25.07
         },
         {
             "file": "874_40.webm",
@@ -163,7 +163,7 @@
         },
         {
             "file": "874_41.webm",
-            "duration": 27.0
+            "duration": 26.73
         },
         {
             "file": "874_42.webm",
@@ -207,5 +207,5 @@
         }
     ],
     "total_files": 51,
-    "total_duration": 1177.88
+    "total_duration": 1176.7
 }
