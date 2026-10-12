@@ -63,7 +63,7 @@
         },
         {
             "file": "1014_16.webm",
-            "duration": 25.88
+            "duration": 25.85
         },
         {
             "file": "1014_17.webm",
@@ -163,7 +163,7 @@
         },
         {
             "file": "1014_41.webm",
-            "duration": 22.8
+            "duration": 22.85
         },
         {
             "file": "1014_42.webm",
@@ -179,5 +179,5 @@
         }
     ],
     "total_files": 44,
-    "total_duration": 1023.45
+    "total_duration": 1023.48
 }
