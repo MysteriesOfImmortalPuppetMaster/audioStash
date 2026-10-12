@@ -19,7 +19,7 @@
         },
         {
             "file": "963_5.webm",
-            "duration": 18.2
+            "duration": 18.1
         },
         {
             "file": "963_6.webm",
@@ -27,7 +27,7 @@
         },
         {
             "file": "963_7.webm",
-            "duration": 26.5
+            "duration": 26.4
         },
         {
             "file": "963_8.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "963_20.webm",
-            "duration": 26.23
+            "duration": 26.05
         },
         {
             "file": "963_21.webm",
@@ -227,5 +227,5 @@
         }
     ],
     "total_files": 56,
-    "total_duration": 1355.33
+    "total_duration": 1354.95
 }
