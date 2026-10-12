@@ -15,11 +15,11 @@
         },
         {
             "file": "1022_4.webm",
-            "duration": 28.75
+            "duration": 28.7
         },
         {
             "file": "1022_5.webm",
-            "duration": 27.15
+            "duration": 27.02
         },
         {
             "file": "1022_6.webm",
@@ -39,7 +39,7 @@
         },
         {
             "file": "1022_10.webm",
-            "duration": 28.02
+            "duration": 27.85
         },
         {
             "file": "1022_11.webm",
@@ -75,7 +75,7 @@
         },
         {
             "file": "1022_19.webm",
-            "duration": 27.55
+            "duration": 27.52
         },
         {
             "file": "1022_20.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "1022_22.webm",
-            "duration": 24.85
+            "duration": 24.75
         },
         {
             "file": "1022_23.webm",
@@ -111,19 +111,19 @@
         },
         {
             "file": "1022_28.webm",
-            "duration": 25.43
+            "duration": 25.5
         },
         {
             "file": "1022_29.webm",
-            "duration": 24.27
+            "duration": 24.15
         },
         {
             "file": "1022_30.webm",
-            "duration": 25.25
+            "duration": 25.18
         },
         {
             "file": "1022_31.webm",
-            "duration": 24.2
+            "duration": 24.15
         },
         {
             "file": "1022_32.webm",
@@ -131,37 +131,33 @@
         },
         {
             "file": "1022_33.webm",
-            "duration": 17.02
+            "duration": 27.77
         },
         {
             "file": "1022_34.webm",
-            "duration": 24.3
+            "duration": 28.12
         },
         {
             "file": "1022_35.webm",
-            "duration": 25.05
+            "duration": 23.27
         },
         {
             "file": "1022_36.webm",
-            "duration": 27.23
+            "duration": 27.7
         },
         {
             "file": "1022_37.webm",
-            "duration": 27.45
+            "duration": 23.2
         },
         {
             "file": "1022_38.webm",
-            "duration": 22.3
+            "duration": 25.07
         },
         {
             "file": "1022_39.webm",
-            "duration": 26.95
-        },
-        {
-            "file": "1022_40.webm",
-            "duration": 9.97
+            "duration": 25.0
         }
     ],
-    "total_files": 40,
-    "total_duration": 968.1
+    "total_files": 39,
+    "total_duration": 967.33
 }
