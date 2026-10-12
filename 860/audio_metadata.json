@@ -7,7 +7,7 @@
         },
         {
             "file": "860_2.webm",
-            "duration": 25.95
+            "duration": 25.93
         },
         {
             "file": "860_3.webm",
@@ -31,7 +31,7 @@
         },
         {
             "file": "860_8.webm",
-            "duration": 26.62
+            "duration": 26.43
         },
         {
             "file": "860_9.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "860_17.webm",
-            "duration": 23.65
+            "duration": 23.68
         },
         {
             "file": "860_18.webm",
@@ -203,5 +203,5 @@
         }
     ],
     "total_files": 50,
-    "total_duration": 1207.5
+    "total_duration": 1207.3
 }
