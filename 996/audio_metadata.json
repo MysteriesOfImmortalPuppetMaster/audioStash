@@ -7,7 +7,7 @@
         },
         {
             "file": "996_2.webm",
-            "duration": 25.93
+            "duration": 25.95
         },
         {
             "file": "996_3.webm",
@@ -111,7 +111,7 @@
         },
         {
             "file": "996_28.webm",
-            "duration": 25.25
+            "duration": 25.4
         },
         {
             "file": "996_29.webm",
@@ -151,5 +151,5 @@
         }
     ],
     "total_files": 37,
-    "total_duration": 931.77
+    "total_duration": 931.95
 }
