@@ -31,7 +31,7 @@
         },
         {
             "file": "918_8.webm",
-            "duration": 14.45
+            "duration": 14.47
         },
         {
             "file": "918_9.webm",
@@ -191,13 +191,13 @@
         },
         {
             "file": "918_48.webm",
-            "duration": 24.45
+            "duration": 24.23
         },
         {
             "file": "918_49.webm",
-            "duration": 24.85
+            "duration": 24.77
         }
     ],
     "total_files": 49,
-    "total_duration": 1176.55
+    "total_duration": 1176.28
 }
