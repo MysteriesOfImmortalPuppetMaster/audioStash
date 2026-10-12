@@ -31,7 +31,7 @@
         },
         {
             "file": "926_8.webm",
-            "duration": 25.23
+            "duration": 25.15
         },
         {
             "file": "926_9.webm",
@@ -107,19 +107,19 @@
         },
         {
             "file": "926_27.webm",
-            "duration": 24.2
+            "duration": 24.05
         },
         {
             "file": "926_28.webm",
-            "duration": 20.5
+            "duration": 20.45
         },
         {
             "file": "926_29.webm",
-            "duration": 24.4
+            "duration": 24.18
         },
         {
             "file": "926_30.webm",
-            "duration": 22.05
+            "duration": 21.9
         },
         {
             "file": "926_31.webm",
@@ -139,7 +139,7 @@
         },
         {
             "file": "926_35.webm",
-            "duration": 28.45
+            "duration": 28.27
         },
         {
             "file": "926_36.webm",
@@ -151,7 +151,7 @@
         },
         {
             "file": "926_38.webm",
-            "duration": 25.07
+            "duration": 24.8
         },
         {
             "file": "926_39.webm",
@@ -163,7 +163,7 @@
         },
         {
             "file": "926_41.webm",
-            "duration": 25.27
+            "duration": 24.77
         },
         {
             "file": "926_42.webm",
@@ -179,7 +179,7 @@
         },
         {
             "file": "926_45.webm",
-            "duration": 23.7
+            "duration": 23.48
         },
         {
             "file": "926_46.webm",
@@ -191,11 +191,11 @@
         },
         {
             "file": "926_48.webm",
-            "duration": 26.07
+            "duration": 26.02
         },
         {
             "file": "926_49.webm",
-            "duration": 25.38
+            "duration": 25.35
         },
         {
             "file": "926_50.webm",
@@ -207,7 +207,7 @@
         },
         {
             "file": "926_52.webm",
-            "duration": 22.88
+            "duration": 22.8
         },
         {
             "file": "926_53.webm",
@@ -215,19 +215,19 @@
         },
         {
             "file": "926_54.webm",
-            "duration": 25.35
+            "duration": 25.23
         },
         {
             "file": "926_55.webm",
-            "duration": 24.1
+            "duration": 24.02
         },
         {
             "file": "926_56.webm",
-            "duration": 24.35
+            "duration": 24.25
         },
         {
             "file": "926_57.webm",
-            "duration": 26.5
+            "duration": 26.27
         },
         {
             "file": "926_58.webm",
@@ -235,5 +235,5 @@
         }
     ],
     "total_files": 58,
-    "total_duration": 1317.33
+    "total_duration": 1314.83
 }
