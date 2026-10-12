@@ -23,7 +23,7 @@
         },
         {
             "file": "906_6.webm",
-            "duration": 24.48
+            "duration": 24.45
         },
         {
             "file": "906_7.webm",
@@ -123,7 +123,7 @@
         },
         {
             "file": "906_31.webm",
-            "duration": 14.18
+            "duration": 14.12
         },
         {
             "file": "906_32.webm",
@@ -131,7 +131,7 @@
         },
         {
             "file": "906_33.webm",
-            "duration": 26.68
+            "duration": 26.7
         },
         {
             "file": "906_34.webm",
@@ -147,7 +147,7 @@
         },
         {
             "file": "906_37.webm",
-            "duration": 27.2
+            "duration": 27.18
         },
         {
             "file": "906_38.webm",
@@ -155,5 +155,5 @@
         }
     ],
     "total_files": 38,
-    "total_duration": 891.67
+    "total_duration": 891.6
 }
