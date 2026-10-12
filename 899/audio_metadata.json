@@ -11,7 +11,7 @@
         },
         {
             "file": "899_3.webm",
-            "duration": 22.62
+            "duration": 22.6
         },
         {
             "file": "899_4.webm",
@@ -39,7 +39,7 @@
         },
         {
             "file": "899_10.webm",
-            "duration": 20.32
+            "duration": 20.23
         },
         {
             "file": "899_11.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "899_29.webm",
-            "duration": 25.57
+            "duration": 25.55
         },
         {
             "file": "899_30.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 867.0
+    "total_duration": 866.85
 }
