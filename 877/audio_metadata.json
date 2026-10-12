@@ -51,7 +51,7 @@
         },
         {
             "file": "877_13.webm",
-            "duration": 23.38
+            "duration": 23.3
         },
         {
             "file": "877_14.webm",
@@ -91,15 +91,15 @@
         },
         {
             "file": "877_23.webm",
-            "duration": 25.07
+            "duration": 25.1
         },
         {
             "file": "877_24.webm",
-            "duration": 24.95
+            "duration": 24.8
         },
         {
             "file": "877_25.webm",
-            "duration": 27.65
+            "duration": 27.43
         },
         {
             "file": "877_26.webm",
@@ -179,7 +179,7 @@
         },
         {
             "file": "877_45.webm",
-            "duration": 23.27
+            "duration": 23.25
         },
         {
             "file": "877_46.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1151.53
+    "total_duration": 1151.08
 }
