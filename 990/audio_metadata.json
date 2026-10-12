@@ -111,7 +111,7 @@
         },
         {
             "file": "990_28.webm",
-            "duration": 22.2
+            "duration": 22.12
         },
         {
             "file": "990_29.webm",
@@ -155,7 +155,7 @@
         },
         {
             "file": "990_39.webm",
-            "duration": 19.3
+            "duration": 19.2
         },
         {
             "file": "990_40.webm",
@@ -171,7 +171,7 @@
         },
         {
             "file": "990_43.webm",
-            "duration": 29.62
+            "duration": 29.6
         },
         {
             "file": "990_44.webm",
@@ -179,5 +179,5 @@
         }
     ],
     "total_files": 44,
-    "total_duration": 998.85
+    "total_duration": 998.65
 }
