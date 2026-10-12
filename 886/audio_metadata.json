@@ -15,15 +15,15 @@
         },
         {
             "file": "886_4.webm",
-            "duration": 23.77
+            "duration": 23.68
         },
         {
             "file": "886_5.webm",
-            "duration": 26.1
+            "duration": 26.02
         },
         {
             "file": "886_6.webm",
-            "duration": 26.18
+            "duration": 26.07
         },
         {
             "file": "886_7.webm",
@@ -55,7 +55,7 @@
         },
         {
             "file": "886_14.webm",
-            "duration": 23.73
+            "duration": 23.7
         },
         {
             "file": "886_15.webm",
@@ -99,11 +99,11 @@
         },
         {
             "file": "886_25.webm",
-            "duration": 23.75
+            "duration": 23.68
         },
         {
             "file": "886_26.webm",
-            "duration": 22.68
+            "duration": 22.5
         },
         {
             "file": "886_27.webm",
@@ -115,11 +115,11 @@
         },
         {
             "file": "886_29.webm",
-            "duration": 26.18
+            "duration": 26.07
         },
         {
             "file": "886_30.webm",
-            "duration": 28.4
+            "duration": 28.32
         },
         {
             "file": "886_31.webm",
@@ -215,5 +215,5 @@
         }
     ],
     "total_files": 53,
-    "total_duration": 1275.9
+    "total_duration": 1275.17
 }
