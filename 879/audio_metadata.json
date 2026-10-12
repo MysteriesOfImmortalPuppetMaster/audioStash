@@ -3,11 +3,11 @@
     "audio_files": [
         {
             "file": "879_1.webm",
-            "duration": 13.85
+            "duration": 13.75
         },
         {
             "file": "879_2.webm",
-            "duration": 27.05
+            "duration": 26.95
         },
         {
             "file": "879_3.webm",
@@ -35,7 +35,7 @@
         },
         {
             "file": "879_9.webm",
-            "duration": 25.57
+            "duration": 25.6
         },
         {
             "file": "879_10.webm",
@@ -71,7 +71,7 @@
         },
         {
             "file": "879_18.webm",
-            "duration": 25.23
+            "duration": 25.15
         },
         {
             "file": "879_19.webm",
@@ -91,7 +91,7 @@
         },
         {
             "file": "879_23.webm",
-            "duration": 27.1
+            "duration": 26.93
         },
         {
             "file": "879_24.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "879_29.webm",
-            "duration": 20.02
+            "duration": 19.9
         },
         {
             "file": "879_30.webm",
@@ -147,7 +147,7 @@
         },
         {
             "file": "879_37.webm",
-            "duration": 24.4
+            "duration": 24.38
         },
         {
             "file": "879_38.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1138.83
+    "total_duration": 1138.25
 }
