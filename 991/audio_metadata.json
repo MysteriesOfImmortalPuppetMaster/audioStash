@@ -39,7 +39,7 @@
         },
         {
             "file": "991_10.webm",
-            "duration": 23.02
+            "duration": 22.93
         },
         {
             "file": "991_11.webm",
@@ -71,7 +71,7 @@
         },
         {
             "file": "991_18.webm",
-            "duration": 21.82
+            "duration": 21.7
         },
         {
             "file": "991_19.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "991_20.webm",
-            "duration": 19.15
+            "duration": 18.98
         },
         {
             "file": "991_21.webm",
@@ -155,5 +155,5 @@
         }
     ],
     "total_files": 38,
-    "total_duration": 888.85
+    "total_duration": 888.45
 }
