@@ -11,7 +11,7 @@
         },
         {
             "file": "1001_3.webm",
-            "duration": 26.27
+            "duration": 26.25
         },
         {
             "file": "1001_4.webm",
@@ -31,7 +31,7 @@
         },
         {
             "file": "1001_8.webm",
-            "duration": 25.32
+            "duration": 25.27
         },
         {
             "file": "1001_9.webm",
@@ -43,7 +43,7 @@
         },
         {
             "file": "1001_11.webm",
-            "duration": 26.45
+            "duration": 26.3
         },
         {
             "file": "1001_12.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "1001_15.webm",
-            "duration": 28.15
+            "duration": 27.95
         },
         {
             "file": "1001_16.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "1001_20.webm",
-            "duration": 22.3
+            "duration": 22.2
         },
         {
             "file": "1001_21.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "1001_22.webm",
-            "duration": 22.8
+            "duration": 22.75
         },
         {
             "file": "1001_23.webm",
@@ -95,7 +95,7 @@
         },
         {
             "file": "1001_24.webm",
-            "duration": 24.38
+            "duration": 24.43
         },
         {
             "file": "1001_25.webm",
@@ -103,7 +103,7 @@
         },
         {
             "file": "1001_26.webm",
-            "duration": 28.82
+            "duration": 28.75
         },
         {
             "file": "1001_27.webm",
@@ -115,11 +115,11 @@
         },
         {
             "file": "1001_29.webm",
-            "duration": 26.98
+            "duration": 26.93
         },
         {
             "file": "1001_30.webm",
-            "duration": 25.77
+            "duration": 25.62
         },
         {
             "file": "1001_31.webm",
@@ -135,7 +135,7 @@
         },
         {
             "file": "1001_34.webm",
-            "duration": 25.25
+            "duration": 25.15
         },
         {
             "file": "1001_35.webm",
@@ -143,7 +143,7 @@
         },
         {
             "file": "1001_36.webm",
-            "duration": 18.3
+            "duration": 18.25
         },
         {
             "file": "1001_37.webm",
@@ -155,13 +155,13 @@
         },
         {
             "file": "1001_39.webm",
-            "duration": 23.88
+            "duration": 23.9
         },
         {
             "file": "1001_40.webm",
-            "duration": 16.18
+            "duration": 16.12
         }
     ],
     "total_files": 40,
-    "total_duration": 954.4
+    "total_duration": 953.42
 }
