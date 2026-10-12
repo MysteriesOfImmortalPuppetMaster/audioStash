@@ -71,7 +71,7 @@
         },
         {
             "file": "880_18.webm",
-            "duration": 25.1
+            "duration": 25.05
         },
         {
             "file": "880_19.webm",
@@ -151,7 +151,7 @@
         },
         {
             "file": "880_38.webm",
-            "duration": 24.45
+            "duration": 24.43
         },
         {
             "file": "880_39.webm",
@@ -167,7 +167,7 @@
         },
         {
             "file": "880_42.webm",
-            "duration": 24.95
+            "duration": 24.98
         },
         {
             "file": "880_43.webm",
@@ -175,7 +175,7 @@
         },
         {
             "file": "880_44.webm",
-            "duration": 25.65
+            "duration": 25.68
         },
         {
             "file": "880_45.webm",
@@ -203,5 +203,5 @@
         }
     ],
     "total_files": 50,
-    "total_duration": 1140.9
+    "total_duration": 1140.88
 }
