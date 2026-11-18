@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "941_1.webm",
-            "duration": 30.95
+            "duration": 31.12
         },
         {
             "file": "941_2.webm",
@@ -107,7 +107,7 @@
         },
         {
             "file": "941_27.webm",
-            "duration": 28.52
+            "duration": 28.5
         },
         {
             "file": "941_28.webm",
@@ -211,5 +211,5 @@
         }
     ],
     "total_files": 52,
-    "total_duration": 1272.17
+    "total_duration": 1272.33
 }
