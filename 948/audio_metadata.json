@@ -43,7 +43,7 @@
         },
         {
             "file": "948_11.webm",
-            "duration": 24.5
+            "duration": 24.57
         },
         {
             "file": "948_12.webm",
@@ -127,7 +127,7 @@
         },
         {
             "file": "948_32.webm",
-            "duration": 26.23
+            "duration": 26.3
         },
         {
             "file": "948_33.webm",
@@ -147,11 +147,11 @@
         },
         {
             "file": "948_37.webm",
-            "duration": 24.2
+            "duration": 24.25
         },
         {
             "file": "948_38.webm",
-            "duration": 24.62
+            "duration": 24.7
         },
         {
             "file": "948_39.webm",
@@ -203,15 +203,15 @@
         },
         {
             "file": "948_51.webm",
-            "duration": 24.7
+            "duration": 24.8
         },
         {
             "file": "948_52.webm",
-            "duration": 23.95
+            "duration": 24.15
         },
         {
             "file": "948_53.webm",
-            "duration": 32.23
+            "duration": 32.58
         },
         {
             "file": "948_54.webm",
@@ -227,5 +227,5 @@
         }
     ],
     "total_files": 56,
-    "total_duration": 1320.6
+    "total_duration": 1321.53
 }
