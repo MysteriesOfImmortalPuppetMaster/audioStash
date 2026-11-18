@@ -23,11 +23,11 @@
         },
         {
             "file": "770_6.webm",
-            "duration": 23.48
+            "duration": 23.43
         },
         {
             "file": "770_7.webm",
-            "duration": 24.77
+            "duration": 24.8
         },
         {
             "file": "770_8.webm",
@@ -103,7 +103,7 @@
         },
         {
             "file": "770_26.webm",
-            "duration": 24.95
+            "duration": 24.85
         },
         {
             "file": "770_27.webm",
@@ -119,7 +119,7 @@
         },
         {
             "file": "770_30.webm",
-            "duration": 22.18
+            "duration": 22.15
         },
         {
             "file": "770_31.webm",
@@ -143,7 +143,7 @@
         },
         {
             "file": "770_36.webm",
-            "duration": 23.9
+            "duration": 23.93
         },
         {
             "file": "770_37.webm",
@@ -195,5 +195,5 @@
         }
     ],
     "total_files": 48,
-    "total_duration": 1093.7
+    "total_duration": 1093.58
 }
