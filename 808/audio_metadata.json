@@ -115,7 +115,7 @@
         },
         {
             "file": "808_29.webm",
-            "duration": 28.02
+            "duration": 28.0
         },
         {
             "file": "808_30.webm",
@@ -175,15 +175,15 @@
         },
         {
             "file": "808_44.webm",
-            "duration": 25.07
+            "duration": 25.05
         },
         {
             "file": "808_45.webm",
-            "duration": 27.68
+            "duration": 27.7
         },
         {
             "file": "808_46.webm",
-            "duration": 26.02
+            "duration": 26.0
         },
         {
             "file": "808_47.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1192.12
+    "total_duration": 1192.08
 }
