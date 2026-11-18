@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "833_1.webm",
-            "duration": 28.0
+            "duration": 28.07
         },
         {
             "file": "833_2.webm",
@@ -11,7 +11,7 @@
         },
         {
             "file": "833_3.webm",
-            "duration": 22.52
+            "duration": 22.48
         },
         {
             "file": "833_4.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "833_20.webm",
-            "duration": 25.23
+            "duration": 25.27
         },
         {
             "file": "833_21.webm",
@@ -95,7 +95,7 @@
         },
         {
             "file": "833_24.webm",
-            "duration": 27.95
+            "duration": 27.88
         },
         {
             "file": "833_25.webm",
@@ -107,7 +107,7 @@
         },
         {
             "file": "833_27.webm",
-            "duration": 27.23
+            "duration": 27.25
         },
         {
             "file": "833_28.webm",
@@ -183,5 +183,5 @@
         }
     ],
     "total_files": 45,
-    "total_duration": 1135.47
+    "total_duration": 1135.5
 }
