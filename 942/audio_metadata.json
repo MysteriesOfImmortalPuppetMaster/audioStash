@@ -11,7 +11,7 @@
         },
         {
             "file": "942_3.webm",
-            "duration": 27.3
+            "duration": 27.48
         },
         {
             "file": "942_4.webm",
@@ -43,7 +43,7 @@
         },
         {
             "file": "942_11.webm",
-            "duration": 24.8
+            "duration": 25.02
         },
         {
             "file": "942_12.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "942_15.webm",
-            "duration": 26.55
+            "duration": 26.88
         },
         {
             "file": "942_16.webm",
@@ -223,5 +223,5 @@
         }
     ],
     "total_files": 55,
-    "total_duration": 1250.3
+    "total_duration": 1251.03
 }
