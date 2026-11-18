@@ -19,11 +19,11 @@
         },
         {
             "file": "945_5.webm",
-            "duration": 24.85
+            "duration": 25.12
         },
         {
             "file": "945_6.webm",
-            "duration": 20.75
+            "duration": 20.77
         },
         {
             "file": "945_7.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "945_17.webm",
-            "duration": 22.9
+            "duration": 23.15
         },
         {
             "file": "945_18.webm",
@@ -211,5 +211,5 @@
         }
     ],
     "total_files": 52,
-    "total_duration": 1274.92
+    "total_duration": 1275.47
 }
