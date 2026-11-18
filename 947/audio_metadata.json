@@ -123,7 +123,7 @@
         },
         {
             "file": "947_31.webm",
-            "duration": 27.9
+            "duration": 27.95
         },
         {
             "file": "947_32.webm",
@@ -227,5 +227,5 @@
         }
     ],
     "total_files": 56,
-    "total_duration": 1353.9
+    "total_duration": 1353.95
 }
