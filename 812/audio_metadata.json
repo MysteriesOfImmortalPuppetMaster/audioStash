@@ -43,7 +43,7 @@
         },
         {
             "file": "812_11.webm",
-            "duration": 26.6
+            "duration": 26.57
         },
         {
             "file": "812_12.webm",
@@ -151,7 +151,7 @@
         },
         {
             "file": "812_38.webm",
-            "duration": 29.4
+            "duration": 29.38
         },
         {
             "file": "812_39.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1157.65
+    "total_duration": 1157.6
 }
