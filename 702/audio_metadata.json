@@ -43,7 +43,7 @@
         },
         {
             "file": "702_11.webm",
-            "duration": 25.32
+            "duration": 25.4
         },
         {
             "file": "702_12.webm",
@@ -99,7 +99,7 @@
         },
         {
             "file": "702_25.webm",
-            "duration": 27.68
+            "duration": 27.62
         },
         {
             "file": "702_26.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "702_29.webm",
-            "duration": 21.88
+            "duration": 21.98
         },
         {
             "file": "702_30.webm",
@@ -179,13 +179,13 @@
         },
         {
             "file": "702_45.webm",
-            "duration": 28.75
+            "duration": 28.77
         },
         {
             "file": "702_46.webm",
-            "duration": 26.68
+            "duration": 26.75
         }
     ],
     "total_files": 46,
-    "total_duration": 1152.15
+    "total_duration": 1152.38
 }
