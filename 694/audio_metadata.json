@@ -55,7 +55,7 @@
         },
         {
             "file": "694_14.webm",
-            "duration": 27.1
+            "duration": 27.0
         },
         {
             "file": "694_15.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "694_20.webm",
-            "duration": 27.12
+            "duration": 26.95
         },
         {
             "file": "694_21.webm",
@@ -167,7 +167,7 @@
         },
         {
             "file": "694_42.webm",
-            "duration": 27.85
+            "duration": 28.07
         },
         {
             "file": "694_43.webm",
@@ -175,9 +175,9 @@
         },
         {
             "file": "694_44.webm",
-            "duration": 25.62
+            "duration": 25.73
         }
     ],
     "total_files": 44,
-    "total_duration": 1134.17
+    "total_duration": 1134.22
 }
