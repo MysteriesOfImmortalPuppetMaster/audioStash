@@ -183,11 +183,11 @@
         },
         {
             "file": "541_46.webm",
-            "duration": 21.8
+            "duration": 21.57
         },
         {
             "file": "541_47.webm",
-            "duration": 24.15
+            "duration": 24.02
         },
         {
             "file": "541_48.webm",
@@ -195,11 +195,11 @@
         },
         {
             "file": "541_49.webm",
-            "duration": 23.75
+            "duration": 23.3
         },
         {
             "file": "541_50.webm",
-            "duration": 28.7
+            "duration": 28.0
         },
         {
             "file": "541_51.webm",
@@ -207,5 +207,5 @@
         }
     ],
     "total_files": 51,
-    "total_duration": 1165.22
+    "total_duration": 1163.72
 }
