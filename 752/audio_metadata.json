@@ -127,15 +127,15 @@
         },
         {
             "file": "752_32.webm",
-            "duration": 27.48
+            "duration": 27.45
         },
         {
             "file": "752_33.webm",
-            "duration": 24.8
+            "duration": 24.85
         },
         {
             "file": "752_34.webm",
-            "duration": 26.23
+            "duration": 26.25
         },
         {
             "file": "752_35.webm",
@@ -179,5 +179,5 @@
         }
     ],
     "total_files": 44,
-    "total_duration": 1090.2
+    "total_duration": 1090.25
 }
