@@ -15,15 +15,15 @@
         },
         {
             "file": "545_4.webm",
-            "duration": 23.07
+            "duration": 23.12
         },
         {
             "file": "545_5.webm",
-            "duration": 25.8
+            "duration": 26.2
         },
         {
             "file": "545_6.webm",
-            "duration": 25.27
+            "duration": 25.43
         },
         {
             "file": "545_7.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "545_22.webm",
-            "duration": 27.2
+            "duration": 27.15
         },
         {
             "file": "545_23.webm",
@@ -159,7 +159,7 @@
         },
         {
             "file": "545_40.webm",
-            "duration": 26.3
+            "duration": 26.32
         },
         {
             "file": "545_41.webm",
@@ -195,7 +195,7 @@
         },
         {
             "file": "545_49.webm",
-            "duration": 21.68
+            "duration": 21.62
         },
         {
             "file": "545_50.webm",
@@ -219,5 +219,5 @@
         }
     ],
     "total_files": 54,
-    "total_duration": 1236.75
+    "total_duration": 1237.28
 }
