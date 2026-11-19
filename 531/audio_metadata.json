@@ -7,7 +7,7 @@
         },
         {
             "file": "531_2.webm",
-            "duration": 27.62
+            "duration": 27.12
         },
         {
             "file": "531_3.webm",
@@ -23,7 +23,7 @@
         },
         {
             "file": "531_6.webm",
-            "duration": 24.12
+            "duration": 23.7
         },
         {
             "file": "531_7.webm",
@@ -43,11 +43,11 @@
         },
         {
             "file": "531_11.webm",
-            "duration": 25.57
+            "duration": 25.25
         },
         {
             "file": "531_12.webm",
-            "duration": 24.3
+            "duration": 23.93
         },
         {
             "file": "531_13.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "531_20.webm",
-            "duration": 26.57
+            "duration": 26.25
         },
         {
             "file": "531_21.webm",
@@ -91,11 +91,11 @@
         },
         {
             "file": "531_23.webm",
-            "duration": 27.23
+            "duration": 26.85
         },
         {
             "file": "531_24.webm",
-            "duration": 23.2
+            "duration": 22.73
         },
         {
             "file": "531_25.webm",
@@ -111,15 +111,15 @@
         },
         {
             "file": "531_28.webm",
-            "duration": 22.0
+            "duration": 21.02
         },
         {
             "file": "531_29.webm",
-            "duration": 26.27
+            "duration": 26.05
         },
         {
             "file": "531_30.webm",
-            "duration": 25.82
+            "duration": 25.4
         },
         {
             "file": "531_31.webm",
@@ -135,7 +135,7 @@
         },
         {
             "file": "531_34.webm",
-            "duration": 20.25
+            "duration": 19.95
         },
         {
             "file": "531_35.webm",
@@ -171,7 +171,7 @@
         },
         {
             "file": "531_43.webm",
-            "duration": 22.4
+            "duration": 21.95
         },
         {
             "file": "531_44.webm",
@@ -187,15 +187,15 @@
         },
         {
             "file": "531_47.webm",
-            "duration": 26.12
+            "duration": 29.12
         },
         {
             "file": "531_48.webm",
-            "duration": 23.35
+            "duration": 25.68
         },
         {
             "file": "531_49.webm",
-            "duration": 28.52
+            "duration": 22.57
         },
         {
             "file": "531_50.webm",
@@ -203,5 +203,5 @@
         }
     ],
     "total_files": 50,
-    "total_duration": 1182.95
+    "total_duration": 1177.15
 }
