@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "579_1.webm",
-            "duration": 26.43
+            "duration": 27.6
         },
         {
             "file": "579_2.webm",
@@ -11,7 +11,7 @@
         },
         {
             "file": "579_3.webm",
-            "duration": 15.62
+            "duration": 16.9
         },
         {
             "file": "579_4.webm",
@@ -27,15 +27,15 @@
         },
         {
             "file": "579_7.webm",
-            "duration": 26.9
+            "duration": 28.23
         },
         {
             "file": "579_8.webm",
-            "duration": 28.27
+            "duration": 28.23
         },
         {
             "file": "579_9.webm",
-            "duration": 24.7
+            "duration": 24.77
         },
         {
             "file": "579_10.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "579_15.webm",
-            "duration": 24.12
+            "duration": 24.2
         },
         {
             "file": "579_16.webm",
@@ -171,5 +171,5 @@
         }
     ],
     "total_files": 42,
-    "total_duration": 1042.03
+    "total_duration": 1045.9
 }
