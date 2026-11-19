@@ -3,15 +3,15 @@
     "audio_files": [
         {
             "file": "661_1.webm",
-            "duration": 22.2
+            "duration": 22.3
         },
         {
             "file": "661_2.webm",
-            "duration": 23.95
+            "duration": 23.88
         },
         {
             "file": "661_3.webm",
-            "duration": 28.95
+            "duration": 29.05
         },
         {
             "file": "661_4.webm",
@@ -55,7 +55,7 @@
         },
         {
             "file": "661_14.webm",
-            "duration": 29.6
+            "duration": 29.57
         },
         {
             "file": "661_15.webm",
@@ -175,5 +175,5 @@
         }
     ],
     "total_files": 43,
-    "total_duration": 1126.53
+    "total_duration": 1126.62
 }
