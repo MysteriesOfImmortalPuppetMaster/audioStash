@@ -59,7 +59,7 @@
         },
         {
             "file": "543_15.webm",
-            "duration": 27.88
+            "duration": 27.77
         },
         {
             "file": "543_16.webm",
@@ -171,5 +171,5 @@
         }
     ],
     "total_files": 42,
-    "total_duration": 965.5
+    "total_duration": 965.4
 }
