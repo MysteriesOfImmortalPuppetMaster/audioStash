@@ -51,7 +51,7 @@
         },
         {
             "file": "735_13.webm",
-            "duration": 23.65
+            "duration": 23.62
         },
         {
             "file": "735_14.webm",
@@ -155,7 +155,7 @@
         },
         {
             "file": "735_39.webm",
-            "duration": 15.12
+            "duration": 14.62
         },
         {
             "file": "735_40.webm",
@@ -203,5 +203,5 @@
         }
     ],
     "total_files": 50,
-    "total_duration": 1188.6
+    "total_duration": 1188.08
 }
