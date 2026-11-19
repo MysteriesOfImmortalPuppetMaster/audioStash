@@ -83,7 +83,7 @@
         },
         {
             "file": "708_21.webm",
-            "duration": 28.65
+            "duration": 28.62
         },
         {
             "file": "708_22.webm",
@@ -163,13 +163,13 @@
         },
         {
             "file": "708_41.webm",
-            "duration": 30.0
+            "duration": 30.12
         },
         {
             "file": "708_42.webm",
-            "duration": 23.3
+            "duration": 23.38
         }
     ],
     "total_files": 42,
-    "total_duration": 1100.53
+    "total_duration": 1100.7
 }
