@@ -3,15 +3,15 @@
     "audio_files": [
         {
             "file": "559_1.webm",
-            "duration": 27.45
+            "duration": 27.1
         },
         {
             "file": "559_2.webm",
-            "duration": 29.0
+            "duration": 28.57
         },
         {
             "file": "559_3.webm",
-            "duration": 30.62
+            "duration": 30.3
         },
         {
             "file": "559_4.webm",
@@ -47,11 +47,11 @@
         },
         {
             "file": "559_12.webm",
-            "duration": 26.25
+            "duration": 25.88
         },
         {
             "file": "559_13.webm",
-            "duration": 27.6
+            "duration": 27.2
         },
         {
             "file": "559_14.webm",
@@ -63,7 +63,7 @@
         },
         {
             "file": "559_16.webm",
-            "duration": 28.68
+            "duration": 28.65
         },
         {
             "file": "559_17.webm",
@@ -75,113 +75,109 @@
         },
         {
             "file": "559_19.webm",
-            "duration": 19.52
+            "duration": 27.07
         },
         {
             "file": "559_20.webm",
-            "duration": 25.62
+            "duration": 26.18
         },
         {
             "file": "559_21.webm",
-            "duration": 23.02
+            "duration": 21.9
         },
         {
             "file": "559_22.webm",
-            "duration": 29.55
+            "duration": 27.35
         },
         {
             "file": "559_23.webm",
-            "duration": 25.5
+            "duration": 26.12
         },
         {
             "file": "559_24.webm",
-            "duration": 29.02
+            "duration": 28.73
         },
         {
             "file": "559_25.webm",
-            "duration": 25.45
+            "duration": 25.1
         },
         {
             "file": "559_26.webm",
-            "duration": 25.8
+            "duration": 27.4
         },
         {
             "file": "559_27.webm",
-            "duration": 27.32
+            "duration": 25.48
         },
         {
             "file": "559_28.webm",
-            "duration": 19.73
+            "duration": 26.5
         },
         {
             "file": "559_29.webm",
-            "duration": 23.77
+            "duration": 30.9
         },
         {
             "file": "559_30.webm",
-            "duration": 23.52
+            "duration": 29.4
         },
         {
             "file": "559_31.webm",
-            "duration": 30.0
+            "duration": 27.77
         },
         {
             "file": "559_32.webm",
-            "duration": 24.05
-        },
-        {
-            "file": "559_33.webm",
             "duration": 26.68
         },
         {
-            "file": "559_34.webm",
-            "duration": 25.65
+            "file": "559_33.webm",
+            "duration": 25.68
         },
         {
-            "file": "559_35.webm",
+            "file": "559_34.webm",
             "duration": 21.95
         },
         {
-            "file": "559_36.webm",
+            "file": "559_35.webm",
             "duration": 27.55
         },
         {
-            "file": "559_37.webm",
+            "file": "559_36.webm",
             "duration": 21.68
         },
         {
-            "file": "559_38.webm",
+            "file": "559_37.webm",
             "duration": 23.77
         },
         {
-            "file": "559_39.webm",
+            "file": "559_38.webm",
             "duration": 27.3
         },
         {
-            "file": "559_40.webm",
+            "file": "559_39.webm",
             "duration": 21.8
         },
         {
-            "file": "559_41.webm",
+            "file": "559_40.webm",
             "duration": 27.68
         },
         {
-            "file": "559_42.webm",
+            "file": "559_41.webm",
             "duration": 23.6
         },
         {
-            "file": "559_43.webm",
+            "file": "559_42.webm",
             "duration": 29.18
         },
         {
-            "file": "559_44.webm",
+            "file": "559_43.webm",
             "duration": 26.07
         },
         {
-            "file": "559_45.webm",
+            "file": "559_44.webm",
             "duration": 17.0
         }
     ],
-    "total_files": 45,
-    "total_duration": 1141.58
+    "total_files": 44,
+    "total_duration": 1137.7
 }
