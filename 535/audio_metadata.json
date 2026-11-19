@@ -87,7 +87,7 @@
         },
         {
             "file": "535_22.webm",
-            "duration": 25.38
+            "duration": 25.35
         },
         {
             "file": "535_23.webm",
@@ -139,7 +139,7 @@
         },
         {
             "file": "535_35.webm",
-            "duration": 26.27
+            "duration": 26.25
         },
         {
             "file": "535_36.webm",
@@ -191,7 +191,7 @@
         },
         {
             "file": "535_48.webm",
-            "duration": 27.98
+            "duration": 28.0
         },
         {
             "file": "535_49.webm",
@@ -199,5 +199,5 @@
         }
     ],
     "total_files": 49,
-    "total_duration": 1156.4
+    "total_duration": 1156.38
 }
