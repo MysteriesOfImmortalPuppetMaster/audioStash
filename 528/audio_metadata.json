@@ -127,7 +127,7 @@
         },
         {
             "file": "528_32.webm",
-            "duration": 18.68
+            "duration": 18.62
         },
         {
             "file": "528_33.webm",
@@ -195,7 +195,7 @@
         },
         {
             "file": "528_49.webm",
-            "duration": 23.6
+            "duration": 24.0
         },
         {
             "file": "528_50.webm",
@@ -223,5 +223,5 @@
         }
     ],
     "total_files": 55,
-    "total_duration": 1294.75
+    "total_duration": 1295.1
 }
