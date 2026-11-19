@@ -39,11 +39,11 @@
         },
         {
             "file": "525_10.webm",
-            "duration": 23.88
+            "duration": 26.8
         },
         {
             "file": "525_11.webm",
-            "duration": 26.93
+            "duration": 23.6
         },
         {
             "file": "525_12.webm",
@@ -75,7 +75,7 @@
         },
         {
             "file": "525_19.webm",
-            "duration": 28.12
+            "duration": 28.1
         },
         {
             "file": "525_20.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1085.75
+    "total_duration": 1085.33
 }
