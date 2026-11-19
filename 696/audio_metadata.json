@@ -163,7 +163,7 @@
         },
         {
             "file": "696_41.webm",
-            "duration": 27.27
+            "duration": 27.23
         },
         {
             "file": "696_42.webm",
@@ -183,7 +183,7 @@
         },
         {
             "file": "696_46.webm",
-            "duration": 27.57
+            "duration": 27.65
         },
         {
             "file": "696_47.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1140.12
+    "total_duration": 1140.15
 }
