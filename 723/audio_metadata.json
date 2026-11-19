@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "723_1.webm",
-            "duration": 24.77
+            "duration": 24.8
         },
         {
             "file": "723_2.webm",
@@ -83,7 +83,7 @@
         },
         {
             "file": "723_21.webm",
-            "duration": 23.95
+            "duration": 23.82
         },
         {
             "file": "723_22.webm",
@@ -211,5 +211,5 @@
         }
     ],
     "total_files": 52,
-    "total_duration": 1212.95
+    "total_duration": 1212.85
 }
