@@ -131,7 +131,7 @@
         },
         {
             "file": "663_33.webm",
-            "duration": 24.2
+            "duration": 24.32
         },
         {
             "file": "663_34.webm",
@@ -139,7 +139,7 @@
         },
         {
             "file": "663_35.webm",
-            "duration": 28.7
+            "duration": 28.55
         },
         {
             "file": "663_36.webm",
@@ -175,9 +175,9 @@
         },
         {
             "file": "663_44.webm",
-            "duration": 20.27
+            "duration": 20.32
         }
     ],
     "total_files": 44,
-    "total_duration": 1103.7
+    "total_duration": 1103.72
 }
