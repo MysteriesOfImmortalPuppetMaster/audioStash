@@ -195,11 +195,11 @@
         },
         {
             "file": "700_49.webm",
-            "duration": 23.85
+            "duration": 24.18
         },
         {
             "file": "700_50.webm",
-            "duration": 26.75
+            "duration": 27.23
         },
         {
             "file": "700_51.webm",
@@ -207,7 +207,7 @@
         },
         {
             "file": "700_52.webm",
-            "duration": 28.5
+            "duration": 29.05
         },
         {
             "file": "700_53.webm",
@@ -215,7 +215,7 @@
         },
         {
             "file": "700_54.webm",
-            "duration": 22.85
+            "duration": 23.35
         },
         {
             "file": "700_55.webm",
@@ -223,5 +223,5 @@
         }
     ],
     "total_files": 55,
-    "total_duration": 1378.83
+    "total_duration": 1380.67
 }
