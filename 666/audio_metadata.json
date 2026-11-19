@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "666_1.webm",
-            "duration": 30.25
+            "duration": 30.1
         },
         {
             "file": "666_2.webm",
@@ -99,7 +99,7 @@
         },
         {
             "file": "666_25.webm",
-            "duration": 27.43
+            "duration": 27.45
         },
         {
             "file": "666_26.webm",
@@ -159,7 +159,7 @@
         },
         {
             "file": "666_40.webm",
-            "duration": 22.38
+            "duration": 22.27
         },
         {
             "file": "666_41.webm",
@@ -195,5 +195,5 @@
         }
     ],
     "total_files": 48,
-    "total_duration": 1144.6
+    "total_duration": 1144.38
 }
