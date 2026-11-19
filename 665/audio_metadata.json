@@ -15,7 +15,7 @@
         },
         {
             "file": "665_4.webm",
-            "duration": 21.65
+            "duration": 21.5
         },
         {
             "file": "665_5.webm",
@@ -111,11 +111,11 @@
         },
         {
             "file": "665_28.webm",
-            "duration": 28.12
+            "duration": 28.1
         },
         {
             "file": "665_29.webm",
-            "duration": 26.57
+            "duration": 26.43
         },
         {
             "file": "665_30.webm",
@@ -127,7 +127,7 @@
         },
         {
             "file": "665_32.webm",
-            "duration": 25.6
+            "duration": 25.27
         },
         {
             "file": "665_33.webm",
@@ -135,11 +135,11 @@
         },
         {
             "file": "665_34.webm",
-            "duration": 25.68
+            "duration": 29.1
         },
         {
             "file": "665_35.webm",
-            "duration": 9.15
+            "duration": 5.38
         },
         {
             "file": "665_36.webm",
@@ -179,5 +179,5 @@
         }
     ],
     "total_files": 44,
-    "total_duration": 1056.55
+    "total_duration": 1055.55
 }
