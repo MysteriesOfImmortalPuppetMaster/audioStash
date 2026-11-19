@@ -7,7 +7,7 @@
         },
         {
             "file": "705_2.webm",
-            "duration": 27.35
+            "duration": 27.43
         },
         {
             "file": "705_3.webm",
@@ -15,7 +15,7 @@
         },
         {
             "file": "705_4.webm",
-            "duration": 24.7
+            "duration": 24.8
         },
         {
             "file": "705_5.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "705_17.webm",
-            "duration": 28.2
+            "duration": 28.18
         },
         {
             "file": "705_18.webm",
@@ -187,5 +187,5 @@
         }
     ],
     "total_files": 46,
-    "total_duration": 1093.3
+    "total_duration": 1093.45
 }
