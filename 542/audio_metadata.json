@@ -191,7 +191,7 @@
         },
         {
             "file": "542_48.webm",
-            "duration": 20.45
+            "duration": 20.52
         },
         {
             "file": "542_49.webm",
@@ -203,7 +203,7 @@
         },
         {
             "file": "542_51.webm",
-            "duration": 25.4
+            "duration": 25.6
         },
         {
             "file": "542_52.webm",
@@ -219,5 +219,5 @@
         }
     ],
     "total_files": 54,
-    "total_duration": 1237.17
+    "total_duration": 1237.45
 }
