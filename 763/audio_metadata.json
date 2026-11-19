@@ -71,7 +71,7 @@
         },
         {
             "file": "763_18.webm",
-            "duration": 26.2
+            "duration": 26.15
         },
         {
             "file": "763_19.webm",
@@ -99,7 +99,7 @@
         },
         {
             "file": "763_25.webm",
-            "duration": 26.35
+            "duration": 26.38
         },
         {
             "file": "763_26.webm",
@@ -183,5 +183,5 @@
         }
     ],
     "total_files": 45,
-    "total_duration": 1061.78
+    "total_duration": 1061.75
 }
