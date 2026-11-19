@@ -119,7 +119,7 @@
         },
         {
             "file": "706_30.webm",
-            "duration": 24.68
+            "duration": 24.8
         },
         {
             "file": "706_31.webm",
@@ -139,7 +139,7 @@
         },
         {
             "file": "706_35.webm",
-            "duration": 25.48
+            "duration": 25.5
         },
         {
             "file": "706_36.webm",
@@ -187,5 +187,5 @@
         }
     ],
     "total_files": 46,
-    "total_duration": 1126.17
+    "total_duration": 1126.33
 }
