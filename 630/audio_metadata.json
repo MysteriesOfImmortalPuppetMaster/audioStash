@@ -43,7 +43,7 @@
         },
         {
             "file": "630_11.webm",
-            "duration": 28.45
+            "duration": 28.43
         },
         {
             "file": "630_12.webm",
@@ -175,9 +175,9 @@
         },
         {
             "file": "630_44.webm",
-            "duration": 23.5
+            "duration": 23.62
         }
     ],
     "total_files": 44,
-    "total_duration": 1140.4
+    "total_duration": 1140.5
 }
