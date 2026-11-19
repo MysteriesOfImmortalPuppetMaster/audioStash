@@ -23,7 +23,7 @@
         },
         {
             "file": "533_6.webm",
-            "duration": 25.27
+            "duration": 25.3
         },
         {
             "file": "533_7.webm",
@@ -147,7 +147,7 @@
         },
         {
             "file": "533_37.webm",
-            "duration": 20.43
+            "duration": 20.7
         },
         {
             "file": "533_38.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1139.15
+    "total_duration": 1139.45
 }
