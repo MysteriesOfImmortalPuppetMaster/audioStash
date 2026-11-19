@@ -119,7 +119,7 @@
         },
         {
             "file": "567_30.webm",
-            "duration": 24.82
+            "duration": 25.35
         },
         {
             "file": "567_31.webm",
@@ -159,7 +159,7 @@
         },
         {
             "file": "567_40.webm",
-            "duration": 25.55
+            "duration": 25.6
         },
         {
             "file": "567_41.webm",
@@ -171,5 +171,5 @@
         }
     ],
     "total_files": 42,
-    "total_duration": 998.75
+    "total_duration": 999.33
 }
