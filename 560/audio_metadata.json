@@ -23,7 +23,7 @@
         },
         {
             "file": "560_6.webm",
-            "duration": 26.1
+            "duration": 25.43
         },
         {
             "file": "560_7.webm",
@@ -183,5 +183,5 @@
         }
     ],
     "total_files": 45,
-    "total_duration": 1160.1
+    "total_duration": 1159.42
 }
