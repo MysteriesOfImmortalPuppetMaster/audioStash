@@ -87,11 +87,11 @@
         },
         {
             "file": "698_22.webm",
-            "duration": 24.5
+            "duration": 24.95
         },
         {
             "file": "698_23.webm",
-            "duration": 27.07
+            "duration": 28.45
         },
         {
             "file": "698_24.webm",
@@ -99,7 +99,7 @@
         },
         {
             "file": "698_25.webm",
-            "duration": 26.12
+            "duration": 26.4
         },
         {
             "file": "698_26.webm",
@@ -187,5 +187,5 @@
         }
     ],
     "total_files": 46,
-    "total_duration": 1149.88
+    "total_duration": 1151.97
 }
