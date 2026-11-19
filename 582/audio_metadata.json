@@ -67,7 +67,7 @@
         },
         {
             "file": "582_17.webm",
-            "duration": 22.23
+            "duration": 22.25
         },
         {
             "file": "582_18.webm",
@@ -79,7 +79,7 @@
         },
         {
             "file": "582_20.webm",
-            "duration": 27.5
+            "duration": 27.48
         },
         {
             "file": "582_21.webm",
@@ -107,7 +107,7 @@
         },
         {
             "file": "582_27.webm",
-            "duration": 28.93
+            "duration": 28.9
         },
         {
             "file": "582_28.webm",
@@ -179,5 +179,5 @@
         }
     ],
     "total_files": 44,
-    "total_duration": 1063.65
+    "total_duration": 1063.62
 }
