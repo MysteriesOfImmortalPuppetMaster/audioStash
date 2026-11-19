@@ -15,7 +15,7 @@
         },
         {
             "file": "538_4.webm",
-            "duration": 19.57
+            "duration": 19.62
         },
         {
             "file": "538_5.webm",
@@ -23,11 +23,11 @@
         },
         {
             "file": "538_6.webm",
-            "duration": 26.38
+            "duration": 26.43
         },
         {
             "file": "538_7.webm",
-            "duration": 23.45
+            "duration": 23.4
         },
         {
             "file": "538_8.webm",
@@ -99,11 +99,11 @@
         },
         {
             "file": "538_25.webm",
-            "duration": 23.18
+            "duration": 23.1
         },
         {
             "file": "538_26.webm",
-            "duration": 27.1
+            "duration": 27.15
         },
         {
             "file": "538_27.webm",
@@ -123,7 +123,7 @@
         },
         {
             "file": "538_31.webm",
-            "duration": 24.88
+            "duration": 24.95
         },
         {
             "file": "538_32.webm",
@@ -147,5 +147,5 @@
         }
     ],
     "total_files": 36,
-    "total_duration": 862.25
+    "total_duration": 862.35
 }
