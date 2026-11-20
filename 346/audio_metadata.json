@@ -55,11 +55,11 @@
         },
         {
             "file": "346_14.webm",
-            "duration": 28.25
+            "duration": 28.27
         },
         {
             "file": "346_15.webm",
-            "duration": 26.05
+            "duration": 26.07
         },
         {
             "file": "346_16.webm",
@@ -127,7 +127,7 @@
         },
         {
             "file": "346_32.webm",
-            "duration": 26.45
+            "duration": 26.4
         },
         {
             "file": "346_33.webm",
@@ -143,7 +143,7 @@
         },
         {
             "file": "346_36.webm",
-            "duration": 12.22
+            "duration": 12.25
         },
         {
             "file": "346_37.webm",
@@ -151,5 +151,5 @@
         }
     ],
     "total_files": 37,
-    "total_duration": 864.75
+    "total_duration": 864.77
 }
