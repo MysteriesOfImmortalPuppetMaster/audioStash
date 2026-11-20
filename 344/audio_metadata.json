@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "344_1.webm",
-            "duration": 27.65
+            "duration": 27.9
         },
         {
             "file": "344_2.webm",
@@ -19,7 +19,7 @@
         },
         {
             "file": "344_5.webm",
-            "duration": 24.18
+            "duration": 24.6
         },
         {
             "file": "344_6.webm",
@@ -31,7 +31,7 @@
         },
         {
             "file": "344_8.webm",
-            "duration": 24.85
+            "duration": 25.4
         },
         {
             "file": "344_9.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 798.88
+    "total_duration": 800.1
 }
