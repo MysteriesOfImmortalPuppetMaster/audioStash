@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "349_1.webm",
-            "duration": 25.62
+            "duration": 25.45
         },
         {
             "file": "349_2.webm",
@@ -19,7 +19,7 @@
         },
         {
             "file": "349_5.webm",
-            "duration": 30.07
+            "duration": 29.6
         },
         {
             "file": "349_6.webm",
@@ -31,7 +31,7 @@
         },
         {
             "file": "349_8.webm",
-            "duration": 28.4
+            "duration": 28.57
         },
         {
             "file": "349_9.webm",
@@ -107,7 +107,7 @@
         },
         {
             "file": "349_27.webm",
-            "duration": 29.43
+            "duration": 28.77
         },
         {
             "file": "349_28.webm",
@@ -119,5 +119,5 @@
         }
     ],
     "total_files": 29,
-    "total_duration": 763.75
+    "total_duration": 762.62
 }
