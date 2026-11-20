@@ -67,7 +67,7 @@
         },
         {
             "file": "404_17.webm",
-            "duration": 27.7
+            "duration": 27.73
         },
         {
             "file": "404_18.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "404_22.webm",
-            "duration": 24.15
+            "duration": 24.48
         },
         {
             "file": "404_23.webm",
@@ -151,5 +151,5 @@
         }
     ],
     "total_files": 37,
-    "total_duration": 822.17
+    "total_duration": 822.52
 }
