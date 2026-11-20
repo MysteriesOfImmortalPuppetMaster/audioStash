@@ -71,7 +71,7 @@
         },
         {
             "file": "452_18.webm",
-            "duration": 24.95
+            "duration": 23.9
         },
         {
             "file": "452_19.webm",
@@ -107,5 +107,5 @@
         }
     ],
     "total_files": 26,
-    "total_duration": 646.55
+    "total_duration": 645.5
 }
