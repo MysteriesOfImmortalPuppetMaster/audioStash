@@ -39,7 +39,7 @@
         },
         {
             "file": "472_10.webm",
-            "duration": 22.9
+            "duration": 22.4
         },
         {
             "file": "472_11.webm",
@@ -55,7 +55,7 @@
         },
         {
             "file": "472_14.webm",
-            "duration": 29.05
+            "duration": 28.02
         },
         {
             "file": "472_15.webm",
@@ -95,9 +95,9 @@
         },
         {
             "file": "472_24.webm",
-            "duration": 17.65
+            "duration": 17.05
         }
     ],
     "total_files": 24,
-    "total_duration": 547.98
+    "total_duration": 545.85
 }
