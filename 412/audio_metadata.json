@@ -11,7 +11,7 @@
         },
         {
             "file": "412_3.webm",
-            "duration": 23.2
+            "duration": 23.23
         },
         {
             "file": "412_4.webm",
@@ -95,7 +95,7 @@
         },
         {
             "file": "412_24.webm",
-            "duration": 25.38
+            "duration": 26.5
         },
         {
             "file": "412_25.webm",
@@ -131,5 +131,5 @@
         }
     ],
     "total_files": 32,
-    "total_duration": 747.9
+    "total_duration": 749.05
 }
