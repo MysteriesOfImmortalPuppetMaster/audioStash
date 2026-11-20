@@ -7,7 +7,7 @@
         },
         {
             "file": "468_2.webm",
-            "duration": 27.48
+            "duration": 27.5
         },
         {
             "file": "468_3.webm",
@@ -15,19 +15,19 @@
         },
         {
             "file": "468_4.webm",
-            "duration": 26.9
+            "duration": 26.98
         },
         {
             "file": "468_5.webm",
-            "duration": 26.52
+            "duration": 26.48
         },
         {
             "file": "468_6.webm",
-            "duration": 25.02
+            "duration": 25.15
         },
         {
             "file": "468_7.webm",
-            "duration": 23.48
+            "duration": 23.43
         },
         {
             "file": "468_8.webm",
@@ -91,5 +91,5 @@
         }
     ],
     "total_files": 22,
-    "total_duration": 543.35
+    "total_duration": 543.48
 }
