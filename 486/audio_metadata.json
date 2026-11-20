@@ -99,7 +99,7 @@
         },
         {
             "file": "486_25.webm",
-            "duration": 25.82
+            "duration": 25.95
         },
         {
             "file": "486_26.webm",
@@ -107,7 +107,7 @@
         },
         {
             "file": "486_27.webm",
-            "duration": 24.73
+            "duration": 24.93
         },
         {
             "file": "486_28.webm",
@@ -155,7 +155,7 @@
         },
         {
             "file": "486_39.webm",
-            "duration": 25.75
+            "duration": 26.15
         },
         {
             "file": "486_40.webm",
@@ -187,5 +187,5 @@
         }
     ],
     "total_files": 46,
-    "total_duration": 1127.97
+    "total_duration": 1128.7
 }
