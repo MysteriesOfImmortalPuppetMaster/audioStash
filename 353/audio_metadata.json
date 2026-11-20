@@ -39,7 +39,7 @@
         },
         {
             "file": "353_10.webm",
-            "duration": 23.4
+            "duration": 23.3
         },
         {
             "file": "353_11.webm",
@@ -107,5 +107,5 @@
         }
     ],
     "total_files": 26,
-    "total_duration": 637.25
+    "total_duration": 637.15
 }
