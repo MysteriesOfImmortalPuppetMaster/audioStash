@@ -15,7 +15,7 @@
         },
         {
             "file": "451_4.webm",
-            "duration": 24.85
+            "duration": 24.82
         },
         {
             "file": "451_5.webm",
@@ -51,19 +51,19 @@
         },
         {
             "file": "451_13.webm",
-            "duration": 26.1
+            "duration": 25.68
         },
         {
             "file": "451_14.webm",
-            "duration": 25.1
+            "duration": 24.82
         },
         {
             "file": "451_15.webm",
-            "duration": 27.7
+            "duration": 28.23
         },
         {
             "file": "451_16.webm",
-            "duration": 28.98
+            "duration": 27.48
         },
         {
             "file": "451_17.webm",
@@ -103,5 +103,5 @@
         }
     ],
     "total_files": 25,
-    "total_duration": 671.48
+    "total_duration": 669.77
 }
