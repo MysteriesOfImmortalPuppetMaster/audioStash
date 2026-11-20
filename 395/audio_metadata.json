@@ -35,7 +35,7 @@
         },
         {
             "file": "395_9.webm",
-            "duration": 19.4
+            "duration": 19.6
         },
         {
             "file": "395_10.webm",
@@ -87,19 +87,19 @@
         },
         {
             "file": "395_22.webm",
-            "duration": 24.35
+            "duration": 24.43
         },
         {
             "file": "395_23.webm",
-            "duration": 26.48
+            "duration": 26.52
         },
         {
             "file": "395_24.webm",
-            "duration": 28.7
+            "duration": 28.75
         },
         {
             "file": "395_25.webm",
-            "duration": 27.02
+            "duration": 27.07
         },
         {
             "file": "395_26.webm",
@@ -183,5 +183,5 @@
         }
     ],
     "total_files": 45,
-    "total_duration": 1065.53
+    "total_duration": 1065.95
 }
