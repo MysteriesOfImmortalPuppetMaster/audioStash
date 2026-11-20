@@ -75,7 +75,7 @@
         },
         {
             "file": "337_19.webm",
-            "duration": 8.18
+            "duration": 8.15
         },
         {
             "file": "337_20.webm",
@@ -127,7 +127,7 @@
         },
         {
             "file": "337_32.webm",
-            "duration": 22.9
+            "duration": 22.88
         },
         {
             "file": "337_33.webm",
@@ -155,7 +155,7 @@
         },
         {
             "file": "337_39.webm",
-            "duration": 20.9
+            "duration": 20.93
         },
         {
             "file": "337_40.webm",
@@ -167,5 +167,5 @@
         }
     ],
     "total_files": 41,
-    "total_duration": 930.85
+    "total_duration": 930.83
 }
