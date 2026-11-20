@@ -55,11 +55,11 @@
         },
         {
             "file": "488_14.webm",
-            "duration": 25.07
+            "duration": 25.05
         },
         {
             "file": "488_15.webm",
-            "duration": 24.2
+            "duration": 23.88
         },
         {
             "file": "488_16.webm",
@@ -71,7 +71,7 @@
         },
         {
             "file": "488_18.webm",
-            "duration": 24.73
+            "duration": 24.75
         },
         {
             "file": "488_19.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1140.4
+    "total_duration": 1140.08
 }
