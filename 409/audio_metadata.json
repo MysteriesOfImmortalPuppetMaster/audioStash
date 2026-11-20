@@ -55,7 +55,7 @@
         },
         {
             "file": "409_14.webm",
-            "duration": 22.55
+            "duration": 22.77
         },
         {
             "file": "409_15.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "409_29.webm",
-            "duration": 17.95
+            "duration": 18.2
         },
         {
             "file": "409_30.webm",
@@ -131,7 +131,7 @@
         },
         {
             "file": "409_33.webm",
-            "duration": 26.2
+            "duration": 26.4
         },
         {
             "file": "409_34.webm",
@@ -155,5 +155,5 @@
         }
     ],
     "total_files": 38,
-    "total_duration": 853.5
+    "total_duration": 854.17
 }
