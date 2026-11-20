@@ -79,7 +79,7 @@
         },
         {
             "file": "506_20.webm",
-            "duration": 27.62
+            "duration": 28.05
         },
         {
             "file": "506_21.webm",
@@ -115,11 +115,11 @@
         },
         {
             "file": "506_29.webm",
-            "duration": 30.1
+            "duration": 30.07
         },
         {
             "file": "506_30.webm",
-            "duration": 27.93
+            "duration": 27.95
         },
         {
             "file": "506_31.webm",
@@ -139,5 +139,5 @@
         }
     ],
     "total_files": 34,
-    "total_duration": 857.15
+    "total_duration": 857.58
 }
