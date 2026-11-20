@@ -75,11 +75,11 @@
         },
         {
             "file": "495_19.webm",
-            "duration": 28.1
+            "duration": 28.15
         },
         {
             "file": "495_20.webm",
-            "duration": 29.0
+            "duration": 28.98
         },
         {
             "file": "495_21.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1136.28
+    "total_duration": 1136.3
 }
