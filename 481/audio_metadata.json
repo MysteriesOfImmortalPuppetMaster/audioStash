@@ -63,7 +63,7 @@
         },
         {
             "file": "481_16.webm",
-            "duration": 25.85
+            "duration": 25.88
         },
         {
             "file": "481_17.webm",
@@ -119,7 +119,7 @@
         },
         {
             "file": "481_30.webm",
-            "duration": 26.62
+            "duration": 26.57
         },
         {
             "file": "481_31.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1148.7
+    "total_duration": 1148.67
 }
