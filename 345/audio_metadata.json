@@ -11,11 +11,11 @@
         },
         {
             "file": "345_3.webm",
-            "duration": 25.52
+            "duration": 25.93
         },
         {
             "file": "345_4.webm",
-            "duration": 25.98
+            "duration": 26.32
         },
         {
             "file": "345_5.webm",
@@ -55,11 +55,11 @@
         },
         {
             "file": "345_14.webm",
-            "duration": 23.7
+            "duration": 24.1
         },
         {
             "file": "345_15.webm",
-            "duration": 26.55
+            "duration": 27.43
         },
         {
             "file": "345_16.webm",
@@ -147,5 +147,5 @@
         }
     ],
     "total_files": 36,
-    "total_duration": 888.85
+    "total_duration": 890.88
 }
