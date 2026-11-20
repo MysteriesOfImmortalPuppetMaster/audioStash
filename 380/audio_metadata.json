@@ -31,7 +31,7 @@
         },
         {
             "file": "380_8.webm",
-            "duration": 26.7
+            "duration": 27.88
         },
         {
             "file": "380_9.webm",
@@ -99,7 +99,7 @@
         },
         {
             "file": "380_25.webm",
-            "duration": 27.52
+            "duration": 27.55
         },
         {
             "file": "380_26.webm",
@@ -119,5 +119,5 @@
         }
     ],
     "total_files": 29,
-    "total_duration": 703.52
+    "total_duration": 704.73
 }
