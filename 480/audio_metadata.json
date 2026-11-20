@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "480_1.webm",
-            "duration": 30.4
+            "duration": 30.38
         },
         {
             "file": "480_2.webm",
@@ -39,7 +39,7 @@
         },
         {
             "file": "480_10.webm",
-            "duration": 18.8
+            "duration": 18.75
         },
         {
             "file": "480_11.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "480_17.webm",
-            "duration": 20.27
+            "duration": 20.23
         },
         {
             "file": "480_18.webm",
@@ -91,7 +91,7 @@
         },
         {
             "file": "480_23.webm",
-            "duration": 28.0
+            "duration": 27.98
         },
         {
             "file": "480_24.webm",
@@ -119,7 +119,7 @@
         },
         {
             "file": "480_30.webm",
-            "duration": 22.65
+            "duration": 22.73
         },
         {
             "file": "480_31.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1119.15
+    "total_duration": 1119.08
 }
