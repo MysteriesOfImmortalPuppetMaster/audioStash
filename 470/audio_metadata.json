@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "470_1.webm",
-            "duration": 28.23
+            "duration": 28.27
         },
         {
             "file": "470_2.webm",
@@ -55,7 +55,7 @@
         },
         {
             "file": "470_14.webm",
-            "duration": 27.88
+            "duration": 27.85
         },
         {
             "file": "470_15.webm",
@@ -63,11 +63,11 @@
         },
         {
             "file": "470_16.webm",
-            "duration": 26.4
+            "duration": 26.43
         },
         {
             "file": "470_17.webm",
-            "duration": 27.15
+            "duration": 27.12
         },
         {
             "file": "470_18.webm",
@@ -107,5 +107,5 @@
         }
     ],
     "total_files": 26,
-    "total_duration": 635.35
+    "total_duration": 635.38
 }
