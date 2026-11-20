@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "474_1.webm",
-            "duration": 29.07
+            "duration": 30.07
         },
         {
             "file": "474_2.webm",
@@ -23,11 +23,11 @@
         },
         {
             "file": "474_6.webm",
-            "duration": 25.73
+            "duration": 25.77
         },
         {
             "file": "474_7.webm",
-            "duration": 26.48
+            "duration": 26.4
         },
         {
             "file": "474_8.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "474_15.webm",
-            "duration": 21.07
+            "duration": 21.02
         },
         {
             "file": "474_16.webm",
@@ -83,7 +83,7 @@
         },
         {
             "file": "474_21.webm",
-            "duration": 26.23
+            "duration": 26.32
         },
         {
             "file": "474_22.webm",
@@ -91,15 +91,15 @@
         },
         {
             "file": "474_23.webm",
-            "duration": 28.93
+            "duration": 28.85
         },
         {
             "file": "474_24.webm",
-            "duration": 23.68
+            "duration": 23.57
         },
         {
             "file": "474_25.webm",
-            "duration": 19.3
+            "duration": 19.27
         },
         {
             "file": "474_26.webm",
@@ -123,7 +123,7 @@
         },
         {
             "file": "474_31.webm",
-            "duration": 28.3
+            "duration": 28.32
         },
         {
             "file": "474_32.webm",
@@ -147,5 +147,5 @@
         }
     ],
     "total_files": 36,
-    "total_duration": 898.4
+    "total_duration": 899.25
 }
