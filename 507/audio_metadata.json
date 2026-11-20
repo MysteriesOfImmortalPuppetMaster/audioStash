@@ -71,7 +71,7 @@
         },
         {
             "file": "507_18.webm",
-            "duration": 24.77
+            "duration": 25.05
         },
         {
             "file": "507_19.webm",
@@ -111,7 +111,7 @@
         },
         {
             "file": "507_28.webm",
-            "duration": 30.05
+            "duration": 30.52
         },
         {
             "file": "507_29.webm",
@@ -135,5 +135,5 @@
         }
     ],
     "total_files": 33,
-    "total_duration": 833.62
+    "total_duration": 834.38
 }
