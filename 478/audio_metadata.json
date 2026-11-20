@@ -15,7 +15,7 @@
         },
         {
             "file": "478_4.webm",
-            "duration": 24.57
+            "duration": 24.5
         },
         {
             "file": "478_5.webm",
@@ -127,11 +127,11 @@
         },
         {
             "file": "478_32.webm",
-            "duration": 20.05
+            "duration": 19.93
         },
         {
             "file": "478_33.webm",
-            "duration": 24.12
+            "duration": 23.95
         },
         {
             "file": "478_34.webm",
@@ -167,7 +167,7 @@
         },
         {
             "file": "478_42.webm",
-            "duration": 20.6
+            "duration": 20.65
         },
         {
             "file": "478_43.webm",
@@ -175,5 +175,5 @@
         }
     ],
     "total_files": 43,
-    "total_duration": 1065.92
+    "total_duration": 1065.6
 }
