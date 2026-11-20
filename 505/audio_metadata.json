@@ -3,11 +3,11 @@
     "audio_files": [
         {
             "file": "505_1.webm",
-            "duration": 24.23
+            "duration": 23.98
         },
         {
             "file": "505_2.webm",
-            "duration": 20.05
+            "duration": 19.75
         },
         {
             "file": "505_3.webm",
@@ -35,11 +35,11 @@
         },
         {
             "file": "505_9.webm",
-            "duration": 24.25
+            "duration": 23.9
         },
         {
             "file": "505_10.webm",
-            "duration": 19.98
+            "duration": 19.62
         },
         {
             "file": "505_11.webm",
@@ -59,11 +59,11 @@
         },
         {
             "file": "505_15.webm",
-            "duration": 22.07
+            "duration": 21.25
         },
         {
             "file": "505_16.webm",
-            "duration": 16.02
+            "duration": 15.7
         },
         {
             "file": "505_17.webm",
@@ -75,11 +75,11 @@
         },
         {
             "file": "505_19.webm",
-            "duration": 27.5
+            "duration": 27.25
         },
         {
             "file": "505_20.webm",
-            "duration": 26.25
+            "duration": 25.98
         },
         {
             "file": "505_21.webm",
@@ -87,11 +87,11 @@
         },
         {
             "file": "505_22.webm",
-            "duration": 24.5
+            "duration": 23.8
         },
         {
             "file": "505_23.webm",
-            "duration": 28.55
+            "duration": 28.2
         },
         {
             "file": "505_24.webm",
@@ -163,11 +163,11 @@
         },
         {
             "file": "505_41.webm",
-            "duration": 29.12
+            "duration": 28.77
         },
         {
             "file": "505_42.webm",
-            "duration": 26.85
+            "duration": 26.48
         },
         {
             "file": "505_43.webm",
@@ -183,5 +183,5 @@
         }
     ],
     "total_files": 45,
-    "total_duration": 1038.78
+    "total_duration": 1034.08
 }
