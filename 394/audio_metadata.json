@@ -35,7 +35,7 @@
         },
         {
             "file": "394_9.webm",
-            "duration": 25.7
+            "duration": 25.68
         },
         {
             "file": "394_10.webm",
@@ -71,7 +71,7 @@
         },
         {
             "file": "394_18.webm",
-            "duration": 23.9
+            "duration": 23.75
         },
         {
             "file": "394_19.webm",
@@ -99,7 +99,7 @@
         },
         {
             "file": "394_25.webm",
-            "duration": 26.23
+            "duration": 26.2
         },
         {
             "file": "394_26.webm",
@@ -151,5 +151,5 @@
         }
     ],
     "total_files": 37,
-    "total_duration": 872.35
+    "total_duration": 872.15
 }
