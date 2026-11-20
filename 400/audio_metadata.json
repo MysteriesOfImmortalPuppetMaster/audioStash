@@ -39,19 +39,19 @@
         },
         {
             "file": "400_10.webm",
-            "duration": 26.07
+            "duration": 26.05
         },
         {
             "file": "400_11.webm",
-            "duration": 21.57
+            "duration": 21.6
         },
         {
             "file": "400_12.webm",
-            "duration": 27.8
+            "duration": 22.6
         },
         {
             "file": "400_13.webm",
-            "duration": 19.75
+            "duration": 26.12
         },
         {
             "file": "400_14.webm",
@@ -131,5 +131,5 @@
         }
     ],
     "total_files": 32,
-    "total_duration": 796.25
+    "total_duration": 797.42
 }
