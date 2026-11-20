@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "458_1.webm",
-            "duration": 22.4
+            "duration": 22.38
         },
         {
             "file": "458_2.webm",
@@ -75,7 +75,7 @@
         },
         {
             "file": "458_19.webm",
-            "duration": 18.77
+            "duration": 18.75
         },
         {
             "file": "458_20.webm",
@@ -107,7 +107,7 @@
         },
         {
             "file": "458_27.webm",
-            "duration": 21.85
+            "duration": 21.82
         },
         {
             "file": "458_28.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 817.67
+    "total_duration": 817.6
 }
