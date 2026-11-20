@@ -55,7 +55,7 @@
         },
         {
             "file": "511_14.webm",
-            "duration": 25.55
+            "duration": 25.68
         },
         {
             "file": "511_15.webm",
@@ -127,7 +127,7 @@
         },
         {
             "file": "511_32.webm",
-            "duration": 25.73
+            "duration": 25.75
         },
         {
             "file": "511_33.webm",
@@ -135,7 +135,7 @@
         },
         {
             "file": "511_34.webm",
-            "duration": 27.4
+            "duration": 27.62
         },
         {
             "file": "511_35.webm",
@@ -167,5 +167,5 @@
         }
     ],
     "total_files": 41,
-    "total_duration": 1013.9
+    "total_duration": 1014.27
 }
