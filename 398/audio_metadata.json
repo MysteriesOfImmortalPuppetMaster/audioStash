@@ -19,7 +19,7 @@
         },
         {
             "file": "398_5.webm",
-            "duration": 27.35
+            "duration": 26.93
         },
         {
             "file": "398_6.webm",
@@ -151,7 +151,7 @@
         },
         {
             "file": "398_38.webm",
-            "duration": 23.55
+            "duration": 23.52
         },
         {
             "file": "398_39.webm",
@@ -191,7 +191,7 @@
         },
         {
             "file": "398_48.webm",
-            "duration": 24.38
+            "duration": 24.35
         },
         {
             "file": "398_49.webm",
@@ -223,5 +223,5 @@
         }
     ],
     "total_files": 55,
-    "total_duration": 1296.2
+    "total_duration": 1295.72
 }
