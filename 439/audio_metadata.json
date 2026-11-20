@@ -63,7 +63,7 @@
         },
         {
             "file": "439_16.webm",
-            "duration": 25.93
+            "duration": 25.9
         },
         {
             "file": "439_17.webm",
@@ -151,7 +151,7 @@
         },
         {
             "file": "439_38.webm",
-            "duration": 26.25
+            "duration": 25.5
         },
         {
             "file": "439_39.webm",
@@ -159,9 +159,9 @@
         },
         {
             "file": "439_40.webm",
-            "duration": 19.98
+            "duration": 19.6
         }
     ],
     "total_files": 40,
-    "total_duration": 922.95
+    "total_duration": 921.8
 }
