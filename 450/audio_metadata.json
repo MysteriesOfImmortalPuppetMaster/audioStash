@@ -7,7 +7,7 @@
         },
         {
             "file": "450_2.webm",
-            "duration": 28.88
+            "duration": 28.93
         },
         {
             "file": "450_3.webm",
@@ -27,7 +27,7 @@
         },
         {
             "file": "450_7.webm",
-            "duration": 27.15
+            "duration": 27.18
         },
         {
             "file": "450_8.webm",
@@ -95,5 +95,5 @@
         }
     ],
     "total_files": 23,
-    "total_duration": 586.27
+    "total_duration": 586.35
 }
