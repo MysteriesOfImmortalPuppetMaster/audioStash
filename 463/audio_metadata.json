@@ -3,11 +3,11 @@
     "audio_files": [
         {
             "file": "463_1.webm",
-            "duration": 30.7
+            "duration": 30.32
         },
         {
             "file": "463_2.webm",
-            "duration": 24.77
+            "duration": 24.48
         },
         {
             "file": "463_3.webm",
@@ -31,11 +31,11 @@
         },
         {
             "file": "463_8.webm",
-            "duration": 23.6
+            "duration": 23.23
         },
         {
             "file": "463_9.webm",
-            "duration": 27.7
+            "duration": 27.05
         },
         {
             "file": "463_10.webm",
@@ -103,5 +103,5 @@
         }
     ],
     "total_files": 25,
-    "total_duration": 651.0
+    "total_duration": 649.3
 }
