@@ -87,7 +87,7 @@
         },
         {
             "file": "447_22.webm",
-            "duration": 26.48
+            "duration": 26.5
         },
         {
             "file": "447_23.webm",
@@ -211,5 +211,5 @@
         }
     ],
     "total_files": 52,
-    "total_duration": 1265.28
+    "total_duration": 1265.3
 }
