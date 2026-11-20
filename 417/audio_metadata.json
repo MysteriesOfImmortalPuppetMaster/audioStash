@@ -51,7 +51,7 @@
         },
         {
             "file": "417_13.webm",
-            "duration": 26.35
+            "duration": 26.38
         },
         {
             "file": "417_14.webm",
@@ -207,7 +207,7 @@
         },
         {
             "file": "417_52.webm",
-            "duration": 26.3
+            "duration": 25.98
         },
         {
             "file": "417_53.webm",
@@ -215,9 +215,9 @@
         },
         {
             "file": "417_54.webm",
-            "duration": 27.98
+            "duration": 27.15
         }
     ],
     "total_files": 54,
-    "total_duration": 1254.42
+    "total_duration": 1253.3
 }
