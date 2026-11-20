@@ -63,7 +63,7 @@
         },
         {
             "file": "360_16.webm",
-            "duration": 27.57
+            "duration": 27.65
         },
         {
             "file": "360_17.webm",
@@ -71,11 +71,11 @@
         },
         {
             "file": "360_18.webm",
-            "duration": 25.77
+            "duration": 26.1
         },
         {
             "file": "360_19.webm",
-            "duration": 27.18
+            "duration": 27.02
         },
         {
             "file": "360_20.webm",
@@ -119,5 +119,5 @@
         }
     ],
     "total_files": 29,
-    "total_duration": 752.58
+    "total_duration": 752.83
 }
