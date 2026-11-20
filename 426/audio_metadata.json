@@ -39,7 +39,7 @@
         },
         {
             "file": "426_10.webm",
-            "duration": 22.9
+            "duration": 22.6
         },
         {
             "file": "426_11.webm",
@@ -119,7 +119,7 @@
         },
         {
             "file": "426_30.webm",
-            "duration": 21.82
+            "duration": 23.18
         },
         {
             "file": "426_31.webm",
@@ -191,5 +191,5 @@
         }
     ],
     "total_files": 47,
-    "total_duration": 1119.25
+    "total_duration": 1120.3
 }
