@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "460_1.webm",
-            "duration": 31.6
+            "duration": 31.25
         },
         {
             "file": "460_2.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "460_17.webm",
-            "duration": 25.25
+            "duration": 25.02
         },
         {
             "file": "460_18.webm",
@@ -103,15 +103,15 @@
         },
         {
             "file": "460_26.webm",
-            "duration": 28.57
+            "duration": 28.25
         },
         {
             "file": "460_27.webm",
-            "duration": 22.48
+            "duration": 27.45
         },
         {
             "file": "460_28.webm",
-            "duration": 28.85
+            "duration": 24.02
         },
         {
             "file": "460_29.webm",
@@ -119,9 +119,9 @@
         },
         {
             "file": "460_30.webm",
-            "duration": 19.35
+            "duration": 19.18
         }
     ],
     "total_files": 30,
-    "total_duration": 759.4
+    "total_duration": 758.48
 }
