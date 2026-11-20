@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "459_1.webm",
-            "duration": 28.4
+            "duration": 28.32
         },
         {
             "file": "459_2.webm",
@@ -19,11 +19,11 @@
         },
         {
             "file": "459_5.webm",
-            "duration": 24.23
+            "duration": 24.15
         },
         {
             "file": "459_6.webm",
-            "duration": 22.23
+            "duration": 22.25
         },
         {
             "file": "459_7.webm",
@@ -111,5 +111,5 @@
         }
     ],
     "total_files": 27,
-    "total_duration": 681.23
+    "total_duration": 681.1
 }
