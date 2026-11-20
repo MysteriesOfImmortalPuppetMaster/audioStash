@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "331_1.webm",
-            "duration": 26.2
+            "duration": 26.18
         },
         {
             "file": "331_2.webm",
@@ -15,7 +15,7 @@
         },
         {
             "file": "331_4.webm",
-            "duration": 16.88
+            "duration": 16.95
         },
         {
             "file": "331_5.webm",
@@ -47,7 +47,7 @@
         },
         {
             "file": "331_12.webm",
-            "duration": 25.32
+            "duration": 25.3
         },
         {
             "file": "331_13.webm",
@@ -147,5 +147,5 @@
         }
     ],
     "total_files": 36,
-    "total_duration": 843.02
+    "total_duration": 843.05
 }
