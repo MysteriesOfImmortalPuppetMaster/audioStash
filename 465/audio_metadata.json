@@ -19,7 +19,7 @@
         },
         {
             "file": "465_5.webm",
-            "duration": 26.02
+            "duration": 26.0
         },
         {
             "file": "465_6.webm",
@@ -119,7 +119,7 @@
         },
         {
             "file": "465_30.webm",
-            "duration": 14.75
+            "duration": 14.72
         },
         {
             "file": "465_31.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 842.52
+    "total_duration": 842.48
 }
