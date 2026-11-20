@@ -3,15 +3,15 @@
     "audio_files": [
         {
             "file": "418_1.webm",
-            "duration": 23.35
+            "duration": 23.1
         },
         {
             "file": "418_2.webm",
-            "duration": 23.45
+            "duration": 23.32
         },
         {
             "file": "418_3.webm",
-            "duration": 27.6
+            "duration": 27.57
         },
         {
             "file": "418_4.webm",
@@ -63,7 +63,7 @@
         },
         {
             "file": "418_16.webm",
-            "duration": 25.12
+            "duration": 24.62
         },
         {
             "file": "418_17.webm",
@@ -75,7 +75,7 @@
         },
         {
             "file": "418_19.webm",
-            "duration": 27.55
+            "duration": 27.57
         },
         {
             "file": "418_20.webm",
@@ -83,15 +83,15 @@
         },
         {
             "file": "418_21.webm",
-            "duration": 20.95
+            "duration": 20.93
         },
         {
             "file": "418_22.webm",
-            "duration": 24.07
+            "duration": 23.27
         },
         {
             "file": "418_23.webm",
-            "duration": 20.5
+            "duration": 20.27
         },
         {
             "file": "418_24.webm",
@@ -107,15 +107,15 @@
         },
         {
             "file": "418_27.webm",
-            "duration": 26.2
+            "duration": 25.98
         },
         {
             "file": "418_28.webm",
-            "duration": 23.4
+            "duration": 23.12
         },
         {
             "file": "418_29.webm",
-            "duration": 18.55
+            "duration": 17.9
         },
         {
             "file": "418_30.webm",
@@ -123,11 +123,11 @@
         },
         {
             "file": "418_31.webm",
-            "duration": 27.23
+            "duration": 26.93
         },
         {
             "file": "418_32.webm",
-            "duration": 22.18
+            "duration": 21.95
         },
         {
             "file": "418_33.webm",
@@ -171,7 +171,7 @@
         },
         {
             "file": "418_43.webm",
-            "duration": 23.52
+            "duration": 23.55
         },
         {
             "file": "418_44.webm",
@@ -179,5 +179,5 @@
         }
     ],
     "total_files": 44,
-    "total_duration": 1034.4
+    "total_duration": 1030.83
 }
