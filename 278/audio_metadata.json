@@ -71,7 +71,7 @@
         },
         {
             "file": "278_18.webm",
-            "duration": 28.82
+            "duration": 28.85
         },
         {
             "file": "278_19.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "278_29.webm",
-            "duration": 27.1
+            "duration": 26.43
         },
         {
             "file": "278_30.webm",
@@ -147,5 +147,5 @@
         }
     ],
     "total_files": 36,
-    "total_duration": 845.15
+    "total_duration": 844.5
 }
