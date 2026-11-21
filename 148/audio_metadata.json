@@ -51,7 +51,7 @@
         },
         {
             "file": "148_13.webm",
-            "duration": 22.27
+            "duration": 22.25
         },
         {
             "file": "148_14.webm",
@@ -63,11 +63,11 @@
         },
         {
             "file": "148_16.webm",
-            "duration": 29.9
+            "duration": 29.95
         },
         {
             "file": "148_17.webm",
-            "duration": 22.7
+            "duration": 24.1
         },
         {
             "file": "148_18.webm",
@@ -75,7 +75,7 @@
         },
         {
             "file": "148_19.webm",
-            "duration": 22.25
+            "duration": 23.43
         },
         {
             "file": "148_20.webm",
@@ -131,5 +131,5 @@
         }
     ],
     "total_files": 32,
-    "total_duration": 759.45
+    "total_duration": 762.05
 }
