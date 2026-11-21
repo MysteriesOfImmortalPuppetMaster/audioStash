@@ -15,7 +15,7 @@
         },
         {
             "file": "110_4.webm",
-            "duration": 24.48
+            "duration": 24.4
         },
         {
             "file": "110_5.webm",
@@ -39,7 +39,7 @@
         },
         {
             "file": "110_10.webm",
-            "duration": 27.65
+            "duration": 27.68
         },
         {
             "file": "110_11.webm",
@@ -55,7 +55,7 @@
         },
         {
             "file": "110_14.webm",
-            "duration": 23.93
+            "duration": 23.9
         },
         {
             "file": "110_15.webm",
@@ -107,5 +107,5 @@
         }
     ],
     "total_files": 26,
-    "total_duration": 619.08
+    "total_duration": 619.0
 }
