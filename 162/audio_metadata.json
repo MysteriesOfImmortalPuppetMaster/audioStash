@@ -47,15 +47,15 @@
         },
         {
             "file": "162_12.webm",
-            "duration": 20.9
+            "duration": 20.93
         },
         {
             "file": "162_13.webm",
-            "duration": 25.7
+            "duration": 28.3
         },
         {
             "file": "162_14.webm",
-            "duration": 27.25
+            "duration": 28.3
         },
         {
             "file": "162_15.webm",
@@ -103,5 +103,5 @@
         }
     ],
     "total_files": 25,
-    "total_duration": 579.33
+    "total_duration": 583.0
 }
