@@ -15,7 +15,7 @@
         },
         {
             "file": "301_4.webm",
-            "duration": 22.05
+            "duration": 22.18
         },
         {
             "file": "301_5.webm",
@@ -27,7 +27,7 @@
         },
         {
             "file": "301_7.webm",
-            "duration": 25.27
+            "duration": 25.25
         },
         {
             "file": "301_8.webm",
@@ -67,11 +67,11 @@
         },
         {
             "file": "301_17.webm",
-            "duration": 22.48
+            "duration": 22.55
         },
         {
             "file": "301_18.webm",
-            "duration": 25.35
+            "duration": 25.5
         },
         {
             "file": "301_19.webm",
@@ -143,9 +143,9 @@
         },
         {
             "file": "301_36.webm",
-            "duration": 32.3
+            "duration": 32.27
         }
     ],
     "total_files": 36,
-    "total_duration": 835.77
+    "total_duration": 836.08
 }
