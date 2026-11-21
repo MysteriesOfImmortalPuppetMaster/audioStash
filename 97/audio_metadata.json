@@ -19,7 +19,7 @@
         },
         {
             "file": "97_5.webm",
-            "duration": 25.4
+            "duration": 26.07
         },
         {
             "file": "97_6.webm",
@@ -43,7 +43,7 @@
         },
         {
             "file": "97_11.webm",
-            "duration": 23.62
+            "duration": 24.1
         },
         {
             "file": "97_12.webm",
@@ -75,7 +75,7 @@
         },
         {
             "file": "97_19.webm",
-            "duration": 24.9
+            "duration": 25.27
         },
         {
             "file": "97_20.webm",
@@ -135,5 +135,5 @@
         }
     ],
     "total_files": 33,
-    "total_duration": 829.95
+    "total_duration": 831.48
 }
