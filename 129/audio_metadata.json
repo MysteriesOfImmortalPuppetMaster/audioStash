@@ -67,7 +67,7 @@
         },
         {
             "file": "129_17.webm",
-            "duration": 23.75
+            "duration": 23.73
         },
         {
             "file": "129_18.webm",
@@ -119,5 +119,5 @@
         }
     ],
     "total_files": 29,
-    "total_duration": 734.88
+    "total_duration": 734.85
 }
