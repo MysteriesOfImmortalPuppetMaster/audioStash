@@ -95,7 +95,7 @@
         },
         {
             "file": "180_24.webm",
-            "duration": 29.95
+            "duration": 29.38
         },
         {
             "file": "180_25.webm",
@@ -135,5 +135,5 @@
         }
     ],
     "total_files": 33,
-    "total_duration": 831.4
+    "total_duration": 830.83
 }
