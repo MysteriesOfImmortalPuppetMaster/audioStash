@@ -3,7 +3,7 @@
     "audio_files": [
         {
             "file": "112_1.webm",
-            "duration": 29.27
+            "duration": 29.23
         },
         {
             "file": "112_2.webm",
@@ -123,5 +123,5 @@
         }
     ],
     "total_files": 30,
-    "total_duration": 688.55
+    "total_duration": 688.5
 }
