@@ -7,15 +7,15 @@
         },
         {
             "file": "189_2.webm",
-            "duration": 24.73
+            "duration": 26.07
         },
         {
             "file": "189_3.webm",
-            "duration": 22.52
+            "duration": 23.6
         },
         {
             "file": "189_4.webm",
-            "duration": 23.93
+            "duration": 25.15
         },
         {
             "file": "189_5.webm",
@@ -39,7 +39,7 @@
         },
         {
             "file": "189_10.webm",
-            "duration": 26.48
+            "duration": 26.5
         },
         {
             "file": "189_11.webm",
@@ -147,5 +147,5 @@
         }
     ],
     "total_files": 36,
-    "total_duration": 875.85
+    "total_duration": 879.52
 }
