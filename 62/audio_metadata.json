@@ -15,7 +15,7 @@
         },
         {
             "file": "62_4.webm",
-            "duration": 22.1
+            "duration": 22.12
         },
         {
             "file": "62_5.webm",
@@ -35,7 +35,7 @@
         },
         {
             "file": "62_9.webm",
-            "duration": 25.98
+            "duration": 26.02
         },
         {
             "file": "62_10.webm",
@@ -43,7 +43,7 @@
         },
         {
             "file": "62_11.webm",
-            "duration": 24.12
+            "duration": 24.1
         },
         {
             "file": "62_12.webm",
@@ -95,5 +95,5 @@
         }
     ],
     "total_files": 23,
-    "total_duration": 582.92
+    "total_duration": 582.98
 }
