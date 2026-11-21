@@ -15,19 +15,19 @@
         },
         {
             "file": "115_4.webm",
-            "duration": 23.68
+            "duration": 28.02
         },
         {
             "file": "115_5.webm",
-            "duration": 23.75
+            "duration": 27.4
         },
         {
             "file": "115_6.webm",
-            "duration": 27.1
+            "duration": 18.6
         },
         {
             "file": "115_7.webm",
-            "duration": 26.9
+            "duration": 26.57
         },
         {
             "file": "115_8.webm",
@@ -43,7 +43,7 @@
         },
         {
             "file": "115_11.webm",
-            "duration": 25.48
+            "duration": 26.68
         },
         {
             "file": "115_12.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "115_15.webm",
-            "duration": 28.45
+            "duration": 28.3
         },
         {
             "file": "115_16.webm",
@@ -91,7 +91,7 @@
         },
         {
             "file": "115_23.webm",
-            "duration": 25.25
+            "duration": 26.25
         },
         {
             "file": "115_24.webm",
@@ -99,15 +99,15 @@
         },
         {
             "file": "115_25.webm",
-            "duration": 30.7
+            "duration": 30.45
         },
         {
             "file": "115_26.webm",
-            "duration": 29.55
+            "duration": 29.4
         },
         {
             "file": "115_27.webm",
-            "duration": 25.77
+            "duration": 25.52
         },
         {
             "file": "115_28.webm",
@@ -127,17 +127,17 @@
         },
         {
             "file": "115_32.webm",
-            "duration": 27.45
+            "duration": 27.12
         },
         {
             "file": "115_33.webm",
-            "duration": 25.5
+            "duration": 25.32
         },
         {
             "file": "115_34.webm",
-            "duration": 24.07
+            "duration": 26.18
         }
     ],
     "total_files": 34,
-    "total_duration": 842.7
+    "total_duration": 844.88
 }
