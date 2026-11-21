@@ -7,7 +7,7 @@
         },
         {
             "file": "304_2.webm",
-            "duration": 19.73
+            "duration": 20.88
         },
         {
             "file": "304_3.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "304_17.webm",
-            "duration": 27.82
+            "duration": 27.85
         },
         {
             "file": "304_18.webm",
@@ -123,5 +123,5 @@
         }
     ],
     "total_files": 30,
-    "total_duration": 734.2
+    "total_duration": 735.38
 }
