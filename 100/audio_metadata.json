@@ -71,15 +71,15 @@
         },
         {
             "file": "100_18.webm",
-            "duration": 26.15
+            "duration": 26.62
         },
         {
             "file": "100_19.webm",
-            "duration": 28.65
+            "duration": 28.25
         },
         {
             "file": "100_20.webm",
-            "duration": 21.68
+            "duration": 21.65
         },
         {
             "file": "100_21.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "100_22.webm",
-            "duration": 21.45
+            "duration": 21.48
         },
         {
             "file": "100_23.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 870.33
+    "total_duration": 870.4
 }
