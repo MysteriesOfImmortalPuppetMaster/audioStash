@@ -103,7 +103,7 @@
         },
         {
             "file": "313_26.webm",
-            "duration": 26.25
+            "duration": 27.45
         },
         {
             "file": "313_27.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "313_29.webm",
-            "duration": 26.32
+            "duration": 26.43
         },
         {
             "file": "313_30.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 880.23
+    "total_duration": 881.52
 }
