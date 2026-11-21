@@ -11,7 +11,7 @@
         },
         {
             "file": "68_3.webm",
-            "duration": 25.8
+            "duration": 25.55
         },
         {
             "file": "68_4.webm",
@@ -55,7 +55,7 @@
         },
         {
             "file": "68_14.webm",
-            "duration": 23.38
+            "duration": 22.95
         },
         {
             "file": "68_15.webm",
@@ -91,5 +91,5 @@
         }
     ],
     "total_files": 22,
-    "total_duration": 542.8
+    "total_duration": 542.12
 }
