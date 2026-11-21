@@ -23,7 +23,7 @@
         },
         {
             "file": "310_6.webm",
-            "duration": 27.05
+            "duration": 27.02
         },
         {
             "file": "310_7.webm",
@@ -135,5 +135,5 @@
         }
     ],
     "total_files": 33,
-    "total_duration": 737.9
+    "total_duration": 737.88
 }
