@@ -3,15 +3,15 @@
     "audio_files": [
         {
             "file": "101_1.webm",
-            "duration": 29.43
+            "duration": 29.55
         },
         {
             "file": "101_2.webm",
-            "duration": 18.9
+            "duration": 18.88
         },
         {
             "file": "101_3.webm",
-            "duration": 25.98
+            "duration": 26.05
         },
         {
             "file": "101_4.webm",
@@ -27,7 +27,7 @@
         },
         {
             "file": "101_7.webm",
-            "duration": 21.18
+            "duration": 21.05
         },
         {
             "file": "101_8.webm",
@@ -111,5 +111,5 @@
         }
     ],
     "total_files": 27,
-    "total_duration": 652.38
+    "total_duration": 652.42
 }
