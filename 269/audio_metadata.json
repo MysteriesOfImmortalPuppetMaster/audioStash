@@ -23,19 +23,19 @@
         },
         {
             "file": "269_6.webm",
-            "duration": 20.02
+            "duration": 29.15
         },
         {
             "file": "269_7.webm",
-            "duration": 31.0
+            "duration": 30.05
         },
         {
             "file": "269_8.webm",
-            "duration": 28.45
+            "duration": 26.18
         },
         {
             "file": "269_9.webm",
-            "duration": 27.38
+            "duration": 21.12
         },
         {
             "file": "269_10.webm",
@@ -91,7 +91,7 @@
         },
         {
             "file": "269_23.webm",
-            "duration": 23.43
+            "duration": 23.4
         },
         {
             "file": "269_24.webm",
@@ -139,5 +139,5 @@
         }
     ],
     "total_files": 34,
-    "total_duration": 851.23
+    "total_duration": 850.85
 }
