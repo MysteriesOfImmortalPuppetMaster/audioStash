@@ -107,7 +107,7 @@
         },
         {
             "file": "88_27.webm",
-            "duration": 28.95
+            "duration": 28.48
         },
         {
             "file": "88_28.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "88_29.webm",
-            "duration": 25.68
+            "duration": 25.7
         },
         {
             "file": "88_30.webm",
@@ -139,5 +139,5 @@
         }
     ],
     "total_files": 34,
-    "total_duration": 852.8
+    "total_duration": 852.35
 }
