@@ -27,7 +27,7 @@
         },
         {
             "file": "80_7.webm",
-            "duration": 18.18
+            "duration": 17.82
         },
         {
             "file": "80_8.webm",
@@ -51,7 +51,7 @@
         },
         {
             "file": "80_13.webm",
-            "duration": 25.6
+            "duration": 25.55
         },
         {
             "file": "80_14.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "80_15.webm",
-            "duration": 24.18
+            "duration": 23.7
         },
         {
             "file": "80_16.webm",
@@ -67,7 +67,7 @@
         },
         {
             "file": "80_17.webm",
-            "duration": 27.73
+            "duration": 27.25
         },
         {
             "file": "80_18.webm",
@@ -107,5 +107,5 @@
         }
     ],
     "total_files": 26,
-    "total_duration": 641.52
+    "total_duration": 640.17
 }
