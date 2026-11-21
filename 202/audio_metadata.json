@@ -31,7 +31,7 @@
         },
         {
             "file": "202_8.webm",
-            "duration": 22.3
+            "duration": 22.32
         },
         {
             "file": "202_9.webm",
@@ -83,7 +83,7 @@
         },
         {
             "file": "202_21.webm",
-            "duration": 24.3
+            "duration": 25.38
         },
         {
             "file": "202_22.webm",
@@ -135,5 +135,5 @@
         }
     ],
     "total_files": 33,
-    "total_duration": 819.08
+    "total_duration": 820.17
 }
