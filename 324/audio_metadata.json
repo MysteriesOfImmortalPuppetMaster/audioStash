@@ -3,11 +3,11 @@
     "audio_files": [
         {
             "file": "324_1.webm",
-            "duration": 26.77
+            "duration": 26.52
         },
         {
             "file": "324_2.webm",
-            "duration": 23.45
+            "duration": 23.52
         },
         {
             "file": "324_3.webm",
@@ -15,7 +15,7 @@
         },
         {
             "file": "324_4.webm",
-            "duration": 24.45
+            "duration": 24.4
         },
         {
             "file": "324_5.webm",
@@ -47,7 +47,7 @@
         },
         {
             "file": "324_12.webm",
-            "duration": 27.38
+            "duration": 27.32
         },
         {
             "file": "324_13.webm",
@@ -135,5 +135,5 @@
         }
     ],
     "total_files": 33,
-    "total_duration": 814.77
+    "total_duration": 814.5
 }
