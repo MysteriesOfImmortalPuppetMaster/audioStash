@@ -63,7 +63,7 @@
         },
         {
             "file": "235_16.webm",
-            "duration": 20.57
+            "duration": 20.55
         },
         {
             "file": "235_17.webm",
@@ -107,15 +107,15 @@
         },
         {
             "file": "235_27.webm",
-            "duration": 19.2
+            "duration": 20.52
         },
         {
             "file": "235_28.webm",
-            "duration": 26.77
+            "duration": 25.07
         },
         {
             "file": "235_29.webm",
-            "duration": 22.27
+            "duration": 24.25
         },
         {
             "file": "235_30.webm",
@@ -127,5 +127,5 @@
         }
     ],
     "total_files": 31,
-    "total_duration": 708.9
+    "total_duration": 710.48
 }
