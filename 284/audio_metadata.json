@@ -39,7 +39,7 @@
         },
         {
             "file": "284_10.webm",
-            "duration": 24.27
+            "duration": 25.27
         },
         {
             "file": "284_11.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "284_22.webm",
-            "duration": 21.07
+            "duration": 22.55
         },
         {
             "file": "284_23.webm",
@@ -119,5 +119,5 @@
         }
     ],
     "total_files": 29,
-    "total_duration": 673.7
+    "total_duration": 676.17
 }
