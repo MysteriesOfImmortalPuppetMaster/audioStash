@@ -67,7 +67,7 @@
         },
         {
             "file": "221_17.webm",
-            "duration": 21.9
+            "duration": 23.5
         },
         {
             "file": "221_18.webm",
@@ -99,7 +99,7 @@
         },
         {
             "file": "221_25.webm",
-            "duration": 26.0
+            "duration": 27.27
         },
         {
             "file": "221_26.webm",
@@ -111,7 +111,7 @@
         },
         {
             "file": "221_28.webm",
-            "duration": 22.7
+            "duration": 24.05
         },
         {
             "file": "221_29.webm",
@@ -119,7 +119,7 @@
         },
         {
             "file": "221_30.webm",
-            "duration": 23.98
+            "duration": 25.12
         },
         {
             "file": "221_31.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 892.98
+    "total_duration": 898.35
 }
