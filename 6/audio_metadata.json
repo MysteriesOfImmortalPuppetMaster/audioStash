@@ -63,7 +63,7 @@
         },
         {
             "file": "6_16.webm",
-            "duration": 26.48
+            "duration": 26.5
         },
         {
             "file": "6_17.webm",
@@ -87,7 +87,7 @@
         },
         {
             "file": "6_22.webm",
-            "duration": 22.77
+            "duration": 22.75
         },
         {
             "file": "6_23.webm",
@@ -115,7 +115,7 @@
         },
         {
             "file": "6_29.webm",
-            "duration": 20.6
+            "duration": 20.57
         },
         {
             "file": "6_30.webm",
@@ -131,9 +131,9 @@
         },
         {
             "file": "6_33.webm",
-            "duration": 17.88
+            "duration": 17.85
         }
     ],
     "total_files": 33,
-    "total_duration": 782.58
+    "total_duration": 782.52
 }
