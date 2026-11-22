@@ -3,27 +3,27 @@
     "audio_files": [
         {
             "file": "33_1.webm",
-            "duration": 31.93
+            "duration": 26.65
         },
         {
             "file": "33_2.webm",
-            "duration": 25.15
+            "duration": 25.85
         },
         {
             "file": "33_3.webm",
-            "duration": 26.25
+            "duration": 26.77
         },
         {
             "file": "33_4.webm",
-            "duration": 25.02
+            "duration": 27.07
         },
         {
             "file": "33_5.webm",
-            "duration": 28.6
+            "duration": 27.3
         },
         {
             "file": "33_6.webm",
-            "duration": 24.02
+            "duration": 28.65
         },
         {
             "file": "33_7.webm",
@@ -95,5 +95,5 @@
         }
     ],
     "total_files": 23,
-    "total_duration": 567.38
+    "total_duration": 568.7
 }
