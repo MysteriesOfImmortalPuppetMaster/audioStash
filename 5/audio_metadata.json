@@ -31,7 +31,7 @@
         },
         {
             "file": "5_8.webm",
-            "duration": 25.98
+            "duration": 25.95
         },
         {
             "file": "5_9.webm",
@@ -143,5 +143,5 @@
         }
     ],
     "total_files": 35,
-    "total_duration": 824.73
+    "total_duration": 824.7
 }
