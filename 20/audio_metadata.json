@@ -19,7 +19,7 @@
         },
         {
             "file": "20_5.webm",
-            "duration": 27.5
+            "duration": 27.6
         },
         {
             "file": "20_6.webm",
@@ -35,11 +35,11 @@
         },
         {
             "file": "20_9.webm",
-            "duration": 29.07
+            "duration": 25.57
         },
         {
             "file": "20_10.webm",
-            "duration": 20.95
+            "duration": 24.55
         },
         {
             "file": "20_11.webm",
@@ -59,7 +59,7 @@
         },
         {
             "file": "20_15.webm",
-            "duration": 28.27
+            "duration": 28.32
         },
         {
             "file": "20_16.webm",
@@ -99,5 +99,5 @@
         }
     ],
     "total_files": 24,
-    "total_duration": 586.33
+    "total_duration": 586.58
 }
